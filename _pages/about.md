@@ -10,7 +10,9 @@ redirect_from:
 
 I am currently pursuing a PhD degree (after two years) in the [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/). I received my Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018.  Up to now, I have published several papers in the top conferences (e.g., ACL, EMNLP, etc.), and won prizes in data competitions. 
 
-My main research interests include event extraction, information extraction and knowledge acquisition.
+My main research interests include **event extraction**, **information extraction** and **knowledge graph completion**.
+
+Now, I am looking for a research intern / preparing for NLP algorithm engineer recruit. Please email me. 
 
 
 # Publications
