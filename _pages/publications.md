@@ -6,6 +6,15 @@ author_profile: true
 
 # 2022
 
+
+- **Event Causality Extraction with Event Argument Correlations.**<br>
+  Shiyao Cui, **Jiawei Sheng**, Xin Cong, Quangang Li, Tingwen Liu, Jinqiao Shi.
+  *In Proceedings of the 29th International Conference on Computational Linguistics, Gyeongju, Republic of Korea, October 12-17, 2022 (**COLING 2022**, CCF-B)*
+
+- **Contrastive Cross-Domain Sequential Recommendation.**<br>
+  Jiangxia Cao, Xin Cong, **Jiawei Sheng**, Tingwen Liu, Bin Wang.
+  *In Proceedings of the 31st ACM International Conference on Information & Knowledge Management, Atlanta, GA, USA, October 17-21, 2022. (**CIKM 2022**, CCF-B)*
+
 - **Enhancing Pre-Trained Language Representations Based on Contrastive Learning for Unsupervised Keyphrase Extraction.**<br>
   Zhaohui Wang, Xinghua Zhang, Yanzeng Li, Yubin Wang, **Jiawei Sheng**, Tingwen Liu and Hongbo Xu.
   *In Proceedings of the 34th International Conference on Software Engineering & Knowledge Engineering. (**SEKE 2022**, CCF-C)*
