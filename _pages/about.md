@@ -13,7 +13,7 @@ I received my Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn
 My main research interests include **event extraction**, **information extraction** and **knowledge graph completion.**
 Now, I am preparing for NLP algorithm engineer recruit.  -->
 
-Jiawei Sheng is now a Tenure-track Associate Researcher at [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/).
+Jiawei Sheng is now a Tenure-track Associate Researcher (预聘副高) at [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/).
 Before that, he received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2023, and received the Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018.  
 
 His main research interests include **information extraction**, **knowledge acquisition** and **graph data mining**.
