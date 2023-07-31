@@ -17,8 +17,13 @@ Jiawei Sheng is now a Tenure-track Associate Researcher at [Institute of Informa
 Before that, he received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2023, and received the Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018.  
 
 His main research interests include **information extraction**, **knowledge acquisition** and **graph data mining**.
-
 Up to now, he has published several papers in the top conferences, such as ACL, SIGIR, EMNLP. 
+
+## Professional Services
+
+- Conference PC member: AAAI-23/24, SIGIR-23, SIGIR-AP-23, CIKM-23, ICASSP-23, ECML-PKDD-22/23, etc.
+
+- Journal Reviewer: ESWA.
 
 # Selected Publications
 
@@ -49,31 +54,24 @@ Up to now, he has published several papers in the top conferences, such as ACL, 
   *In Proceedings of the 30th Web Conference. (**WWW 2021**, CCF-A)*
 
 
-## Professional Services
-
-Conference PC member: AAAI-23/24, SIGIR-23, SIGIR-AP-23, CIKM-23, ICASSP-23, ECML-PKDD-22/23, etc.
-
-Journal Reviewer: ESWA.
-
-
 ## Honors and Awards
 
-The **Zhuli Yuehua outstanding doctoral scholarship, Chinese Academy of Sciences** at 2022.
+- The **Zhuli Yuehua outstanding doctoral scholarship, Chinese Academy of Sciences** at 2022.
 
-The **Top 1 Winner** of CCKS 2021 Competition: Fine-grained Event Detection Competition, Chinese Information Processing Society of China. 2021.
+- The **Top 1 Winner** of CCKS 2021 Competition: Fine-grained Event Detection Competition, Chinese Information Processing Society of China. 2021.
 
-The **Technological Innovation Award** of CCKS 2021 Competition: Fine-grained Event Detection Competition, Chinese Information Processing Society of China. 2021.
+- The **Technological Innovation Award** of CCKS 2021 Competition: Fine-grained Event Detection Competition, Chinese Information Processing Society of China. 2021.
 
-The **Top 1 Winner** of CCKS 2020 Competition: Few-shot Cross-domain Event Extraction Competition, Chinese Information Processing Society of China. 2020.
+- The **Top 1 Winner** of CCKS 2020 Competition: Few-shot Cross-domain Event Extraction Competition, Chinese Information Processing Society of China. 2020.
 
-The **Technological Innovation Award** of CCKS 2020 Competition: Few-shot Cross-domain Event Extraction Competition, Chinese Information Processing Society of China. 2020.
+- The **Technological Innovation Award** of CCKS 2020 Competition: Few-shot Cross-domain Event Extraction Competition, Chinese Information Processing Society of China. 2020.
 
 
 
 
 ## Competitions
 
-[CCKS 2021: Fine-grained Event Detection Competition](http://sigkg.cn/ccks2021/), Rank 1/253 (Team leader)
+- [CCKS 2021: Fine-grained Event Detection Competition](http://sigkg.cn/ccks2021/), Rank 1/253 (Team leader)
 
-[CCKS 2020: Few-shot Cross-domain Event Extraction Competition](http://sigkg.cn/ccks2020/?page_id=69#task4), Rank: 1/391 (Team leader)
+- [CCKS 2020: Few-shot Cross-domain Event Extraction Competition](http://sigkg.cn/ccks2020/?page_id=69#task4), Rank: 1/391 (Team leader)
 
