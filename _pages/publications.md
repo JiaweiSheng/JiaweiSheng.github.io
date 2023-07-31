@@ -7,9 +7,13 @@ author_profile: true
 
 # 2023
 
+- **Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification.**<br>
+  **Jiawei Sheng**, Xin Cong, Jiangxia Cao, Shu Guo, Chen Li, Lihong Wang, Tingwen Liu, Hongbo Xu
+  *In Proceedings of the European Conference on Artificial Intelligence (**ECAI 2023**, CCF-B)*
+
 - **Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment.**<br>
   Qian Li, Shu Guo, Yangyifei Luo, Cheng Ji, Lihong Wang, **Jiawei Sheng**, Jianxin Li.
-  *2023 International World Wide Web Conference (**WWW 2023**, CCF-A)*
+  *In Proceedings of the 2023 International World Wide Web Conference (**WWW 2023**, CCF-A)*
 
 - **Event Extraction by Associating Event Types and Argument Roles.**<br>
   Qian Li, Shu Guo, Jia Wu, Senior Member, IEEE, Jianxin Li, **Jiawei Sheng**, Hao Peng, and Lihong Wang.
