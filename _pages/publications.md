@@ -1,15 +1,29 @@
 ---
-title: "Publications [[Google Scholar Profile]](https://scholar.google.com/citations?user=CcPWJCYAAAAJ)"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 --- 
 
+
+# 2023
+
+- **Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment.**<br>
+  Qian Li, Shu Guo, Yangyifei Luo, Cheng Ji, Lihong Wang, **Jiawei Sheng**, Jianxin Li.
+  *2023 International World Wide Web Conference (**WWW 2023**, CCF-A)*
+
+- **Event Extraction by Associating Event Types and Argument Roles.**<br>
+  Qian Li, Shu Guo, Jia Wu, Senior Member, IEEE, Jianxin Li, **Jiawei Sheng**, Hao Peng, and Lihong Wang.
+  *IEEE Transactions on Big Data (TBD). 2023. (**TBD 2022**, CCF-C journal)*
+
 # 2022
 
+- **A Survey on Deep Learning Event Extraction: Approaches and Applications.**<br>
+  Qian Li, Jianxin Li, **Jiawei Sheng**, Shiyao Cui, Jia Wu, Yiming Hei, Hao Peng, Shu Guo, Lihong Wang, Amin Beheshti, Philip S. Yu.
+  *IEEE Transactions on Neural Networks and Learning Systems, 2022. (**TNNLS 2022**, CCF-B journal)*
 
 - **Event Causality Extraction with Event Argument Correlations.**<br>
   Shiyao Cui, **Jiawei Sheng**, Xin Cong, Quangang Li, Tingwen Liu, Jinqiao Shi.
-  *In Proceedings of the 29th International Conference on Computational Linguistics, Gyeongju, Republic of Korea, October 12-17, 2022 (**COLING 2022**, CCF-B)*
+  *In Proceedings of the 29th International Conference on Computational Linguistics, Gyeongju, Republic of Korea, October 12-17, 2022. (**COLING 2022**, CCF-B)*
 
 - **Contrastive Cross-Domain Sequential Recommendation.**<br>
   Jiangxia Cao, Xin Cong, **Jiawei Sheng**, Tingwen Liu, Bin Wang.

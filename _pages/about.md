@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a PhD degree (the 4/5 year) in the [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/). I received my Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018.  Up to now, I have published several papers in the top conferences (e.g., ACL, SIGIR, EMNLP, etc.), and won prizes in data competitions. 
-
+<!-- I am currently pursuing a PhD degree (the 4/5 year) in the [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/). 
+I received my Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018.  Up to now, I have published several papers in the top conferences (e.g., ACL, SIGIR, EMNLP, etc.), and won prizes in data competitions. 
 My main research interests include **event extraction**, **information extraction** and **knowledge graph completion.**
-Now, I am preparing for NLP algorithm engineer recruit. 
+Now, I am preparing for NLP algorithm engineer recruit.  -->
 
-<!-- Now, I am looking for a research intern / preparing for NLP algorithm engineer recruit. Please email me if appropriate.  -->
+Jiawei Sheng is a Tenure-track Associate Researcher at [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/).
+Before that, he received his Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2023, and received his Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018.  
+His main research interests include **information extraction**, **knowledge acquisition** and **graph data mining**.
+Up to now, he has published several papers in the top conferences, such as ACL, SIGIR, EMNLP. 
 
 # Selected Publications -> [Full Publications](/publications/)
 
@@ -29,10 +32,6 @@ Now, I am preparing for NLP algorithm engineer recruit.
 - **Adaptive Attentional Network for Few-Shot Knowledge Graph Completion.**<br>
   **Jiawei Sheng**, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu, Hongbo Xu. 
   *In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing. (**EMNLP 2020**, CCF-B)*
-
-- **A Joint Learning Framework for the CCKS-2020 Financial Event Extraction Task.**<br>
-  **Jiawei Sheng**, Qian Li, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He, Tingwen Liu, Hongbo Xu.
-  *Data Intelligence. (DI 2021, EI)*
 
 - **Cross-Domain Recommendation to Cold-Start Users via Variational Information Bottleneck.**<br>
   Jiangxia Cao, **Jiawei Sheng**, Xin Cong, Tingwen Liu and Bin Wang. 
@@ -50,6 +49,8 @@ Now, I am preparing for NLP algorithm engineer recruit.
 
 ## Awards
 
+The **Zhuli Yuehua outstanding doctoral scholarship, Chinese Academy of Sciences** at 2022.
+
 The **Top 1 Winner** of CCKS 2021 Competition: Fine-grained Event Detection Competition, Chinese Information Processing Society of China. 2021.
 
 The **Technological Innovation Award** of CCKS 2021 Competition: Fine-grained Event Detection Competition, Chinese Information Processing Society of China. 2021.
@@ -61,7 +62,7 @@ The **Technological Innovation Award** of CCKS 2020 Competition: Few-shot Cross-
 
 ## Competitions
 
-[CCKS 2021: Fine-grained Event Detection Competition](http://sigkg.cn/ccks2021/), Rank 1/253 (Team Supervisor)
+[CCKS 2021: Fine-grained Event Detection Competition](http://sigkg.cn/ccks2021/), Rank 1/253 (Team leader)
 
 [CCKS 2020: Few-shot Cross-domain Event Extraction Competition](http://sigkg.cn/ccks2020/?page_id=69#task4), Rank: 1/391 (Team leader)
 
