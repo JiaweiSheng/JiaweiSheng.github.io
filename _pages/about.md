@@ -13,12 +13,14 @@ I received my Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn
 My main research interests include **event extraction**, **information extraction** and **knowledge graph completion.**
 Now, I am preparing for NLP algorithm engineer recruit.  -->
 
-Jiawei Sheng is a Tenure-track Associate Researcher at [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/).
-Before that, he received his Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2023, and received his Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018.  
+Jiawei Sheng is now a Tenure-track Associate Researcher at [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/).
+Before that, he received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2023, and received the Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018.  
+
 His main research interests include **information extraction**, **knowledge acquisition** and **graph data mining**.
+
 Up to now, he has published several papers in the top conferences, such as ACL, SIGIR, EMNLP. 
 
-# Selected Publications -> [Full Publications](/publications/)
+# Selected Publications
 
 - **CorED: Incorporating Type-level and Instance-level Correlations for Fine-grained Event Detection.**<br>
   **Jiawei Sheng**, Rui Sun, Shu Guo, Shiyao Cui, Jiangxia Cao, Lihong Wang, Tingwen Liu and Hongbo Xu.
@@ -47,7 +49,14 @@ Up to now, he has published several papers in the top conferences, such as ACL, 
   *In Proceedings of the 30th Web Conference. (**WWW 2021**, CCF-A)*
 
 
-## Awards
+## Professional Services
+
+Conference PC member: AAAI-23/24, SIGIR-23, SIGIR-AP-23, CIKM-23, ICASSP-23, ECML-PKDD-22/23, etc.
+
+Journal Reviewer: ESWA.
+
+
+## Honors and Awards
 
 The **Zhuli Yuehua outstanding doctoral scholarship, Chinese Academy of Sciences** at 2022.
 
@@ -58,6 +67,8 @@ The **Technological Innovation Award** of CCKS 2021 Competition: Fine-grained Ev
 The **Top 1 Winner** of CCKS 2020 Competition: Few-shot Cross-domain Event Extraction Competition, Chinese Information Processing Society of China. 2020.
 
 The **Technological Innovation Award** of CCKS 2020 Competition: Few-shot Cross-domain Event Extraction Competition, Chinese Information Processing Society of China. 2020.
+
+
 
 
 ## Competitions
