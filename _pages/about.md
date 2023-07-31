@@ -15,11 +15,10 @@ Now, I am preparing for NLP algorithm engineer recruit.  -->
 
 Jiawei Sheng is now a Tenure-track Associate Researcher (预聘副研) at [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/).
 Before that, he received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2023, and received the Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018.  
-
-His main research interests include **information extraction**, **knowledge acquisition** and **graph data mining**.
+His main research interests include **information extraction**, **knowledge graph completion** and **knowledge acquisition**.
 Up to now, he has published several papers in the top conferences, such as ACL, SIGIR, EMNLP. 
 
-## Professional Services
+# Professional Services
 
 - Conference PC member: AAAI-23/24, SIGIR-23, SIGIR-AP-23, CIKM-23, ICASSP-23, ECML-PKDD-22/23, etc.
 
@@ -54,7 +53,7 @@ Up to now, he has published several papers in the top conferences, such as ACL, 
   *In Proceedings of the 30th Web Conference. (**WWW 2021**, CCF-A)*
 
 
-## Honors and Awards
+# Honors and Awards
 
 - The **Zhuli Yuehua outstanding doctoral scholarship, Chinese Academy of Sciences** at 2022.
 
@@ -69,7 +68,7 @@ Up to now, he has published several papers in the top conferences, such as ACL, 
 
 
 
-## Competitions
+# Competitions
 
 - [CCKS 2021: Fine-grained Event Detection Competition](http://sigkg.cn/ccks2021/), Rank 1/253 (Team leader)
 
