@@ -7,6 +7,10 @@ author_profile: true
 
 # 2023
 
+- **ID-MixGCL: Identity Mixup for Graph Contrastive Learning.**<br>
+  Gehang Zhang, Bowen Yu, Jiangxia Cao, Xinghua Zhang, **Jiawei Sheng(\*)**, Chuan Zhou, and Tingwen Liu
+  *In Proceedings of the 2023 IEEE International Conference on Big Data (**Bigdata 2024**, CCF-C)*
+
 - **Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification.**<br>
   **Jiawei Sheng**, Xin Cong, Jiangxia Cao, Shu Guo, Chen Li, Lihong Wang, Tingwen Liu, Hongbo Xu
   *In Proceedings of the European Conference on Artificial Intelligence (**ECAI 2023**, CCF-B)*
@@ -75,7 +79,7 @@ author_profile: true
 
 - **A Joint Learning Framework for the CCKS-2020 Financial Event Extraction Task.**<br>
   **Jiawei Sheng**, Qian Li, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He, Tingwen Liu, Hongbo Xu.
-  *Data Intelligence. (DI 2021, EI)*
+  *Data Intelligence. (DI 2021, SCI)*
 
 # 2020
 - **Adaptive Attentional Network for Few-Shot Knowledge Graph Completion.**<br>
