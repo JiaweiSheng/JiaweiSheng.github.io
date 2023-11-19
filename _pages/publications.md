@@ -8,8 +8,8 @@ author_profile: true
 # 2023
 
 - **ID-MixGCL: Identity Mixup for Graph Contrastive Learning.**<br>
-  Gehang Zhang, Bowen Yu, Jiangxia Cao, Xinghua Zhang, **Jiawei Sheng(\*)**, Chuan Zhou, and Tingwen Liu
-  *In Proceedings of the 2023 IEEE International Conference on Big Data (**Bigdata 2024**, CCF-C)*
+  Gehang Zhang, Bowen Yu, Jiangxia Cao, Xinghua Zhang, **Jiawei Sheng\***, Chuan Zhou, and Tingwen Liu
+  *In Proceedings of the 2023 IEEE International Conference on Big Data (**Bigdata 2023**, CCF-C)*
 
 - **Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification.**<br>
   **Jiawei Sheng**, Xin Cong, Jiangxia Cao, Shu Guo, Chen Li, Lihong Wang, Tingwen Liu, Hongbo Xu

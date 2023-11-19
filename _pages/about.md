@@ -48,25 +48,25 @@ Up to now, he has published several papers in the top conferences, such as ACL, 
 
 # Publications
 
-- **Adaptive Attentional Network for Few-Shot Knowledge Graph Completion.**<br>
-  **Jiawei Sheng**, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu, Hongbo Xu. 
-  *In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing. (**EMNLP 2020**, CCF-B)*
-
-- **CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction.**<br>
-  **Jiawei Sheng**, Shu Guo, Bowen Yu, Qian Li, Yiming Hei, Lihong Wang, Tingwen Liu, Hongbo Xu.
-  *In Findings of the 59th Annual Meeting of the Association for Computational Linguistics. (**Findings of ACL 2021**, CCF-A)*
-
-- **CorED: Incorporating Type-level and Instance-level Correlations for Fine-grained Event Detection.**<br>
-  **Jiawei Sheng**, Rui Sun, Shu Guo, Shiyao Cui, Jiangxia Cao, Lihong Wang, Tingwen Liu and Hongbo Xu.
-  *In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Madrid, July 11-15 2022. (**SIGIR 2022**, CCF-A)*
-
 - **Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification.**<br>
   **Jiawei Sheng**, Xin Cong, Jiangxia Cao, Shu Guo, Chen Li, Lihong Wang, Tingwen Liu, Hongbo Xu
   *In Proceedings of the European Conference on Artificial Intelligence (**ECAI 2023**, CCF-B)*
 
 - **ID-MixGCL: Identity Mixup for Graph Contrastive Learning.**<br>
-  Gehang Zhang, Bowen Yu, Jiangxia Cao, Xinghua Zhang, **Jiawei Sheng(\*)**, Chuan Zhou, and Tingwen Liu
-  *In Proceedings of the 2023 IEEE International Conference on Big Data (**Bigdata 2024**, CCF-C)*
+  Gehang Zhang, Bowen Yu, Jiangxia Cao, Xinghua Zhang, **Jiawei Sheng\***, Chuan Zhou, and Tingwen Liu
+  *In Proceedings of the 2023 IEEE International Conference on Big Data (**Bigdata 2023**, CCF-C)*
+
+- **CorED: Incorporating Type-level and Instance-level Correlations for Fine-grained Event Detection.**<br>
+  **Jiawei Sheng**, Rui Sun, Shu Guo, Shiyao Cui, Jiangxia Cao, Lihong Wang, Tingwen Liu and Hongbo Xu.
+  *In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Madrid, July 11-15 2022. (**SIGIR 2022**, CCF-A)*
+
+- **CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction.**<br>
+  **Jiawei Sheng**, Shu Guo, Bowen Yu, Qian Li, Yiming Hei, Lihong Wang, Tingwen Liu, Hongbo Xu.
+  *In Findings of the 59th Annual Meeting of the Association for Computational Linguistics. (**Findings of ACL 2021**, CCF-A)*
+
+- **Adaptive Attentional Network for Few-Shot Knowledge Graph Completion.**<br>
+  **Jiawei Sheng**, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu, Hongbo Xu. 
+  *In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing. (**EMNLP 2020**, CCF-B)*
 
 - **A Joint Learning Framework for the CCKS-2020 Financial Event Extraction Task.**<br>
   **Jiawei Sheng**, Qian Li, Yiming Hei, Shu Guo, Bowen Yu, Lihong Wang, Min He, Tingwen Liu, Hongbo Xu.
