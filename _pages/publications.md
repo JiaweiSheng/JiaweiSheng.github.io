@@ -4,15 +4,37 @@ permalink: /publications/
 author_profile: true
 --- 
 
+# 2024
+
+
+- **Optimal Transport Guided Correlation Assignment for Multimodal Entity Linking.**<br>
+  Zefeng Zhang, **Jiawei Sheng**(equal contribution), Chuang Zhang, Yunzhi Liang, Wenyuan Zhang, Siqi Wang, Tingwen Liu.
+  *In Findings of the 62nd Annual Meeting of the Association for Computational Linguistics. (**Findings of ACL 2024**)*
+
+- **CDRNP: Cross-Domain Recommendation to Cold-Start Users via Neural Process.**<br>
+  Xiaodong Li, **Jiawei Sheng\***, Jiangxia Cao, Wenyuan Zhang, Quangang Li, **Tingwen Liu\***.
+  *In Proceedings of the 17th ACM International Conference on Web Search and Data Mining (**WSDM 2024**, CCF-B)*
+
+- **Noise-Disentangled Graph Contrastive Learning via Low-Rank and Sparse Subspace Decomposition.**<br>
+  Gehang Zhang, **Jiawei Sheng\***, Shicheng Wang, **Tingwen Liu\***.
+  *In Proceedings of the 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2024**, CCF-B)*
+
+- **Enhancing Multimodal Entity and Relation Extraction With Variational Information Bottleneck.**<br>
+  Shiyao Cui, Jiangxia Cao, Xin Cong, **Jiawei Sheng**, Quangang Li, Tingwen Liu, Jinqiao Shi.
+  *IEEE ACM Trans. Audio Speech Lang. Process. 32: 1274-1285 (2024) (**TALSP 2024**, CCF-B)*
+
+- **Label graph augmented soft cascade decoding model for overlapping event extraction.**<br>
+  Yiming Hei, Lihong Wang, **Jiawei Sheng**, Jianwei Liu, Qian Li, Shu Guo.
+  *Int. J. Mach. Learn. Cybern. 15(1): 79-95 (2024)*
 
 # 2023
 
 - **ID-MixGCL: Identity Mixup for Graph Contrastive Learning.**<br>
-  Gehang Zhang, Bowen Yu, Jiangxia Cao, Xinghua Zhang, **Jiawei Sheng\***, Chuan Zhou, and Tingwen Liu
+  Gehang Zhang, Bowen Yu, Jiangxia Cao, Xinghua Zhang, **Jiawei Sheng\***, Chuan Zhou, and Tingwen Liu.
   *In Proceedings of the 2023 IEEE International Conference on Big Data (**Bigdata 2023**, CCF-C)*
 
 - **Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification.**<br>
-  **Jiawei Sheng**, Xin Cong, Jiangxia Cao, Shu Guo, Chen Li, Lihong Wang, Tingwen Liu, Hongbo Xu
+  **Jiawei Sheng**, Xin Cong, Jiangxia Cao, Shu Guo, Chen Li, Lihong Wang, Tingwen Liu, Hongbo Xu.
   *In Proceedings of the European Conference on Artificial Intelligence (**ECAI 2023**, CCF-B)*
 
 - **Attribute-Consistent Knowledge Graph Representation Learning for Multi-Modal Entity Alignment.**<br>
