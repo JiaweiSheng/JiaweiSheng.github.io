@@ -7,6 +7,11 @@ author_profile: true
 # 2024
 
 
+- **LoginMEA: Local-to-Global Interaction Network for Multi-modal Entity Alignment.**<br>
+  Taoyu Su, Xinghua Zhang, **Jiawei Sheng\***, Zhenyu Zhang, **Tingwen Liu\***.
+  *In Proceedings of the 27th European Conference on Artifical Intelligence. (**ECAI 2024**, CCF-B)*
+
+  
 - **Optimal Transport Guided Correlation Assignment for Multimodal Entity Linking.**<br>
   Zefeng Zhang, **Jiawei Sheng**(equal contribution), Chuang Zhang, Yunzhi Liang, Wenyuan Zhang, Siqi Wang, Tingwen Liu.
   *In Findings of the 62nd Annual Meeting of the Association for Computational Linguistics. (**Findings of ACL 2024**)*

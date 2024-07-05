@@ -14,7 +14,7 @@ My main research interests include **event extraction**, **information extractio
 Now, I am preparing for NLP algorithm engineer recruit.  -->
 
 Jiawei Sheng is now a Tenure-track Associate Professor (预聘副研究员) at [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/).
-Before that, he received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2023, and received the Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018. His main research interests include **knowledge reason**, **knowledge fusion** and **knowledge acquisition**.
+Before that, I received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2023, and received the Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018. My main research interests include **knowledge fusion & reasoning**, **knowledge acquisition** and **LLM application**.
 
 
 <!-- Up to now, he has published several papers in the top conferences funded b.  -->
