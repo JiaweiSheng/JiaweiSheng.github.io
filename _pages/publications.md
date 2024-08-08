@@ -7,8 +7,12 @@ author_profile: true
 # 2024
 
 
+- **IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment.**<br>
+  Taoyu Su, **Jiawei Sheng\***, Shicheng Wang, Xinghua Zhang, Hongbo Xu, Tingwen Liu.
+  *In Proceedings of the ACM MULTIMEDIA 2024. (**ACM MM 2024**, CCF-A)*
+
 - **LoginMEA: Local-to-Global Interaction Network for Multi-modal Entity Alignment.**<br>
-  Taoyu Su, Xinghua Zhang, **Jiawei Sheng\***, Zhenyu Zhang, **Tingwen Liu\***.
+  Taoyu Su, Xinghua Zhang, **Jiawei Sheng\***, Zhenyu Zhang, Tingwen Liu.
   *In Proceedings of the 27th European Conference on Artifical Intelligence. (**ECAI 2024**, CCF-B)*
 
   

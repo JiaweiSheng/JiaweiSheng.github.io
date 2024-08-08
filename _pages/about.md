@@ -51,6 +51,14 @@ Before that, I received the Ph.D. degree from the Institute of Information Engin
 
 # Selected Publications
 
+- **IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment.**<br>
+  Taoyu Su, **Jiawei Sheng\***, Shicheng Wang, Xinghua Zhang, Hongbo Xu, Tingwen Liu.
+  *In Proceedings of the ACM MULTIMEDIA 2024. (**ACM MM 2024**, CCF-A)*
+
+- **LoginMEA: Local-to-Global Interaction Network for Multi-modal Entity Alignment.**<br>
+  Taoyu Su, Xinghua Zhang, **Jiawei Sheng\***, Zhenyu Zhang, Tingwen Liu.
+  *In Proceedings of the 27th European Conference on Artifical Intelligence. (**ECAI 2024**, CCF-B)*
+  
 - **Optimal Transport Guided Correlation Assignment for Multimodal Entity Linking.**<br>
   Zefeng Zhang, **Jiawei Sheng**(equal contribution), Chuang Zhang, Yunzhi Liang, Wenyuan Zhang, Siqi Wang, Tingwen Liu.
   *In Findings of the 62nd Annual Meeting of the Association for Computational Linguistics. (**Findings of ACL 2024**)*
