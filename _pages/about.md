@@ -1,11 +1,11 @@
 ---
-
-title: "En"
-excerpt: "En"
+permalink: /About/
+title: "About me"
+excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+# redirect_from: 
+#   - /about/
+#   - /about.html
 ---
 
 <!-- I am currently pursuing a PhD degree (the 4/5 year) in the [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/). 
