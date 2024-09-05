@@ -1,27 +1,45 @@
 ---
+permalink: /
 title: "个人简介"
 permalink: /chinese/
 author_profile: true
 ---
-**李健 男 博士研究生 中国科学院信息工程研究所**  
-**电子邮箱：me@lijian.ac.cn**
 
-# 研究方向
-研究方向为机器学习，尤其关注大规模机器学习、核方法模型选择、基于图的半监督学习等方向。主要研究内容为针对上述研究点进行泛化分析及为它们设计高效、可伸缩算法。
+
+盛傢伟，预聘副研究员，2023年博士毕业于中国科学院信息工程研究所(信工所)，入选信工所优才计划B类，主要研究兴趣为知识推理融合、事件知识获取、大模型内容安全应用。
+
+总计在国际顶级学术会议或期刊发表论文20余篇，在全国知识图谱旗舰会议CCKS2021、2022技术评测中两次获第一名及技术创新奖，多次担任10余个国际顶级学术会议或期刊审稿人，授权或受理专利7项。目前获国家自然科学基金青年基金、中科院特别研究助理项目、博士后国资计划、快手校企合作等多个项目资助，参与重点研发、中科院先导等多个重点项目。曾获中科院朱李月华优秀博士生奖学金、优秀毕业生奖等。
+
+# 项目情况
+
+- 国家自然科学基金青年项目，主持，跨领域知识图谱补全关键技术研究，30万，2025.01-2027.12
+- 中科院特别研究助理，主持，面向知识关联发现的跨领域联合建模方法研究，80万，2023.07-2026.07
+- 博后国资计划(C类)，主持，跨域联合建模的知识关联发现关键技术研究，24万，2023.07-2025.07
+- 快手校企合作项目，主持，基于主播关系图的直播推荐算法研究，50万，2024.08-2025.08
+- 国家重点研发计划，参与骨干，某知识图谱构建理论研究，2021.12-2024.11
+- 中国科学院先导专项，参与骨干，某知识图谱构建与利用系统，2019.08-2021.12
 
 # 教育背景
-* 2018-至今，中科院信工所机器学习专业，博士研究生，导师：[王伟平](http://bkjy.ucas.ac.cn/index.php/szdw/ds/jsjxk/wlkjaq/4188-wwp)，指导老师：[刘勇](https://iie-liuyong.github.io)
-* 2015-2018，中科院信工所机器学习专业，博士研究生，导师：[王伟平](http://bkjy.ucas.ac.cn/index.php/szdw/ds/jsjxk/wlkjaq/4188-wwp)，指导老师：[刘勇](https://iie-liuyong.github.io)
-* 2011-2015，东北大学软件工程(英语)专业，本科生
+<!-- * 2018-至今，中科院信工所机器学习专业，博士研究生，导师：[王伟平](http://bkjy.ucas.ac.cn/index.php/szdw/ds/jsjxk/wlkjaq/4188-wwp)，指导老师：[刘勇](https://iie-liuyong.github.io) -->
 
-# 奖学金及荣誉称号
-* 2018年博士研究生国家奖学金
-* 2018年中国科学院大学“三好学生”
-* 2018年中国科学院信息工程研究所所长优秀奖
+* 2015-2018，中国科学院信息工程研究所，自然语言处理，博士研究生
+* 2014-2018，吉林大学，计算机科学与技术，本科生
 
-# 论文列表
-<b>[Multi-Class Learning: From Theory to Algorithm](https://superlj666.github.io/publications/mc)</b> <br>
-<b>Jian Li</b>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <i>Advances in Neural Information Processing Systems 31 (NIPS 2018)</i>.
+# 获奖情况
 
-<b>[Efficient kernel selection via spectral analysis](https://superlj666.github.io/publications/sm)</b> <br>
-<b>Jian Li</b>, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. <i>In Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI 2017) </i>.
+- CCKS2020小样本跨类迁移事件抽取竞赛，比赛第一名(1/391)
+- CCKS2020小样本跨类迁移事件抽取竞赛，技术创新奖
+- CCKS2021通用细粒度事件检测竞赛，比赛第一名(1/253)
+- CCKS2021通用细粒度事件检测竞赛，技术创新奖
+- 中国科学院朱李月华优秀博士奖学金
+- 中国科学院信息工程研究所优秀毕业生奖
+- 中国科学院大学学业奖学金
+- 中国科学院大学三好学生
+
+# 学术服务
+
+长期担任10余个领域重要国际学术会议/期刊审稿人。
+
+- Conference PC member: NeurIPS-24, AAAI-23/24, SIGIR-23/24, KDD-24, ACL-24, WWW-24, IJCAI-24, CIKM-23/24, DASFAA-24, COLING-24, ICASSP-23/24, ECML-PKDD-22/23, SIGIR-AP-23, IJCNN-24, etc.
+- Conference AC: CCL-24.
+- Journal Reviewer: TKDE, ESWA.
