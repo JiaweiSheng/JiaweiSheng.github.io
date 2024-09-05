@@ -1,8 +1,8 @@
  # main links links
 main:
 
-  # - title: "个人简介"
-  #   url: /chinese/  
+  - title: "个人简介"
+    url: /chinese/  
 
   # - title: "En"
     # url: /About/  
