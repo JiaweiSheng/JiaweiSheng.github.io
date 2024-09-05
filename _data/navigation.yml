@@ -4,8 +4,8 @@ main:
   - title: "个人简介"
     url: /chinese/  
 
-    - title: "En"
-    url: /About/  
+  # - title: "En"
+    # url: /About/  
 
   - title: "Publications"
     url: /publications/
