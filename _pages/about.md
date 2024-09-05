@@ -134,12 +134,11 @@ My main research interests include **knowledge fusion & reasoning**, **knowledge
 
 - Postdoctoral Fellowship Program (Grade C) of China Postdoctoral Science Foundation (No.GZC20232968). Research on Knowledge Discovery Based on Cross-domain Modeling. 2023.07 - 2025.07. ¥240,000.
 
-- Special Research Assistant Project of CAS, 2023.07 - 2026.07, ¥800,000.
+- Special Research Assistant Project of CAS (Talent Program Class B), 2023.07 - 2026.07, ¥800,000.
 
 - Kwai School-enterprise Cooperation Project. 2024.8 - 2025.6. ¥500,000.
 
-- Talent Program Class B of Institute of Information Engineering, CAS, Tenure-track Young Associate Professor, 2023.07 - 2026.07.
-
+<!-- - Talent Program Class B of Institute of Information Engineering, CAS, Tenure-track Young Associate Professor, 2023.07 - 2026.07. -->
 
 # Honors and Awards
 

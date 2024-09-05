@@ -14,7 +14,7 @@ author_profile: true
 <!-- # Contact -->
 Institute of Information Engineering, Chinese Academy of Sciences<br>
 19 Shucun Road, Haidian District, Beijing, China, 100085<br>
-Email: shengjiawei [at] iie.ac.cn
+Email: shengjiawei@iie.ac.cn
 
 
 
