@@ -18,7 +18,7 @@ Before that, I received the Ph.D. degree from the Institute of Information Engin
 My main research interests include **knowledge fusion & reasoning**, **knowledge acquisition** and **LLM application**.
 
 
-## Projects
+# Projects
 
 - National Natural Science Foundation of China, Youth Project. Research on Cross-domain Knowledge Graph Completion. 2025.1 - 2027.12. ¥300,000.
 
@@ -30,7 +30,7 @@ My main research interests include **knowledge fusion & reasoning**, **knowledge
 
 <!-- - Talent Program Class B of Institute of Information Engineering, CAS, Tenure-track Young Associate Professor, 2023.07 - 2026.07. -->
 
-## Honors and Awards
+# Honors and Awards
 
 - The **Top 1 Winner** of CCKS 2021 Competition: Fine-grained Event Detection Competition, Chinese Information Processing Society of China. 2021.
 - The **Technological Innovation Award** of CCKS 2021 Competition: Fine-grained Event Detection Competition, Chinese Information Processing Society of China. 2021.
@@ -39,13 +39,13 @@ My main research interests include **knowledge fusion & reasoning**, **knowledge
 - The **Zhuli Yuehua outstanding doctoral scholarship, Chinese Academy of Sciences** at 2022.
 - Outstanding Graduate Award of Institute of Information Engineering, Chinese Academy of Sciences at 2023.
 
-## Competitions
+# Competitions
 
 - [CCKS 2021: Fine-grained Event Detection Competition](http://sigkg.cn/ccks2021/), Rank 1/253 (Team leader)
 
 - [CCKS 2020: Few-shot Cross-domain Event Extraction Competition](http://sigkg.cn/ccks2020/?page_id=69#task4), Rank: 1/391 (Team leader)
 
-## Services
+# Services
 
 - Conference PC member: NeurIPS-24, AAAI-23/24, SIGIR-23/24, KDD-24, ACL-24, WWW-24, IJCAI-24, CIKM-23/24, DASFAA-24, COLING-24, ICASSP-23/24, ECML-PKDD-22/23, SIGIR-AP-23, IJCNN-24, etc.
 
