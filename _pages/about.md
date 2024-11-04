@@ -27,6 +27,28 @@ My main research interests include **knowledge fusion & reasoning**, **knowledge
 
 <!-- - Talent Program Class B of Institute of Information Engineering, CAS, Tenure-track Young Associate Professor, 2023.07 - 2026.07. -->
 
+# Selected Papers
+
+- **IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment.**<br>
+  Taoyu Su, **Jiawei Sheng\***, Shicheng Wang, Xinghua Zhang, Hongbo Xu, Tingwen Liu.
+  *In Proceedings of the ACM MULTIMEDIA 2024. (**ACM MM 2024**, CCF-A)*
+
+- **Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification.**<br>
+  **Jiawei Sheng**, Xin Cong, Jiangxia Cao, Shu Guo, Chen Li, Lihong Wang, Tingwen Liu, Hongbo Xu.
+  *In Proceedings of the European Conference on Artificial Intelligence (**ECAI 2023**, CCF-B)*
+
+- **CorED: Incorporating Type-level and Instance-level Correlations for Fine-grained Event Detection.**<br>
+  **Jiawei Sheng**, Rui Sun, Shu Guo, Shiyao Cui, Jiangxia Cao, Lihong Wang, Tingwen Liu and Hongbo Xu.
+  *In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Madrid, July 11-15 2022. (**SIGIR 2022**, CCF-A)*
+
+- **CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction.**<br>
+  **Jiawei Sheng**, Shu Guo, Bowen Yu, Qian Li, Yiming Hei, Lihong Wang, Tingwen Liu, Hongbo Xu.
+  *In Findings of the 59th Annual Meeting of the Association for Computational Linguistics. (**Findings of ACL 2021**, CCF-A)*
+
+- **Adaptive Attentional Network for Few-Shot Knowledge Graph Completion.**<br>
+  **Jiawei Sheng**, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu, Hongbo Xu. 
+  *In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing. (**EMNLP 2020**, CCF-B)*
+
 # Honors and Awards
 
 - The **Top 1 Winner** of CCKS 2021 Competition: Fine-grained Event Detection Competition, Chinese Information Processing Society of China. 2021.

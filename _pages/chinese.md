@@ -30,6 +30,30 @@ author_profile: true
 - 2018.09 - 2023.06：中国科学院信息工程研究所，自然语言处理，博士研究生 (保研直博)
 - 2014.09 - 2018.06：吉林大学，计算机科学与技术，本科生
 
+
+# 代表论文
+
+- **IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment.**<br>
+  Taoyu Su, **Jiawei Sheng\***, Shicheng Wang, Xinghua Zhang, Hongbo Xu, Tingwen Liu.
+  *In Proceedings of the ACM MULTIMEDIA 2024. (**ACM MM 2024**)*
+
+- **CorED: Incorporating Type-level and Instance-level Correlations for Fine-grained Event Detection.**<br>
+  **Jiawei Sheng**, Rui Sun, Shu Guo, Shiyao Cui, Jiangxia Cao, Lihong Wang, Tingwen Liu and Hongbo Xu.
+  *In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Madrid, July 11-15 2022. (**SIGIR 2022**)*
+
+- **CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction.**<br>
+  **Jiawei Sheng**, Shu Guo, Bowen Yu, Qian Li, Yiming Hei, Lihong Wang, Tingwen Liu, Hongbo Xu.
+  *In Findings of the 59th Annual Meeting of the Association for Computational Linguistics. (**Findings of ACL 2021**)*
+
+- **Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification.**<br>
+  **Jiawei Sheng**, Xin Cong, Jiangxia Cao, Shu Guo, Chen Li, Lihong Wang, Tingwen Liu, Hongbo Xu.
+  *In Proceedings of the European Conference on Artificial Intelligence. (**ECAI 2023**)*
+
+- **Adaptive Attentional Network for Few-Shot Knowledge Graph Completion.**<br>
+  **Jiawei Sheng**, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu, Hongbo Xu. 
+  *In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing. (**EMNLP 2020**)*
+
+
 # 获奖情况
 
 - CCKS2020小样本跨类迁移事件抽取竞赛，比赛第一名(1/391)
