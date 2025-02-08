@@ -4,43 +4,70 @@ permalink: /publications/
 author_profile: true
 --- 
 
-# 2024
+# 2025
 
+- **Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation.** <br>
+  Xiaodong Li, Hengzhu Tang, **Jiawei Sheng\***, Xinghua Zhang, **Li Gao\***, Suqi Cheng, Dawei Yin, Tingwen Liu.
+  *2025 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. (**KDD 2025**, CCF-A, Corresponding Author)*
+
+- **Graph Wave Networks.**<br>
+  Juwei Yue, Haikuo Li, **Jiawei Sheng\***, Yihan Guo, Xinghua Zhang, Chuan Zhou, **Tingwen Liu\***, Li Guo.
+  *International World Wide Web Conference 2025. (**WWW 2025**, CCF-A, Corresponding Author)*
+
+# 2024
 
 - **IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment.**<br>
   Taoyu Su, **Jiawei Sheng\***, Shicheng Wang, Xinghua Zhang, Hongbo Xu, Tingwen Liu.
-  *In Proceedings of the ACM MULTIMEDIA 2024. (**ACM MM 2024**, CCF-A)*
+  *In Proceedings of the ACM MULTIMEDIA 2024. (**ACM MM 2024**, CCF-A, Corresponding Author)*
 
 - **LoginMEA: Local-to-Global Interaction Network for Multi-modal Entity Alignment.**<br>
   Taoyu Su, Xinghua Zhang, **Jiawei Sheng\***, Zhenyu Zhang, Tingwen Liu.
-  *In Proceedings of the 27th European Conference on Artifical Intelligence. (**ECAI 2024**, CCF-B)*
+  *In Proceedings of the 27th European Conference on Artifical Intelligence. (**ECAI 2024**, CCF-B, Corresponding Author)*
 
-  
 - **Optimal Transport Guided Correlation Assignment for Multimodal Entity Linking.**<br>
   Zefeng Zhang, **Jiawei Sheng**(equal contribution), Chuang Zhang, Yunzhi Liang, Wenyuan Zhang, Siqi Wang, Tingwen Liu.
   *In Findings of the 62nd Annual Meeting of the Association for Computational Linguistics. (**Findings of ACL 2024**)*
 
 - **CDRNP: Cross-Domain Recommendation to Cold-Start Users via Neural Process.**<br>
   Xiaodong Li, **Jiawei Sheng\***, Jiangxia Cao, Wenyuan Zhang, Quangang Li, **Tingwen Liu\***.
-  *In Proceedings of the 17th ACM International Conference on Web Search and Data Mining (**WSDM 2024**, CCF-B)*
+  *In Proceedings of the 17th ACM International Conference on Web Search and Data Mining (**WSDM 2024**, CCF-B, Corresponding Author)*
 
 - **Noise-Disentangled Graph Contrastive Learning via Low-Rank and Sparse Subspace Decomposition.**<br>
   Gehang Zhang, **Jiawei Sheng\***, Shicheng Wang, **Tingwen Liu\***.
-  *In Proceedings of the 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2024**, CCF-B)*
+  *In Proceedings of the 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2024**, CCF-B, Corresponding Author)*
+
+- **MSKR: Advancing Multi-modal Structured Knowledge Representation with Synergistic Hard Negative Samples.**<br>
+  Shuili Zhang, Hongzhang Mu, Tingwen Liu, Qianqian Tong, **Jiawei Sheng**.
+  *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management: 3207-3216 (**CIKM 2024**, CCF-B)*
+
+- **Exogenous and Endogenous Data Augmentation for Low-Resource Complex Named Entity Recognition.**<br>
+	Xinghua Zhang, Gaode Chen, Shiyao Cui, Jiawei Sheng, Tingwen Liu, Hongbo Xu.
+  *The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval: 630-640 (**SIGIR 2024**, CCF-A)*
 
 - **Enhancing Multimodal Entity and Relation Extraction With Variational Information Bottleneck.**<br>
   Shiyao Cui, Jiangxia Cao, Xin Cong, **Jiawei Sheng**, Quangang Li, Tingwen Liu, Jinqiao Shi.
   *IEEE ACM Trans. Audio Speech Lang. Process. 32: 1274-1285 (2024) (**TALSP 2024**, CCF-B)*
 
+- **Decomposition and recombination. A soft cascade model for event detection.**<br>
+  Yiming Hei, Jiawei Sheng, Lihong Wang, Qian Li, Shu Guo, Jianwei Liu.
+  *Knowl. Based Syst. 298: 111924 (2024) (**KBS 2024**)*
+
+- **A Survey on Deep Learning Event Extraction: Approaches and Applications.**<br>
+  Qian Li, Jianxin Li, Jiawei Sheng, Shiyao Cui, Jia Wu, Yiming Hei, Hao Peng, Shu Guo, Lihong Wang, Amin Beheshti, Philip S. Yu.
+  *IEEE Trans. Neural Networks Learn. Syst. 35(5): 6301-6321 (2024) (**TNNLS 2024**)*
+
 - **Label graph augmented soft cascade decoding model for overlapping event extraction.**<br>
   Yiming Hei, Lihong Wang, **Jiawei Sheng**, Jianwei Liu, Qian Li, Shu Guo.
   *Int. J. Mach. Learn. Cybern. 15(1): 79-95 (2024)*
+
+<!-- Qian Li, Shu Guo, Yinjia Chen, Cheng Ji, Jiawei Sheng, Jianxin Li:
+Uncertainty-Aware Relational Graph Neural Network for Few-Shot Knowledge Graph Completion. CoRR abs/2403.04521 (2024) -->
 
 # 2023
 
 - **ID-MixGCL: Identity Mixup for Graph Contrastive Learning.**<br>
   Gehang Zhang, Bowen Yu, Jiangxia Cao, Xinghua Zhang, **Jiawei Sheng\***, Chuan Zhou, and Tingwen Liu.
-  *In Proceedings of the 2023 IEEE International Conference on Big Data (**Bigdata 2023**, CCF-C)*
+  *In Proceedings of the 2023 IEEE International Conference on Big Data (**Bigdata 2023**, CCF-C, Corresponding Author)*
 
 - **Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification.**<br>
   **Jiawei Sheng**, Xin Cong, Jiangxia Cao, Shu Guo, Chen Li, Lihong Wang, Tingwen Liu, Hongbo Xu.
