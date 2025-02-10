@@ -3,20 +3,19 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-<!-- I am currently pursuing a PhD degree (the 4/5 year) in the [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/). 
-I received my Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018.  Up to now, I have published several papers in the top conferences (e.g., ACL, SIGIR, EMNLP, etc.), and won prizes in data competitions. 
+<!-- I am currently pursuing a PhD degree (the 4/5 year) in the [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/).
+I received my Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018.  Up to now, I have published several papers in the top conferences (e.g., ACL, SIGIR, EMNLP, etc.), and won prizes in data competitions.
 My main research interests include **event extraction**, **information extraction** and **knowledge graph completion.**
 Now, I am preparing for NLP algorithm engineer recruit.  -->
 
 I am now a Tenure-track Associate Professor at [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/).
 Before that, I received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2023, and received the Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018. I have published 20+ top conference/journel papers, and undertaked multiple important projects.
 My main research interests include **knowledge fusion & reasoning**, **knowledge acquisition** and **LLM application**.
-
 
 # Projects
 
@@ -30,25 +29,33 @@ My main research interests include **knowledge fusion & reasoning**, **knowledge
 
 # Selected Papers
 
+- **Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation.** <br>
+  Xiaodong Li, Hengzhu Tang, **Jiawei Sheng\***, Xinghua Zhang, **Li Gao\***, Suqi Cheng, Dawei Yin, Tingwen Liu.
+  _2025 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. (**KDD 2025**, CCF-A)_
+
+- **Graph Wave Networks.**<br>
+  Juwei Yue, Haikuo Li, **Jiawei Sheng\***, Yihan Guo, Xinghua Zhang, Chuan Zhou, **Tingwen Liu\***, Li Guo.
+  _International World Wide Web Conference 2025. (**WWW 2025**, CCF-A)_
+
 - **IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment.**<br>
   Taoyu Su, **Jiawei Sheng\***, Shicheng Wang, Xinghua Zhang, Hongbo Xu, Tingwen Liu.
-  *In Proceedings of the ACM MULTIMEDIA 2024. (**ACM MM 2024**, CCF-A)*
+  _In Proceedings of the ACM MULTIMEDIA 2024. (**ACM MM 2024**, CCF-A)_
 
 - **Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification.**<br>
   **Jiawei Sheng**, Xin Cong, Jiangxia Cao, Shu Guo, Chen Li, Lihong Wang, Tingwen Liu, Hongbo Xu.
-  *In Proceedings of the European Conference on Artificial Intelligence (**ECAI 2023**, CCF-B)*
+  _In Proceedings of the European Conference on Artificial Intelligence (**ECAI 2023**, CCF-B)_
 
 - **CorED: Incorporating Type-level and Instance-level Correlations for Fine-grained Event Detection.**<br>
   **Jiawei Sheng**, Rui Sun, Shu Guo, Shiyao Cui, Jiangxia Cao, Lihong Wang, Tingwen Liu and Hongbo Xu.
-  *In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Madrid, July 11-15 2022. (**SIGIR 2022**, CCF-A)*
+  _In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Madrid, July 11-15 2022. (**SIGIR 2022**, CCF-A)_
 
 - **CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction.**<br>
   **Jiawei Sheng**, Shu Guo, Bowen Yu, Qian Li, Yiming Hei, Lihong Wang, Tingwen Liu, Hongbo Xu.
-  *In Findings of the 59th Annual Meeting of the Association for Computational Linguistics. (**Findings of ACL 2021**, CCF-A)*
+  _In Findings of the 59th Annual Meeting of the Association for Computational Linguistics. (**Findings of ACL 2021**, CCF-A)_
 
 - **Adaptive Attentional Network for Few-Shot Knowledge Graph Completion.**<br>
-  **Jiawei Sheng**, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu, Hongbo Xu. 
-  *In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing. (**EMNLP 2020**, CCF-B)*
+  **Jiawei Sheng**, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu, Hongbo Xu.
+  _In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing. (**EMNLP 2020**, CCF-B)_
 
 # Honors and Awards
 
