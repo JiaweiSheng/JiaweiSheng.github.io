@@ -4,7 +4,7 @@ permalink: /chinese/
 author_profile: true
 ---
 
-盛傢伟，预聘副研究员，2023 年博士毕业于[中国科学院信息工程研究所](http://www.iie.ac.cn/)(信工所)，入选信工所优才计划 B 类，主要研究兴趣为**知识融合推理、大模型内容安全应用**。
+盛傢伟，预聘副研究员，2023 年博士毕业于[中国科学院信息工程研究所](http://www.iie.ac.cn/)(信工所)，入选信工所优才计划 B 类，主要研究兴趣为**知识融合&推理、图数据挖掘、大模型应用**。
 
 总计在 CCF-A/B 类国际顶级学术会议或期刊发表论文 20 余篇，带队在全国知识图谱旗舰会议 CCKS2021、2022 技术评测中两次获第一名及技术创新奖，担任 10 余个国际顶级学术会议或期刊审稿人，授权或受理专利 7 项。目前获国家自然科学基金青年基金、中科院特别研究助理项目、博士后国资计划、快手校企合作等多个项目资助，参与重点研发、中科院先导等多个重点项目。曾获中科院朱李月华优秀博士生奖学金、优秀毕业生奖等。
 
@@ -68,8 +68,8 @@ author_profile: true
 
 # 学术服务
 
-长期担任 10 余个领域重要国际学术会议/期刊审稿人。
+长期担任多个国际顶级学术会议/期刊审稿人。
 
-- Conference PC member: NeurIPS-24, AAAI-23/24, SIGIR-23/24, KDD-24, ACL-24, WWW-24, IJCAI-24, CIKM-23/24, DASFAA-24, COLING-24, ICASSP-23/24, ECML-PKDD-22/23, SIGIR-AP-23, IJCNN-24, etc.
-- Conference AC: CCL-24.
-- Journal Reviewer: TKDE, ESWA.
+- Conference PC member: NeurIPS, ICML, ICLR, SIGIR, KDD, ACL, WWW, MM, AAAI, IJCAI, etc.
+- Conference AC: CCL-24, etc.
+- Journal Reviewer: TKDE, ESWA, etc.

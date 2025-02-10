@@ -14,8 +14,8 @@ My main research interests include **event extraction**, **information extractio
 Now, I am preparing for NLP algorithm engineer recruit.  -->
 
 I am now a Tenure-track Associate Professor at [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/).
-Before that, I received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2023, and received the Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018. I have published 20+ top conference/journel papers, and undertaked multiple important projects.
-My main research interests include **knowledge fusion & reasoning**, **knowledge acquisition** and **LLM application**.
+Before that, I received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2023, and received the Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018. I have published several top conference/journel papers, and undertaked multiple important projects.
+My main research interests include **knowledge fusion & reasoning**, **graph data mining** and **LLM application**.
 
 # Projects
 
@@ -73,6 +73,7 @@ My main research interests include **knowledge fusion & reasoning**, **knowledge
 
 # Services
 
-- Conference PC member: NeurIPS-24, AAAI-23/24, SIGIR-23/24, KDD-24, ACL-24, WWW-24, IJCAI-24, CIKM-23/24, DASFAA-24, COLING-24, ICASSP-23/24, ECML-PKDD-22/23, SIGIR-AP-23, IJCNN-24, etc.
+- Conference PC member: NeurIPS, ICML, ICLR, SIGIR, KDD, ACL, WWW, MM, AAAI, IJCAI, etc.
+<!-- - NeurIPS-24, AAAI-23/24, SIGIR-23/24, KDD-24, ACL-24, WWW-24, IJCAI-24, CIKM-23/24, DASFAA-24, COLING-24, ICASSP-23/24, ECML-PKDD-22/23, SIGIR-AP-23, IJCNN-24, etc. -->
 - Conference AC: CCL-24.
 - Journal Reviewer: TKDE, ESWA.
