@@ -4,7 +4,7 @@ permalink: /chinese/
 author_profile: true
 ---
 
-盛傢伟，预聘副研究员，2023 年博士毕业于[中国科学院信息工程研究所](http://www.iie.ac.cn/)(信工所)，入选信工所优才计划 B 类，主要研究兴趣为**知识融合&推理、图数据挖掘、大模型应用**。
+盛傢伟，预聘副研究员，2023 年博士毕业于[中国科学院信息工程研究所](http://www.iie.ac.cn/)(信工所)，入选信工所优才计划 B 类，主要研究兴趣为**知识融合推理、图数据挖掘、大模型应用**。
 
 总计在 CCF-A/B 类国际顶级学术会议或期刊发表论文 20 余篇，带队在全国知识图谱旗舰会议 CCKS2021、2022 技术评测中两次获第一名及技术创新奖，担任 10 余个国际顶级学术会议或期刊审稿人，授权或受理专利 7 项。目前获国家自然科学基金青年基金、中科院特别研究助理项目、博士后国资计划、快手校企合作等多个项目资助，参与重点研发、中科院先导等多个重点项目。曾获中科院朱李月华优秀博士生奖学金、优秀毕业生奖等。
 
@@ -37,23 +37,23 @@ author_profile: true
 
 - **IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment.**<br>
   Taoyu Su, **Jiawei Sheng\***, Shicheng Wang, Xinghua Zhang, Hongbo Xu, Tingwen Liu.
-  _In Proceedings of the ACM MULTIMEDIA 2024. (**ACM MM 2024**)_
-
-- **CorED: Incorporating Type-level and Instance-level Correlations for Fine-grained Event Detection.**<br>
-  **Jiawei Sheng**, Rui Sun, Shu Guo, Shiyao Cui, Jiangxia Cao, Lihong Wang, Tingwen Liu and Hongbo Xu.
-  _In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Madrid, July 11-15 2022. (**SIGIR 2022**)_
-
-- **CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction.**<br>
-  **Jiawei Sheng**, Shu Guo, Bowen Yu, Qian Li, Yiming Hei, Lihong Wang, Tingwen Liu, Hongbo Xu.
-  _In Findings of the 59th Annual Meeting of the Association for Computational Linguistics. (**Findings of ACL 2021**)_
+  _In Proceedings of the ACM MULTIMEDIA 2024. (**ACM MM 2024**, CCF-A)_
 
 - **Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification.**<br>
   **Jiawei Sheng**, Xin Cong, Jiangxia Cao, Shu Guo, Chen Li, Lihong Wang, Tingwen Liu, Hongbo Xu.
-  _In Proceedings of the European Conference on Artificial Intelligence. (**ECAI 2023**)_
+  _In Proceedings of the European Conference on Artificial Intelligence (**ECAI 2023**, CCF-B)_
+
+- **CorED: Incorporating Type-level and Instance-level Correlations for Fine-grained Event Detection.**<br>
+  **Jiawei Sheng**, Rui Sun, Shu Guo, Shiyao Cui, Jiangxia Cao, Lihong Wang, Tingwen Liu and Hongbo Xu.
+  _In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Madrid, July 11-15 2022. (**SIGIR 2022**, CCF-A)_
+
+- **CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction.**<br>
+  **Jiawei Sheng**, Shu Guo, Bowen Yu, Qian Li, Yiming Hei, Lihong Wang, Tingwen Liu, Hongbo Xu.
+  _In Findings of the 59th Annual Meeting of the Association for Computational Linguistics. (**Findings of ACL 2021**, CCF-A)_
 
 - **Adaptive Attentional Network for Few-Shot Knowledge Graph Completion.**<br>
   **Jiawei Sheng**, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu, Hongbo Xu.
-  _In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing. (**EMNLP 2020**)_
+  _In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing. (**EMNLP 2020**, CCF-B)_
 
 # 获奖情况
 
