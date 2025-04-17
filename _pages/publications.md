@@ -6,13 +6,25 @@ author_profile: true
 
 # 2025
 
+- **Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective.** <br>
+  Taoyu Su, **Jiawei Sheng\***, Duohe Ma, Xiaodong Li, Juwei Yue, Mengxiao Song, Yingkai Tang and Tingwen Liu.
+  _The 48th International ACM SIGIR Conference. (**SIGIR 2025**, CCF-A, Corresponding Author)_
+
+- **Personalized Multi-Interest Modeling for Cross-Domain Recommendation to Cold-Start Users.** <br>
+  Xiaodong Li, Jiawei Sheng, Jiangxia Cao, Xinghua Zhang, Wenyuan Zhang, Yong Sun, Shirui Pan, Zhihong Tian, Tingwen Liu.
+  _The 2025 IEEE International Conference on Data Engineering (ICDE), Hong Kong, May 19th-23rd, 2025 (**ICDE 2025**, CCF-A)_
+
 - **Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation.** <br>
-  Xiaodong Li, Hengzhu Tang, **Jiawei Sheng\***, Xinghua Zhang, **Li Gao\***, Suqi Cheng, Dawei Yin, Tingwen Liu.
+  Xiaodong Li, Hengzhu Tang, **Jiawei Sheng\***, Xinghua Zhang, Li Gao, Suqi Cheng, Dawei Yin, Tingwen Liu.
   _2025 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. (**KDD 2025**, CCF-A, Corresponding Author)_
 
 - **Graph Wave Networks.**<br>
-  Juwei Yue, Haikuo Li, **Jiawei Sheng\***, Yihan Guo, Xinghua Zhang, Chuan Zhou, **Tingwen Liu\***, Li Guo.
+  Juwei Yue, Haikuo Li, **Jiawei Sheng\***, Yihan Guo, Xinghua Zhang, Chuan Zhou, Tingwen Liu\*, Li Guo.
   _International World Wide Web Conference 2025. (**WWW 2025**, CCF-A, Corresponding Author)_
+
+- **Debiasing Multimodal Large Language Models via Noise-Aware Preference Optimization.** <br>
+  Zefeng Zhang, Hengzhu Tang, **Jiawei Sheng**, Zhenyu Zhang, YiMing Ren, Zhenyang Li, Dawei Yin, Duohe Ma, Tingwen Liu.
+  _Conference on Computer Vision and Pattern Recognition 2025. (**CVPR 2025**, CCF-A)_
 
 # 2024
 
