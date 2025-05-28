@@ -17,7 +17,7 @@ I am now a Tenure-track Associate Professor at [Institute of Information Enginee
 Before that, I received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2023, and received the Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018. 
 I have published several top conference/journel papers, and undertaked multiple important projects.
 My main research interests include **knowledge fusion & reasoning**, **graph data mining** and **LLM application**. 
-As the main lecturer, I now teach the core course, 'Cross-modal intelligent computing and its applications', to graduate students at the University of Chinese Academy of Sciences (UCAS).
+Now, as the main lecturer, I teach the core course, *Cross-modal intelligent computing and its applications*, to graduate students at the University of Chinese Academy of Sciences (UCAS).
 
 # Projects
 
