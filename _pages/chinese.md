@@ -6,7 +6,10 @@ author_profile: true
 
 盛傢伟，预聘副研究员，2023 年博士毕业于[中国科学院信息工程研究所](http://www.iie.ac.cn/)(信工所)，入选信工所优才计划 B 类，主要研究兴趣为**知识融合推理、图数据挖掘、大模型应用**。
 
-总计在 CCF-A/B 类国际顶级学术会议或期刊发表论文 20 余篇，带队在全国知识图谱旗舰会议 CCKS2021、2022 技术评测中两次获第一名及技术创新奖，担任 10 余个国际顶级学术会议或期刊审稿人，授权或受理专利 7 项。目前获国家自然科学基金青年基金、中科院特别研究助理项目、博士后国资计划、快手校企合作等多个项目资助，参与重点研发、中科院先导等多个重点项目。曾获中科院朱李月华优秀博士生奖学金、优秀毕业生奖等。
+总计在 CCF-A/B 类国际顶级学术会议或期刊发表论文 20 余篇，带队在全国知识图谱旗舰会议 CCKS2021、2022 技术评测中两次获第一名及技术创新奖，担任 10 余个国际顶级学术会议或期刊审稿人，授权或受理专利 7 项。
+目前获国家自然科学基金青年基金、中科院特别研究助理项目、博士后国资计划、快手校企合作等多个项目资助，参与重点研发、中科院先导等多个重点项目。
+曾获中科院朱李月华优秀博士生奖学金、优秀毕业生奖等。
+目前，我作为主讲教师在中国科学院大学讲授《跨模态智能计算及其应用》研究生专业核心课。
 
 # 个人履历([CV](https://jiaweisheng.github.io/files/JiaweiSheng_CV.pdf))
 
@@ -27,17 +30,25 @@ author_profile: true
 
 # 代表论文
 
+- **Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective.** <br>
+  Taoyu Su, **Jiawei Sheng\***, Duohe Ma, Xiaodong Li, Juwei Yue, Mengxiao Song, Yingkai Tang and Tingwen Liu.
+  _The 48th International ACM SIGIR Conference. (**SIGIR 2025**, CCF-A, **Corresponding Author**)_
+
 - **Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation.** <br>
-  Xiaodong Li, Hengzhu Tang, **Jiawei Sheng\***, Xinghua Zhang, **Li Gao\***, Suqi Cheng, Dawei Yin, Tingwen Liu.
-  _2025 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. (**KDD 2025**, CCF-A)_
+  Xiaodong Li, Hengzhu Tang, **Jiawei Sheng\***, Xinghua Zhang, Li Gao, Suqi Cheng, Dawei Yin, Tingwen Liu.
+  _2025 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. (**KDD 2025**, CCF-A, **Corresponding Author**)_
+
+- **Hyperbolic GNN: Spectral Graph Neural Networks in the Perspective of A System of Hyperbolic Partial Differential Equations.**<br>
+  Juwei Yue, Haikuo Li, **Jiawei Sheng\***, Xiaodong Li, Taoyu Su, Tingwen Liu, Li Guo.
+  _Forty-Second International Conference on Machine Learning 2025. (**ICML 2025**, CCF-A, **Corresponding Author**)_
 
 - **Graph Wave Networks.**<br>
-  Juwei Yue, Haikuo Li, **Jiawei Sheng\***, Yihan Guo, Xinghua Zhang, Chuan Zhou, **Tingwen Liu\***, Li Guo.
-  _International World Wide Web Conference 2025. (**WWW 2025**, CCF-A)_
+  Juwei Yue, Haikuo Li, **Jiawei Sheng\***, Yihan Guo, Xinghua Zhang, Chuan Zhou, Tingwen Liu\*, Li Guo.
+  _International World Wide Web Conference 2025. (**WWW 2025**, CCF-A, **Corresponding Author**)_
 
 - **IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment.**<br>
   Taoyu Su, **Jiawei Sheng\***, Shicheng Wang, Xinghua Zhang, Hongbo Xu, Tingwen Liu.
-  _In Proceedings of the ACM MULTIMEDIA 2024. (**ACM MM 2024**, CCF-A)_
+  _In Proceedings of the ACM MULTIMEDIA 2024. (**ACM MM 2024**, CCF-A, **Corresponding Author**)_
 
 - **Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification.**<br>
   **Jiawei Sheng**, Xin Cong, Jiangxia Cao, Shu Guo, Chen Li, Lihong Wang, Tingwen Liu, Hongbo Xu.
