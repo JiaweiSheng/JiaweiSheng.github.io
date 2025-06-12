@@ -14,15 +14,15 @@ My main research interests include **event extraction**, **information extractio
 Now, I am preparing for NLP algorithm engineer recruit.  -->
 
 I am now a Tenure-track Associate Professor at [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/).
-Before that, I received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2023, and received the Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018. 
+Before that, I received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2023, and received the Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018.
 I have published several top conference/journel papers, and undertaked multiple important projects.
-My main research interests include **knowledge fusion & reasoning**, **graph data mining** and **LLM application**. 
-Now, as the main lecturer, I teach the core course, *Cross-modal intelligent computing and its applications*, to graduate students at the University of Chinese Academy of Sciences (UCAS).
+My main research interests include **knowledge fusion & reasoning**, **graph data mining** and **LLM application**.
+Now, as the main lecturer, I teach the core course, _Cross-modal intelligent computing and its applications_, to graduate students at the University of Chinese Academy of Sciences (UCAS).
 
 # Projects
 
 - National Natural Science Foundation of China Youth Project (No.62406319). Research on Cross-domain Knowledge Graph Completion. 2025.1 - 2027.12. ¥300,000.
-- Postdoctoral Fellowship Program (Grade C) of China Postdoctoral Science Foundation (No.GZC20232968). Research on Knowledge Discovery Based on Cross-domain Modeling. 2023.07 - 2025.07. ¥600,000 (240k from CPSF + 360k from CAS).
+- Postdoctoral Fellowship Program (Grade C) of China Postdoctoral Science Foundation (No.GZC20232968). Research on Knowledge Discovery Based on Cross-domain Modeling. 2023.07 - 2025.07. ¥600,000 (¥240k from CPSF + ¥360k from CAS).
 - Special Research Assistant Project of CAS (Talent Program Class B), 2023.07 - 2026.07, ¥800,000.
 - Kwai School-enterprise Cooperation Project. 2024.8 - 2025.6. ¥500,000.
 - R&D Sub-program. Specific Account Recognition Technology, 2025.01-2027.12. ¥600,000.
