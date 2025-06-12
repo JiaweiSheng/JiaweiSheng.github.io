@@ -14,8 +14,10 @@ My main research interests include **event extraction**, **information extractio
 Now, I am preparing for NLP algorithm engineer recruit.  -->
 
 I am now a Tenure-track Associate Professor at [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/).
-Before that, I received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2023, and received the Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018. I have published several top conference/journel papers, and undertaked multiple important projects.
-My main research interests include **knowledge fusion & reasoning**, **graph data mining** and **LLM application**.
+Before that, I received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2023, and received the Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018. 
+I have published several top conference/journel papers, and undertaked multiple important projects.
+My main research interests include **knowledge fusion & reasoning**, **graph data mining** and **LLM application**. 
+Now, as the main lecturer, I teach the core course, *Cross-modal intelligent computing and its applications*, to graduate students at the University of Chinese Academy of Sciences (UCAS).
 
 # Projects
 
@@ -29,17 +31,25 @@ My main research interests include **knowledge fusion & reasoning**, **graph dat
 
 # Selected Papers
 
+- **Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective.** <br>
+  Taoyu Su, **Jiawei Sheng\***, Duohe Ma, Xiaodong Li, Juwei Yue, Mengxiao Song, Yingkai Tang and Tingwen Liu.
+  _The 48th International ACM SIGIR Conference. (**SIGIR 2025**, CCF-A, **Corresponding Author**)_
+
 - **Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation.** <br>
-  Xiaodong Li, Hengzhu Tang, **Jiawei Sheng\***, Xinghua Zhang, **Li Gao\***, Suqi Cheng, Dawei Yin, Tingwen Liu.
-  _2025 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. (**KDD 2025**, CCF-A)_
+  Xiaodong Li, Hengzhu Tang, **Jiawei Sheng\***, Xinghua Zhang, Li Gao, Suqi Cheng, Dawei Yin, Tingwen Liu.
+  _2025 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. (**KDD 2025**, CCF-A, **Corresponding Author**)_
+
+- **Hyperbolic GNN: Spectral Graph Neural Networks in the Perspective of A System of Hyperbolic Partial Differential Equations.**<br>
+  Juwei Yue, Haikuo Li, **Jiawei Sheng\***, Xiaodong Li, Taoyu Su, Tingwen Liu, Li Guo.
+  _Forty-Second International Conference on Machine Learning 2025. (**ICML 2025**, CCF-A, **Corresponding Author**)_
 
 - **Graph Wave Networks.**<br>
-  Juwei Yue, Haikuo Li, **Jiawei Sheng\***, Yihan Guo, Xinghua Zhang, Chuan Zhou, **Tingwen Liu\***, Li Guo.
-  _International World Wide Web Conference 2025. (**WWW 2025**, CCF-A)_
+  Juwei Yue, Haikuo Li, **Jiawei Sheng\***, Yihan Guo, Xinghua Zhang, Chuan Zhou, Tingwen Liu\*, Li Guo.
+  _International World Wide Web Conference 2025. (**WWW 2025**, CCF-A, **Corresponding Author**)_
 
 - **IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment.**<br>
   Taoyu Su, **Jiawei Sheng\***, Shicheng Wang, Xinghua Zhang, Hongbo Xu, Tingwen Liu.
-  _In Proceedings of the ACM MULTIMEDIA 2024. (**ACM MM 2024**, CCF-A)_
+  _In Proceedings of the ACM MULTIMEDIA 2024. (**ACM MM 2024**, CCF-A, **Corresponding Author**)_
 
 - **Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification.**<br>
   **Jiawei Sheng**, Xin Cong, Jiangxia Cao, Shu Guo, Chen Li, Lihong Wang, Tingwen Liu, Hongbo Xu.
