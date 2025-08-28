@@ -17,13 +17,13 @@ Now, I am preparing for NLP algorithm engineer recruit.  -->
 <!-- I have published several top conference/journel papers, and undertaked multiple important projects. -->
 
 I am now a ​Pre-Tenure Associate Professor at [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/).
-My main research interests include **knowledge graph**, **graph mining** and **LLM application**. 
-Now, as the main lecturer, I teach the core course, *Cross-modal intelligent computing and its applications*, to graduate students at the University of Chinese Academy of Sciences (UCAS).
+My main research interests include **knowledge fusion and reasoning ** and **LLM application**. 
+Now, I teach the core course, *Cross-modal intelligent computing and its applications*, to graduate students at the University of Chinese Academy of Sciences (UCAS).
 
-# Education & Professional Experience​
+# Education
 - Jul. 2023 – Present​: Institute of Information Engineering, Chinese Academy of Sciences. ​Pre-Tenure Associate Professor
 - ​Sep. 2018 – Jun. 2023​: ​Institute of Information Engineering, Chinese Academy of Sciences​. Ph.D. Candidate in Natural Language Processing
-- ​Sep. 2014 – Jun. 2018​: ​Jilin University​. B.Eng. in Computer Science and Technology
+- ​Sep. 2014 – Jun. 2018​: ​Jilin University​. ​B.S.​​ in Computer Science and Technology
 
 # Projects
 
