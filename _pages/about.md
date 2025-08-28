@@ -13,6 +13,7 @@ I received my Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn
 My main research interests include **event extraction**, **information extraction** and **knowledge graph completion.**
 Now, I am preparing for NLP algorithm engineer recruit.  -->
 
+<<<<<<< HEAD
 I am now a Tenure-track Associate Professor at [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/).
 Before that, I received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2023, and received the Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018.
 I have published several top conference/journel papers, and undertaked multiple important projects.
@@ -21,6 +22,19 @@ Now, as the main lecturer, I teach the core course, _Cross-modal intelligent com
 
 
 
+=======
+<!-- Before that, I received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2023, and received the Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018.  -->
+<!-- I have published several top conference/journel papers, and undertaked multiple important projects. -->
+
+I am now a ​Pre-Tenure Associate Professor at [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/).
+My main research interests include **knowledge graph**, **graph mining** and **LLM application**. 
+Now, as the main lecturer, I teach the core course, *Cross-modal intelligent computing and its applications*, to graduate students at the University of Chinese Academy of Sciences (UCAS).
+>>>>>>> a7da4a0 (update)
+
+# Education & Professional Experience​
+- Jul. 2023 – Present​: Institute of Information Engineering, Chinese Academy of Sciences. ​Pre-Tenure Associate Professor
+- ​Sep. 2018 – Jun. 2023​: ​Institute of Information Engineering, Chinese Academy of Sciences​. Ph.D. Candidate in Natural Language Processing
+- ​Sep. 2014 – Jun. 2018​: ​Jilin University​. B.Eng. in Computer Science and Technology
 
 # Projects
 
