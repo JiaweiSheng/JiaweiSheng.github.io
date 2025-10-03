@@ -13,8 +13,8 @@ author_profile: true
 
 # 个人履历([CV](https://jiaweisheng.github.io/files/JiaweiSheng_CV.pdf))
 
-- 2023.07 至今：中国科学院信工所，预聘副研究员、博士后(导师:柳厅文研究员)
-- 2018.09 - 2023.06：中国科学院信工所，自然语言处理，博士研究生 (导师:王丽宏教授)
+- 2023.07 至今：中国科学院信工所，预聘副研究员、博士后
+- 2018.09 - 2023.06：中国科学院信工所，自然语言处理，博士研究生
 - 2014.09 - 2018.06：吉林大学，计算机科学与技术，本科生
 
 # 项目情况
@@ -83,4 +83,4 @@ author_profile: true
 
 - Conference PC member: NeurIPS, ICML, ICLR, SIGIR, KDD, ACL, WWW, MM, AAAI, IJCAI, etc.
 - Conference AC: CCL-24, etc.
-- Journal Reviewer: TKDE, ESWA, etc.
+- Journal Reviewer: TKDE, etc.

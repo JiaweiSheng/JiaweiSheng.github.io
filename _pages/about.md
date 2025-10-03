@@ -17,7 +17,7 @@ Now, I am preparing for NLP algorithm engineer recruit.  -->
 <!-- I have published several top conference/journel papers, and undertaked multiple important projects. -->
 
 I am now a ​Pre-Tenure Associate Professor at [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/).
-My main research interests include **knowledge fusion and reasoning ** and **LLM application**. 
+My main research interests include **knowledge integration and reasoning** and **LLM application**. 
 Now, I teach the core course, *Cross-modal intelligent computing and its applications*, to graduate students at the University of Chinese Academy of Sciences (UCAS).
 
 # Education
@@ -90,6 +90,6 @@ Now, I teach the core course, *Cross-modal intelligent computing and its applica
 # Services
 
 - Conference PC member: NeurIPS, ICML, ICLR, SIGIR, KDD, ACL, WWW, MM, AAAI, IJCAI, etc.
+- Conference AC: CCL-24, etc.
+- Journal Reviewer: TKDE, etc.
 <!-- - NeurIPS-24, AAAI-23/24, SIGIR-23/24, KDD-24, ACL-24, WWW-24, IJCAI-24, CIKM-23/24, DASFAA-24, COLING-24, ICASSP-23/24, ECML-PKDD-22/23, SIGIR-AP-23, IJCNN-24, etc. -->
-- Conference AC: CCL-24.
-- Journal Reviewer: TKDE, ESWA.
