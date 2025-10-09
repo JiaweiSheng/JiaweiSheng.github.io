@@ -11,7 +11,8 @@ author_profile: true
 目前，我作为主讲教师在中国科学院大学讲授《跨模态智能计算及其应用》研究生专业核心课、担任方班辅导教师。
 长期担任 10 余个国际顶级学术会议或期刊审稿人，授权或受理专利 7 项。曾获中科院朱李月华优秀博士生奖学金、优秀毕业生奖等。
 
-# 个人履历([CV](https://jiaweisheng.github.io/files/JiaweiSheng_CV.pdf))
+# 个人履历
+<!-- ([CV](https://jiaweisheng.github.io/files/JiaweiSheng_CV.pdf)) -->
 
 - 2023.07 至今：中国科学院信工所，预聘副研究员、博士后
 - 2018.09 - 2023.06：中国科学院信工所，自然语言处理，博士研究生
