@@ -1,39 +1,36 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: 'About me'
+excerpt: 'About me'
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<!-- I am currently pursuing a PhD degree (the 4/5 year) in the [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/).
-I received my Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018.  Up to now, I have published several papers in the top conferences (e.g., ACL, SIGIR, EMNLP, etc.), and won prizes in data competitions.
-My main research interests include **event extraction**, **information extraction** and **knowledge graph completion.**
-Now, I am preparing for NLP algorithm engineer recruit.  -->
+Jiawei Sheng is a Tenure-Track Associate Professor. He received his Ph.D. in 2023 from the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), and was selected into the IIE Outstanding Talent Program (Category B). His primary research interests lie in **knowledge fusion and reasoning**, and **large language model applications**.
 
-<!-- Before that, I received the Ph.D. degree from the Institute of Information Engineering, Chinese Academy of Sciences in 2023, and received the Bachelor’s degree from [Jilin University](https://www.jlu.edu.cn/) in 2018.  -->
-<!-- I have published several top conference/journel papers, and undertaked multiple important projects. -->
-
-I am now a ​Pre-Tenure Associate Professor at [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/).
-My main research interests include **knowledge integration and reasoning** and **LLM application**. 
-Now, I teach the core course, *Cross-modal intelligent computing and its applications*, to graduate students at the University of Chinese Academy of Sciences (UCAS).
+He has authored or co-authored more than 30 papers in top-tier international conferences and journals ranked as CCF-A/B.
+As team leader, he secured first place and the Technical Innovation Award in the evaluation tasks of the China Conference on Knowledge Graph and Semantic Computing (CCKS) in both 2021 and 2022.
+At the University of Chinese Academy of Sciences (UCAS), he serves as the instructor for the graduate core course "Cross-Modal Intelligent Computing and Its Applications".
+He has been a regular reviewer for over ten top-tier international conferences and journals.
+His honors include the CAS Zhu Li-Yue Hua Outstanding Doctoral Student Scholarship and the Outstanding Graduate Award from IIE, CAS.
 
 # Education
-- Jul. 2023 – Present​: Institute of Information Engineering, Chinese Academy of Sciences. ​Pre-Tenure Associate Professor
+
+- Jul. 2023 – Present​: Institute of Information Engineering, Chinese Academy of Sciences. Tenure-Track Associate Professor
 - ​Sep. 2018 – Jun. 2023​: ​Institute of Information Engineering, Chinese Academy of Sciences​. Ph.D. Candidate in Natural Language Processing
 - ​Sep. 2014 – Jun. 2018​: ​Jilin University​. ​B.S.​​ in Computer Science and Technology
 
 # Projects
 
-- National Natural Science Foundation of China Youth Project (No.62406319). Research on Cross-domain Knowledge Graph Completion. 2025.1 - 2027.12. ¥300,000.
-- Postdoctoral Fellowship Program (Grade C) of China Postdoctoral Science Foundation (No.GZC20232968). Research on Knowledge Discovery Based on Cross-domain Modeling. 2023.07 - 2025.07. ¥600,000 (¥240k from CPSF + ￥360k from CAS).
-- Special Research Assistant Project of CAS (Talent Program Class B), 2023.07 - 2026.07, ¥800,000.
-- Kwai School-enterprise Cooperation Project. 2024.8 - 2025.6. ¥500,000.
-- R&D Sub-program. Specific Account Recognition Technology, 2025.01-2027.12. ¥600,000.
-
-<!-- - Talent Program Class B of Institute of Information Engineering, CAS, Tenure-track Young Associate Professor, 2023.07 - 2026.07. -->
+- National Natural Science Foundation of China Youth Project. PI. Research on Cross-domain Knowledge Graph Completion. 2025.1 - 2027.12. ¥300,000.
+- Postdoctoral Fellowship Program (Grade C). PI. Research on Knowledge Discovery Based on Cross-domain Modeling. 2023.07 - 2025.07. ¥600,000 (¥240k from CPSF + ¥360k from CAS).
+- Special Research Assistant Project of CAS (Talent Program Class B). PI. 2023.07 - 2026.07. ¥800,000.
+- Kwai School-enterprise Cooperation Project. PI. 2024.8 - 2025.6. ¥500,000.
+- R&D Sub-program. PI. Specific Account Recognition Technology. 2025.01-2027.12. ¥600,000.
+- R&D, Co-I. Research on KG Construction Theory. 2021.12-2024.11.
+- SPRP CAS, Co-I. Research on KG Construtcion and Utilization. 2019.08-2021.12.
 
 # Selected Papers
 
@@ -73,7 +70,7 @@ Now, I teach the core course, *Cross-modal intelligent computing and its applica
   **Jiawei Sheng**, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu, Hongbo Xu.
   _In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing. (**EMNLP 2020**, CCF-B)_
 
-# Honors and Awards
+# Selected Awards
 
 - The **Top 1 Winner** of CCKS 2021 Competition: Fine-grained Event Detection Competition, Chinese Information Processing Society of China. 2021.
 - The **Technological Innovation Award** of CCKS 2021 Competition: Fine-grained Event Detection Competition, Chinese Information Processing Society of China. 2021.
