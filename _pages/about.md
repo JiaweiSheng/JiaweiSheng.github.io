@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Jiawei Sheng is a Tenure-Track Associate Professor. He received his Ph.D. in 2023 from the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), and was selected into the IIE Outstanding Talent Program (Category B). His primary research interests lie in **knowledge fusion and reasoning**, and **large language model applications**.
+Jiawei Sheng is a Tenure-Track Associate Professor. He received his Ph.D. in 2023 from the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), and was selected into the IIE Outstanding Talent Program (Class B). His primary research interests lie in **knowledge fusion and reasoning**, and **large language model applications**.
 
 He has authored or co-authored more than 30 papers in top-tier international conferences and journals ranked as CCF-A/B.
 As team leader, he secured first place and the Technical Innovation Award in the evaluation tasks of the China Conference on Knowledge Graph and Semantic Computing (CCKS) in both 2021 and 2022.
-At the University of Chinese Academy of Sciences (UCAS), he serves as the instructor for the graduate core course "Cross-Modal Intelligent Computing and Its Applications".
+At the University of Chinese Academy of Sciences (UCAS), he serves as the instructor for the graduate core course _Cross-Modal Intelligent Computing and Its Applications_.
 He has been a regular reviewer for over ten top-tier international conferences and journals.
-His honors include the CAS Zhu Li-Yue Hua Outstanding Doctoral Student Scholarship and the Outstanding Graduate Award from IIE, CAS.
 
 # Education
 
