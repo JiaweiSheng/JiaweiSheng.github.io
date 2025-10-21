@@ -86,6 +86,6 @@ He has been a regular reviewer for over ten top-tier international conferences a
 # Services
 
 - Conference PC member: NeurIPS, ICML, ICLR, SIGIR, KDD, ACL, WWW, MM, AAAI, IJCAI, etc.
-- Conference AC: CCL-24, etc.
+- Conference AC: ACL ARR, CCL, etc.
 - Journal Reviewer: TKDE, etc.
 <!-- - NeurIPS-24, AAAI-23/24, SIGIR-23/24, KDD-24, ACL-24, WWW-24, IJCAI-24, CIKM-23/24, DASFAA-24, COLING-24, ICASSP-23/24, ECML-PKDD-22/23, SIGIR-AP-23, IJCNN-24, etc. -->

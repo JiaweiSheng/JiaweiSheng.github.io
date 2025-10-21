@@ -81,5 +81,5 @@ author_profile: true
 长期担任多个国际顶级学术会议/期刊审稿人。
 
 - Conference PC member: NeurIPS, ICML, ICLR, SIGIR, KDD, ACL, WWW, MM, AAAI, IJCAI, etc.
-- Conference AC: CCL-24, etc.
+- Conference AC: ACL ARR, CCL, etc.
 - Journal Reviewer: TKDE, etc.
