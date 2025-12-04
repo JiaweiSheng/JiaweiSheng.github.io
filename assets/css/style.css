@@ -7,6 +7,14 @@ body {
   background-color: #fff;
 }
 
+/* 标题优化 */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 200;       /* 稍微加粗，提升可读性 */
+  margin-top: 1.2em;
+  margin-bottom: 0.6em;
+  color: #222;
+}
+
 
 /* 链接样式（可选：增加 hover 效果） */
 a {
