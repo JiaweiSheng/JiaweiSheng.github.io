@@ -38,3 +38,26 @@ a:hover {
 p {
   margin-bottom: 1em;
 }
+
+/* 增加容器最大宽度，避免长行长文本难读 */
+.container, .wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+/* 卡片式区块（用于 News / Publications） */
+.card {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  border-left: 3px solid #e0e0e0;
+}
+
+/* 代码块字体（保持等宽但更现代） */
+code, pre {
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+  font-size: 0.95em;
+}
+
+
+
