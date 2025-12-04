@@ -16,11 +16,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 1.8rem;      /* 调小了 h1 字体大小 */
+  font-size: 1.4rem;      /* 调小了 h1 字体大小 */
 }
 
 h2 {
-  font-size: 1.6rem;      /* 相应调整 h2 大小以保持层次感 */
+  font-size: 1.4rem;      /* 相应调整 h2 大小以保持层次感 */
 }
 
 h3 {
