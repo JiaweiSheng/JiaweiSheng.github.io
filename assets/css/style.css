@@ -1,0 +1,40 @@
+/* 现代系统字体栈 —— 和 Aiden 网站一致 */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  font-size: 16px;
+  line-height: 1.6;       /* 更舒适的行高 */
+  color: #333;            /* 深灰文字，比纯黑更柔和 */
+  background-color: #fff;
+}
+
+/* 标题优化 */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;       /* 稍微加粗，提升可读性 */
+  margin-top: 1.2em;
+  margin-bottom: 0.6em;
+  color: #222;
+}
+
+h1 {
+  font-size: 2.2rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
+
+/* 链接样式（可选：增加 hover 效果） */
+a {
+  color: #0055bb;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #003377;
+}
+
+/* 段落间距 */
+p {
+  margin-bottom: 1em;
+}
