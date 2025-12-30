@@ -23,16 +23,15 @@ author_profile: true
   _In Proceedings of **WWW 2025**, CCF-A_
 
 - **Personalized Multi-Interest Modeling for Cross-Domain Recommendation to Cold-Start Users.** <br>
-  Xiaodong Li, Jiawei Sheng, Jiangxia Cao, Xinghua Zhang, Wenyuan Zhang, Yong Sun, Shirui Pan, Zhihong Tian, Tingwen Liu.
+  Xiaodong Li, **Jiawei Sheng**, Jiangxia Cao, Xinghua Zhang, Wenyuan Zhang, Yong Sun, Shirui Pan, Zhihong Tian, Tingwen Liu.
   _In Proceedings of **ICDE 2025**, CCF-A_
 
 - **Debiasing Multimodal Large Language Models via Noise-Aware Preference Optimization.** <br>
   Zefeng Zhang, Hengzhu Tang, **Jiawei Sheng**, Zhenyu Zhang, YiMing Ren, Zhenyang Li, Dawei Yin, Duohe Ma, Tingwen Liu.
   _In Proceedings of **CVPR 2025**, CCF-A_
 
-
 - **Revealing and Mitigating the Challenge of Detecting Character Knowledge Errors in LLM Role-Playing.**<br>
-  Wenyuan Zhang, Shuaiyi Nie, Jiawei Sheng, Zefeng Zhang, Xinghua Zhang, Yongquan He, Tingwen Liu. 
+  Wenyuan Zhang, Shuaiyi Nie, **Jiawei Sheng**, Zefeng Zhang, Xinghua Zhang, Yongquan He, Tingwen Liu. 
   _In Proceedings of **EMNLP 2025**, CCF-B_
 
 - **Mixture of Hidden-Dimensions Transformer.**<br>
