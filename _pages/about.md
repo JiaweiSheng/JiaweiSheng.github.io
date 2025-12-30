@@ -19,10 +19,10 @@ Please feel free to contact me should you wish to discuss any matters of interes
 
 My primary research interests lie in **knowledge representation and reasoning (KRR), and LLM applications**, with a focus on interdisciplinary research that bridges the following areas:
 
-- **Knowledge Representation**: Graph neural networks, information-theoretic representations, diffusion models, multimodal learning, etc.
-- **Knowledge Fusion**: Entity alignment, cross-domain association modeling, etc.
-- **Knowledge Reasoning**: Knowledge completion, LLM-based reasoning, neuro-symbolic AI, etc.
-- **Knowledge Applications**: Recommendation systems, knowledge-driven agent systems, etc.
+- **Representation**: Graph neural networks, information-theoretic representations, diffusion models, etc.
+- **Fusion**: Entity alignment, multimodal learning, cross-domain transfer, etc.
+- **Reasoning**: Knowledge graph reasoning, LLM-based reasoning, etc.
+- **Applications**: Recommendation systems, agentic systems, neuro-symbolic systems, etc.
 
 
 # Education
