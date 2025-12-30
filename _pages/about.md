@@ -21,7 +21,7 @@ My primary research interests lie in **knowledge representation and reasoning (K
 
 - **Knowledge Representation**: Graph neural networks, information-theoretic representations, diffusion models, multimodal learning, etc.
 - **Knowledge Fusion**: Entity alignment, cross-domain association modeling, etc.
-- **Knowledge Reasoning**: Knowledge completion, LLM-based reasoning, neuro-symbolic systems, etc.
+- **Knowledge Reasoning**: Knowledge completion, LLM-based reasoning, neuro-symbolic AI, etc.
 - **Knowledge Applications**: Recommendation systems, knowledge-driven agent systems, etc.
 
 
