@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Tenure-Track Associate Professor at Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), and was selected into the IIE Outstanding Talent Program (Class B).
+Hello! I am a Tenure-Track Associate Professor at Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), and was selected into the IIE Outstanding Talent Program (Class B).
 
 My research has led to over 30 publications in CCF-A/B-ranked top-tier international conferences and journals. As team leader, I secured first place and the Technical Innovation Award in the evaluation tasks of the China Conference on Knowledge Graph and Semantic Computing (CCKS) in both 2021 and 2022.
 At the University of Chinese Academy of Sciences (UCAS), I teach the graduate core course _Cross-Modal Intelligent Computing and Its Applications_. I also serve as a regular reviewer for more than ten leading international conferences and journals.
