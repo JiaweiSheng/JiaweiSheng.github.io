@@ -8,12 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-Jiawei Sheng is a Tenure-Track Associate Professor. He received his Ph.D. in 2023 from the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), and was selected into the IIE Outstanding Talent Program (Class B). His primary research interests lie in **knowledge fusion and reasoning**, and **large language model applications**.
+I am a Tenure-Track Associate Professor at Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), and was selected into the IIE Outstanding Talent Program (Class B).
 
-He has authored or co-authored more than 30 papers in top-tier international conferences and journals ranked as CCF-A/B.
-As team leader, he secured first place and the Technical Innovation Award in the evaluation tasks of the China Conference on Knowledge Graph and Semantic Computing (CCKS) in both 2021 and 2022.
-At the University of Chinese Academy of Sciences (UCAS), he serves as the instructor for the graduate core course _Cross-Modal Intelligent Computing and Its Applications_.
-He has been a regular reviewer for over ten top-tier international conferences and journals.
+My research has led to over 30 publications in CCF-A/B-ranked top-tier international conferences and journals. As team leader, I secured first place and the Technical Innovation Award in the evaluation tasks of the China Conference on Knowledge Graph and Semantic Computing (CCKS) in both 2021 and 2022.
+
+At the University of Chinese Academy of Sciences (UCAS), I teach the graduate core course _Cross-Modal Intelligent Computing and Its Applications_. I also serve as a regular reviewer for more than ten leading international conferences and journals.
+
+Please feel free to contact me should you wish to discuss any matters of interest. :-)
+
+# Research Interests
+
+My primary research interests lie in **knowledge representation and reasoning, and large language model (LLM) applications**, with a focus on interdisciplinary research that bridges the following areas:
+
+- Knowledge Representation: Graph neural networks, information-theoretic representations, diffusion models, multimodal learning, etc.
+- Knowledge Fusion: Entity alignment, cross-domain association modeling, etc.
+- Knowledge Reasoning: Knowledge completion, LLM-based reasoning, neuro-symbolic AI systems, etc.
+- Knowledge Applications: Recommendation systems, knowledge-driven agent systems, etc.
 
 
 # Education
@@ -36,7 +46,7 @@ He has been a regular reviewer for over ten top-tier international conferences a
 
 - **Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion.** <br>
   **Jiawei Sheng**, Taoyu Su, Weiyi Yang, Linghui Wang, Yongxiu Xu, Tingwen Liu.
-  _In Proceedings of **AAAI 2026**. (CCF-A)_
+  _In Proceedings of **AAAI 2026**. (CCF-A, oral 4.6%)_
 
 - **Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective.** <br>
   Taoyu Su, **Jiawei Sheng\***, Duohe Ma, Xiaodong Li, Juwei Yue, Mengxiao Song, Yingkai Tang and Tingwen Liu.

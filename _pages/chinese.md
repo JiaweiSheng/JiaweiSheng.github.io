@@ -4,12 +4,21 @@ permalink: /chinese/
 author_profile: true
 ---
 
-盛傢伟，预聘副研究员，2023 年博士毕业于[中国科学院信息工程研究所](http://www.iie.ac.cn/)(信工所)，入选信工所优才计划 B 类，主要研究兴趣为**知识融合推理、大模型应用**。
+盛傢伟，预聘副研究员，2023 年博士毕业于[中国科学院信息工程研究所](http://www.iie.ac.cn/)(信工所)，入选信工所优才计划 B 类。
 
 总计在 CCF-A/B 类国际顶级学术会议或期刊发表论文 30 余篇，带队在全国知识图谱旗舰会议 CCKS2021、2022 技术评测中两次获第一名及技术创新奖。
 目前获国家自然科学基金青年项目 C 类、中科院特别研究助理项目、博士后国资计划、快手校企合作等多个项目资助，参与重点研发、中科院先导等多个重点项目。
 目前，我作为主讲教师在中国科学院大学讲授《跨模态智能计算及其应用》研究生专业核心课、担任方班辅导教师。
 长期担任 10 余个国际顶级学术会议或期刊审稿人，授权或受理专利 7 项。曾获中科院朱李月华优秀博士生奖学金、优秀毕业生奖等。
+
+# 研究兴趣
+
+主要研究兴趣聚焦于**知识计算、知识服务、大模型应用**，致力于多方向的交叉融合研究，具体包括：
+
+- 知识表征: 图神经网络、信息论驱动的表征方法、扩散模型、多模态学习等；
+- 知识融合: 实体对齐、跨域关联建模等；
+- 知识推理: 知识补全、基于大语言模型的推理机制、神经符号系统等；
+- 知识应用: 推荐系统、基于知识的智能体系统等。
 
 # 个人履历
 
@@ -31,7 +40,7 @@ author_profile: true
 
 - **Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion.** <br>
   **Jiawei Sheng**, Taoyu Su, Weiyi Yang, Linghui Wang, Yongxiu Xu, Tingwen Liu.
-  _In Proceedings of **AAAI 2026**. (CCF-A)_
+  _In Proceedings of **AAAI 2026**. (CCF-A, oral 4.6%)_
 
 - **Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective.** <br>
   Taoyu Su, **Jiawei Sheng\***, Duohe Ma, Xiaodong Li, Juwei Yue, Mengxiao Song, Yingkai Tang and Tingwen Liu.
