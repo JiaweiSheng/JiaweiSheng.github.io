@@ -18,9 +18,9 @@ He has been a regular reviewer for over ten top-tier international conferences a
 
 # Education
 
-- Jul. 2023 – Present​: Institute of Information Engineering, Chinese Academy of Sciences. Tenure-Track Associate Professor
-- ​Sep. 2018 – Jun. 2023​: ​Institute of Information Engineering, Chinese Academy of Sciences​. Ph.D. Candidate in Natural Language Processing
-- ​Sep. 2014 – Jun. 2018​: ​Jilin University​. ​B.S.​​ in Computer Science and Technology
+- Jul. 2023 – Present​: Institute of Information Engineering, Chinese Academy of Sciences. Tenure-Track Associate Professor.
+- ​Sep. 2018 – Jun. 2023​: ​Institute of Information Engineering, Chinese Academy of Sciences​. Ph.D. Candidate in Natural Language Processing.
+- ​Sep. 2014 – Jun. 2018​: ​Jilin University​. ​B.S.​​ in Computer Science and Technology.
 
 # Projects
 
@@ -94,6 +94,9 @@ He has been a regular reviewer for over ten top-tier international conferences a
 - The **Technological Innovation Award** of CCKS 2020 Competition: Few-shot Cross-domain Event Extraction Competition, Chinese Information Processing Society of China. 2020.
 - The **Zhuli Yuehua outstanding doctoral scholarship, Chinese Academy of Sciences** at 2022.
 - Outstanding Graduate Award of Institute of Information Engineering, Chinese Academy of Sciences at 2023.
+- Academic Scholarship, University of Chinese Academy of Sciences.
+- Outstanding Student Award, University of Chinese Academy of Sciences.
+- Recipient of the Inspur Scholarship at 2016.
 
 # Competitions
 

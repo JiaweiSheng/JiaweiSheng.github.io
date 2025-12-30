@@ -82,16 +82,22 @@ author_profile: true
   Presented at ECAI 2023, Kraków, Poland, September 30 – October 4, 2023. (CCF-B)
 
 
-# 获奖情况
+# 获奖荣誉
 
 - CCKS2020 小样本跨类迁移事件抽取竞赛，比赛第一名(1/391)
 - CCKS2020 小样本跨类迁移事件抽取竞赛，技术创新奖
 - CCKS2021 通用细粒度事件检测竞赛，比赛第一名(1/253)
 - CCKS2021 通用细粒度事件检测竞赛，技术创新奖
-- 中国科学院朱李月华优秀博士奖学金
-- 中国科学院信息工程研究所优秀毕业生奖
+- 中国科学院朱李月华优秀博士奖学金，2022
+- 中国科学院信息工程研究所优秀毕业生奖，2023
 - 中国科学院大学学业奖学金
 - 中国科学院大学三好学生
+- 浪潮奖学金，2016
+
+<!-- # 竞赛评测
+
+- [CCKS 2021: Fine-grained Event Detection Competition](http://sigkg.cn/ccks2021/), Rank 1/253 (Team leader)
+- [CCKS 2020: Few-shot Cross-domain Event Extraction Competition](http://sigkg.cn/ccks2020/?page_id=69#task4), Rank: 1/391 (Team leader) -->
 
 # 学术服务
 
