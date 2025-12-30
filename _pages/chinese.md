@@ -31,43 +31,43 @@ author_profile: true
 
 - **Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion.** <br>
   **Jiawei Sheng**, Taoyu Su, Weiyi Yang, Linghui Wang, Yongxiu Xu, Tingwen Liu.
-  _In Proceedings of AAAI, 2026. CCF-A_
+  _In Proceedings of **AAAI 2026**. (CCF-A)_
 
 - **Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective.** <br>
   Taoyu Su, **Jiawei Sheng\***, Duohe Ma, Xiaodong Li, Juwei Yue, Mengxiao Song, Yingkai Tang and Tingwen Liu.
-  _In Proceedings of SIGIR, 2025. CCF-A_
+  _In Proceedings of **SIGIR 2025**. (CCF-A)_
 
 - **Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation.** <br>
   Xiaodong Li, Hengzhu Tang, **Jiawei Sheng\***, Xinghua Zhang, Li Gao, Suqi Cheng, Dawei Yin, Tingwen Liu.
-  _In Proceedings of KDD, 2025. CCF-A_
+  _In Proceedings of **KDD 2025**. (CCF-A)_
 
 - **Hyperbolic GNN: Spectral Graph Neural Networks in the Perspective of A System of Hyperbolic Partial Differential Equations.**<br>
   Juwei Yue, Haikuo Li, **Jiawei Sheng\***, Xiaodong Li, Taoyu Su, Tingwen Liu, Li Guo.
-  _In Proceedings of ICML, 2025. CCF-A_
+  _In Proceedings of **ICML 2025**. (CCF-A)_
 
 - **Graph Wave Networks.**<br>
   Juwei Yue, Haikuo Li, **Jiawei Sheng\***, Yihan Guo, Xinghua Zhang, Chuan Zhou, Tingwen Liu\*, Li Guo.
-  _In Proceedings of WWW, 2025. CCF-A_
+  _In Proceedings of **WWW 2025**. (CCF-A)_
 
 - **IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment.**<br>
   Taoyu Su, **Jiawei Sheng\***, Shicheng Wang, Xinghua Zhang, Hongbo Xu, Tingwen Liu.
-  _In Proceedings of ACM MM, 2024. CCF-A_
+  _In Proceedings of **ACM MM 2024**. (CCF-A)_
 
 - **Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification.**<br>
   **Jiawei Sheng**, Xin Cong, Jiangxia Cao, Shu Guo, Chen Li, Lihong Wang, Tingwen Liu, Hongbo Xu.
-  _In Proceedings of ECAI, 2023. CCF-B_
+  _In Proceedings of **ECAI 2023**. (CCF-B)_
 
 - **CorED: Incorporating Type-level and Instance-level Correlations for Fine-grained Event Detection.**<br>
   **Jiawei Sheng**, Rui Sun, Shu Guo, Shiyao Cui, Jiangxia Cao, Lihong Wang, Tingwen Liu and Hongbo Xu.
-  _In Proceedings of SIGIR, 2022. CCF-A_
+  _In Proceedings of **SIGIR 2022**. (CCF-A)_
 
 - **CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction.**<br>
   **Jiawei Sheng**, Shu Guo, Bowen Yu, Qian Li, Yiming Hei, Lihong Wang, Tingwen Liu, Hongbo Xu.
-  _In Findings of ACL, 2021. CCF-A_
+  _In Findings of **ACL 2021**. (CCF-A)_
 
 - **Adaptive Attentional Network for Few-Shot Knowledge Graph Completion.**<br>
   **Jiawei Sheng**, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu, Hongbo Xu.
-  _In Proceedings of EMNLP, 2020. CCF-B_
+  _In Proceedings of **EMNLP 2020**. (CCF-B)_
 
 
 # 获奖情况
