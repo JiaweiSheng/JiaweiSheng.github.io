@@ -91,8 +91,8 @@ He has been a regular reviewer for over ten top-tier international conferences a
 
 # Talks
 
-<!-- - **Calibrating Pseudo-Labeling with Class Distribution for Semi-supervised Text Classification.**<br> -->
-  <!-- Presented at EMNLP 2025, Suzhou, China, November 4 - November 9, 2025. (CCF-B) -->
+- **Calibrating Pseudo-Labeling with Class Distribution for Semi-supervised Text Classification.**<br>
+  Presented at EMNLP 2025, Suzhou, China, November 4 - November 9, 2025. (CCF-B)
 
 - **IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment.**<br>
   Presented at ACM MM 2024, Melbourne, Australia, October 28 – November 1, 2024. (CCF-A)
