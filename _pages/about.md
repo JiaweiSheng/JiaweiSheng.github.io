@@ -74,6 +74,18 @@ He has been a regular reviewer for over ten top-tier international conferences a
   **Jiawei Sheng**, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu, Hongbo Xu.
   _In Proceedings of **EMNLP 2020**. (CCF-B)_
 
+# Talks
+
+- **Calibrating Pseudo-Labeling with Class Distribution for Semi-supervised Text Classification.**<br>
+  Presented at EMNLP 2025, Suzhou, China, November 4 - November 9, 2025. (CCF-B)
+
+- **IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment.**<br>
+  Presented at ACM MM 2024, Melbourne, Australia, October 28 – November 1, 2024. (CCF-A)
+
+- **Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification.**<br>
+  Presented at ECAI 2023, Kraków, Poland, September 30 – October 4, 2023. (CCF-B)
+
+
 # Selected Awards
 
 - The **Top 1 Winner** of CCKS 2021 Competition: Fine-grained Event Detection Competition, Chinese Information Processing Society of China. 2021.
@@ -88,17 +100,6 @@ He has been a regular reviewer for over ten top-tier international conferences a
 - [CCKS 2021: Fine-grained Event Detection Competition](http://sigkg.cn/ccks2021/), Rank 1/253 (Team leader)
 - [CCKS 2020: Few-shot Cross-domain Event Extraction Competition](http://sigkg.cn/ccks2020/?page_id=69#task4), Rank: 1/391 (Team leader)
 
-
-# Talks
-
-- **Calibrating Pseudo-Labeling with Class Distribution for Semi-supervised Text Classification.**<br>
-  Presented at EMNLP 2025, Suzhou, China, November 4 - November 9, 2025. (CCF-B)
-
-- **IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment.**<br>
-  Presented at ACM MM 2024, Melbourne, Australia, October 28 – November 1, 2024. (CCF-A)
-
-- **Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification.**<br>
-  Presented at ECAI 2023, Kraków, Poland, September 30 – October 4, 2023. (CCF-B)
 
 # Services
 
