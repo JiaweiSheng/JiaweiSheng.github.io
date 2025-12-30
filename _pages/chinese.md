@@ -29,41 +29,46 @@ author_profile: true
 
 # 代表论文
 
+- **Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion.** <br>
+  **Jiawei Sheng**, Taoyu Su, Weiyi Yang, Linghui Wang, Yongxiu Xu, Tingwen Liu.
+  _In Proceedings of AAAI, 2026. CCF-A_
+
 - **Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective.** <br>
   Taoyu Su, **Jiawei Sheng\***, Duohe Ma, Xiaodong Li, Juwei Yue, Mengxiao Song, Yingkai Tang and Tingwen Liu.
-  _The 48th International ACM SIGIR Conference. (**SIGIR 2025**, CCF-A, **Corresponding Author**)_
+  _In Proceedings of SIGIR, 2025. CCF-A_
 
 - **Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation.** <br>
   Xiaodong Li, Hengzhu Tang, **Jiawei Sheng\***, Xinghua Zhang, Li Gao, Suqi Cheng, Dawei Yin, Tingwen Liu.
-  _2025 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. (**KDD 2025**, CCF-A, **Corresponding Author**)_
+  _In Proceedings of KDD, 2025. CCF-A_
 
 - **Hyperbolic GNN: Spectral Graph Neural Networks in the Perspective of A System of Hyperbolic Partial Differential Equations.**<br>
   Juwei Yue, Haikuo Li, **Jiawei Sheng\***, Xiaodong Li, Taoyu Su, Tingwen Liu, Li Guo.
-  _Forty-Second International Conference on Machine Learning 2025. (**ICML 2025**, CCF-A, **Corresponding Author**)_
+  _In Proceedings of ICML, 2025. CCF-A_
 
 - **Graph Wave Networks.**<br>
   Juwei Yue, Haikuo Li, **Jiawei Sheng\***, Yihan Guo, Xinghua Zhang, Chuan Zhou, Tingwen Liu\*, Li Guo.
-  _International World Wide Web Conference 2025. (**WWW 2025**, CCF-A, **Corresponding Author**)_
+  _In Proceedings of WWW, 2025. CCF-A_
 
 - **IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment.**<br>
   Taoyu Su, **Jiawei Sheng\***, Shicheng Wang, Xinghua Zhang, Hongbo Xu, Tingwen Liu.
-  _In Proceedings of the ACM MULTIMEDIA 2024. (**ACM MM 2024**, CCF-A, **Corresponding Author**)_
+  _In Proceedings of ACM MM, 2024. CCF-A_
 
 - **Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification.**<br>
   **Jiawei Sheng**, Xin Cong, Jiangxia Cao, Shu Guo, Chen Li, Lihong Wang, Tingwen Liu, Hongbo Xu.
-  _In Proceedings of the European Conference on Artificial Intelligence (**ECAI 2023**, CCF-B)_
+  _In Proceedings of ECAI, 2023. CCF-B_
 
 - **CorED: Incorporating Type-level and Instance-level Correlations for Fine-grained Event Detection.**<br>
   **Jiawei Sheng**, Rui Sun, Shu Guo, Shiyao Cui, Jiangxia Cao, Lihong Wang, Tingwen Liu and Hongbo Xu.
-  _In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Madrid, July 11-15 2022. (**SIGIR 2022**, CCF-A)_
+  _In Proceedings of SIGIR, 2022. CCF-A_
 
 - **CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction.**<br>
   **Jiawei Sheng**, Shu Guo, Bowen Yu, Qian Li, Yiming Hei, Lihong Wang, Tingwen Liu, Hongbo Xu.
-  _In Findings of the 59th Annual Meeting of the Association for Computational Linguistics. (**Findings of ACL 2021**, CCF-A)_
+  _In Findings of ACL, 2021. CCF-A_
 
 - **Adaptive Attentional Network for Few-Shot Knowledge Graph Completion.**<br>
   **Jiawei Sheng**, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu, Hongbo Xu.
-  _In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing. (**EMNLP 2020**, CCF-B)_
+  _In Proceedings of EMNLP, 2020. CCF-B_
+
 
 # 获奖情况
 
@@ -82,4 +87,4 @@ author_profile: true
 
 - Conference PC member: NeurIPS, ICML, ICLR, SIGIR, KDD, ACL, WWW, MM, AAAI, IJCAI, etc.
 - Conference AC: ACL ARR, CCL, etc.
-- Journal Reviewer: TKDE, etc.
+- Journal Reviewer: TKDE, TOIS, etc.
