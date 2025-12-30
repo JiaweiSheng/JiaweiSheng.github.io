@@ -70,6 +70,18 @@ author_profile: true
   _In Proceedings of **EMNLP 2020**. (CCF-B)_
 
 
+# 交流报告
+
+<!-- - **Calibrating Pseudo-Labeling with Class Distribution for Semi-supervised Text Classification.**<br> -->
+  <!-- Presented at EMNLP 2025, Suzhou, China, November 4 - November 9, 2025. (CCF-B) -->
+
+- **IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment.**<br>
+  Presented at ACM MM 2024, Melbourne, Australia, October 28 – November 1, 2024. (CCF-A)
+
+- **Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification.**<br>
+  Presented at ECAI 2023, Kraków, Poland, September 30 – October 4, 2023. (CCF-B)
+
+
 # 获奖情况
 
 - CCKS2020 小样本跨类迁移事件抽取竞赛，比赛第一名(1/391)
