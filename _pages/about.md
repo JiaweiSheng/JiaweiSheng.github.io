@@ -17,7 +17,7 @@ Please feel free to contact me should you wish to discuss any matters of interes
 
 # Research Interests
 
-My primary research interests lie in **knowledge representation and reasoning (KRR), and LLM applications**, with a focus on interdisciplinary research that bridges the following areas:
+My primary research interests lie in **knowledge representation and reasoning (KRR), and LLM applications**, with a focus on research that bridges the following areas:
 
 - **Representation**: GNNs, information-theoretic representations, diffusion models, etc.
 - **Fusion**: Entity alignment, multimodal learning, cross-domain transfer, etc.
