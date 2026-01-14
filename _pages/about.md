@@ -17,7 +17,7 @@ Please feel free to contact me should you wish to discuss any matters of interes
 
 # Research Interests
 
-My primary research interests lie in **knowledge representation and reasoning (KRR), and LLM applications**, with a focus on research that bridges the following areas:
+My primary research interests lie in **knowledge engineering and LLM applications**, with a focus on research that bridges the following areas:
 
 - **Representation**: GNNs, information-theoretic representations, diffusion models, etc.
 - **Fusion**: Entity alignment, multimodal learning, cross-domain transfer, etc.
@@ -43,6 +43,10 @@ My primary research interests lie in **knowledge representation and reasoning (K
 
 # Selected Papers
 
+- **Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion.**<br>
+	**Jiawei Sheng**, Taoyu Su, Xixun Lin, Xiaodong Li and Tingwen Liu.
+  _In Proceedings of **WWW 2026**. (CCF-A)_
+
 - **Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion.** <br>
   **Jiawei Sheng**, Taoyu Su, Weiyi Yang, Linghui Wang, Yongxiu Xu, Tingwen Liu.
   _In Proceedings of **AAAI 2026**. (CCF-A, oral 4.6%)_
@@ -66,10 +70,6 @@ My primary research interests lie in **knowledge representation and reasoning (K
 - **IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment.**<br>
   Taoyu Su, **Jiawei Sheng\***, Shicheng Wang, Xinghua Zhang, Hongbo Xu, Tingwen Liu.
   _In Proceedings of **ACM MM 2024**. (CCF-A)_
-
-- **Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification.**<br>
-  **Jiawei Sheng**, Xin Cong, Jiangxia Cao, Shu Guo, Chen Li, Lihong Wang, Tingwen Liu, Hongbo Xu.
-  _In Proceedings of **ECAI 2023**. (CCF-B)_
 
 - **CorED: Incorporating Type-level and Instance-level Correlations for Fine-grained Event Detection.**<br>
   **Jiawei Sheng**, Rui Sun, Shu Guo, Shiyao Cui, Jiangxia Cao, Lihong Wang, Tingwen Liu and Hongbo Xu.

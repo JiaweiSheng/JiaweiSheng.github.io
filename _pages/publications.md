@@ -3,6 +3,28 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+# 2026 
+
+
+- **Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion.**<br>
+	**Jiawei Sheng**, Taoyu Su, Xixun Lin, Xiaodong Li, Tingwen Liu.
+  _In Proceedings of **WWW 2026**. (CCF-A, 676/3370=20.1%)_
+
+- **Expectation-Maximization Driven Contrastive Disentanglement for Generalized Category Discovery.**<br>
+  Weiyi Yang, Richong Zhang, Junfan Chen, **Jiawei Sheng**, Lihong Wang
+  _In Proceedings of **WWW 2026**. (CCF-A, 676/3370=20.1%)_
+
+- **S2CDR: Smoothing-Sharpening Process Model for Cross-Domain Recommendation.**<br>
+  Xiaodong Li, Juwei Yue, Xinghua Zhang, **Jiawei Sheng**, Wenyuan Zhang, Taoyu Su, Zefeng Zhang and Tingwen Liu
+  _In Proceedings of **WWW 2026**. (CCF-A, 676/3370=20.1%)_
+
+- **Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion.** <br>
+  **Jiawei Sheng**, Taoyu Su, Weiyi Yang, Linghui Wang, Yongxiu Xu, Tingwen Liu.
+  _In Proceedings of **AAAI 2026**. (CCF-A, oral 4.6%)_
+
+- **Fashion Microscope: Pixel-Level Attribute Perception via Optimal Transport and Neural Semantic Aggregation.** <br>
+  Shuili Zhang, Hongzhang Mu, **Jiawei Sheng**, Qianqian Tong, Wenyuan Zhang, Quangang Li, Tingwen Liu
+  _In Proceedings of **AAAI 2026**. (CCF-A)_
 
 # 2025
 

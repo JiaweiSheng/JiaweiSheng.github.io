@@ -13,7 +13,7 @@ author_profile: true
 
 # 研究兴趣
 
-主要研究兴趣聚焦于**知识计算、知识服务、大模型应用**，致力于以下方向的交叉融合研究：
+主要研究兴趣聚焦于**知识工程、知识服务、大模型应用**，致力于以下方向的交叉融合研究：
 
 - 表征: 图神经网络、信息表征、扩散模型等；
 - 融合: 实体对齐、多模态融合、跨域迁移等；
@@ -38,6 +38,10 @@ author_profile: true
 
 # 代表论文
 
+- **Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion.**<br>
+	**Jiawei Sheng**, Taoyu Su, Xixun Lin, Xiaodong Li and Tingwen Liu.
+  _In Proceedings of **WWW 2026**. (CCF-A)_
+
 - **Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion.** <br>
   **Jiawei Sheng**, Taoyu Su, Weiyi Yang, Linghui Wang, Yongxiu Xu, Tingwen Liu.
   _In Proceedings of **AAAI 2026**. (CCF-A, oral 4.6%)_
@@ -61,10 +65,6 @@ author_profile: true
 - **IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment.**<br>
   Taoyu Su, **Jiawei Sheng\***, Shicheng Wang, Xinghua Zhang, Hongbo Xu, Tingwen Liu.
   _In Proceedings of **ACM MM 2024**. (CCF-A)_
-
-- **Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification.**<br>
-  **Jiawei Sheng**, Xin Cong, Jiangxia Cao, Shu Guo, Chen Li, Lihong Wang, Tingwen Liu, Hongbo Xu.
-  _In Proceedings of **ECAI 2023**. (CCF-B)_
 
 - **CorED: Incorporating Type-level and Instance-level Correlations for Fine-grained Event Detection.**<br>
   **Jiawei Sheng**, Rui Sun, Shu Guo, Shiyao Cui, Jiangxia Cao, Lihong Wang, Tingwen Liu and Hongbo Xu.
