@@ -26,6 +26,11 @@ author_profile: true
   Shuili Zhang, Hongzhang Mu, **Jiawei Sheng**, Qianqian Tong, Wenyuan Zhang, Quangang Li, Tingwen Liu
   _In Proceedings of **AAAI 2026**. (CCF-A)_
 
+- **Safety Alignment Should Be Made More Than Just A Few Attention Heads.** <br>
+  Chao Huang, Zefeng Zhang, Juwei Yue, **Jiawei Sheng**, Quangang Li, Chuang Zhang, Tingwen Liu
+  _In Proceedings of **ICASSP 2026**. (CCF-B)_
+  
+
 # 2025
 
 - **Hyperbolic GNN: Spectral Graph Neural Networks in the Perspective of A System of Hyperbolic Partial Differential Equations.**<br>

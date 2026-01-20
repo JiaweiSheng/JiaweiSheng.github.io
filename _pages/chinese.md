@@ -81,14 +81,18 @@ author_profile: true
 
 # 交流报告
 
-- **Calibrating Pseudo-Labeling with Class Distribution for Semi-supervised Text Classification.**<br>
-  Presented at EMNLP 2025, Suzhou, China, November 4 - November 9, 2025. (CCF-B)
+<!-- AAAI 2026, Singapore, January 24, 2026, 11:00 AM. -->
+- Session Chair & Speaker, *Data Mining and Knowledge Management 5*, "Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion,"<br>
+  Proceedings of AAAI 2026, *Singapore*, January 20 – January 27, 2026. (CCF-A)
 
-- **IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment.**<br>
-  Presented at ACM MM 2024, Melbourne, Australia, October 28 – November 1, 2024. (CCF-A)
+- Speaker, "Calibrating Pseudo-Labeling with Class Distribution for Semi-supervised Text Classification,"<br>
+  Proceedings of EMNLP 2025, *Suzhou, China*, November 4 - November 9, 2025. (CCF-B)
 
-- **Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification.**<br>
-  Presented at ECAI 2023, Kraków, Poland, September 30 – October 4, 2023. (CCF-B)
+- Speaker, "IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment,"<br>
+  Proceedings of ACM MM 2024, *Melbourne, Australia*, October 28 – November 1, 2024. (CCF-A)
+
+- Speaker, "Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification,"<br>
+  Proceedings of ECAI 2023, *Kraków, Poland*, September 30 – October 4, 2023. (CCF-B)
 
 
 # 获奖荣誉
@@ -112,6 +116,6 @@ author_profile: true
 
 长期担任多个国际顶级学术会议/期刊审稿人。
 
-- Conference PC member: NeurIPS, ICML, ICLR, SIGIR, KDD, ACL, WWW, MM, AAAI, IJCAI, etc.
-- Conference AC: ACL ARR, CCL, etc.
+- Conference PC member: NeurIPS, ICML, ICLR, SIGIR, KDD, ACL, WWW, MM, AAAI, etc.
+- Conference AC/SPC: ACL/ARR, IJCAI, CCL, etc.
 - Journal Reviewer: TKDE, TOIS, etc.
