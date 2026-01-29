@@ -12,25 +12,18 @@ Jiawei Sheng is a Tenure-Track Associate Professor at Institute of Information E
 
 His research has led to over 30 publications in CCF-A/B-ranked top-tier international conferences and journals. 
 As team leader, he secured first place and the Technical Innovation Award in the evaluation tasks of the China Conference on Knowledge Graph and Semantic Computing (CCKS) in both 2021 and 2022.
-At the University of Chinese Academy of Sciences (UCAS), he teaches the graduate core course _Cross-Modal Intelligent Computing and Its Applications_. He also serves as a reviewer for more than ten leading international conferences and journals.
+At the University of Chinese Academy of Sciences (UCAS), he teaches the graduate core course _Cross-Modal Intelligent Computing and Its Applications_. He also serves as a reviewer or senior reviewer for more than ten leading international conferences and journals.
 
 
 <details markdown="1">
 <summary>🇨🇳 中文简介</summary>
-盛傢伟，预聘副研究员，2023 年博士毕业于中国科学院信息工程研究所，入选信工所优才计划 B 类。<br>
+盛傢伟，预聘副研究员，2023 年博士毕业于中国科学院信息工程研究所，入选信工所优才计划 B 类。
 
 主要研究兴趣聚焦于知识工程、知识服务、大模型应用。
 总计在 CCF-A/B 类国际顶级学术会议或期刊发表论文 30 余篇，带队在全国知识图谱旗舰会议 CCKS2021、2022 技术评测中两次获第一名及技术创新奖。
 目前获国家自然科学基金青年项目 C 类、中科院特别研究助理项目、博士后国资计划、快手校企合作等多个项目资助，参与重点研发、中科院先导等多个重点项目。
-目前，我作为主讲教师在中国科学院大学讲授《跨模态智能计算及其应用》研究生专业核心课、担任方班辅导教师。
-长期担任 10 余个国际顶级学术会议或期刊审稿人，授权或受理专利 7 项。曾获中科院朱李月华优秀博士生奖学金、优秀毕业生奖等。<br>
-
-主要研究兴趣聚焦于**知识工程、知识服务、大模型应用**，致力于以下方向的交叉融合研究：
-
-- 表征: 图神经网络、信息表征、扩散模型等；
-- 融合: 实体对齐、多模态融合、跨域迁移等；
-- 推理: 知识图谱推理、大模型推理等；
-- 应用: 推荐、智能体、神经符号系统等。
+目前，作为主讲教师在中国科学院大学讲授《跨模态智能计算及其应用》研究生专业核心课、担任方班辅导教师。
+长期担任 10 余个国际顶级学术会议或期刊审稿人，授权或受理专利 7 项。曾获中科院朱李月华优秀博士生奖学金、优秀毕业生奖等。
 </details>
 
 
