@@ -18,7 +18,7 @@ author_profile: true
 - 表征: 图神经网络、信息表征、扩散模型等；
 - 融合: 实体对齐、多模态融合、跨域迁移等；
 - 推理: 知识图谱推理、大模型推理等；
-- 应用: 推荐系统、智能体系统、神经符号系统等。
+- 应用: 推荐、智能体、神经符号系统等。
 
 # 个人履历
 
@@ -83,17 +83,16 @@ author_profile: true
 
 <!-- AAAI 2026, Singapore, January 24, 2026, 11:00 AM. -->
 - Session Chair & Speaker, *Data Mining and Knowledge Management 5*, "Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion,"<br>
-  Proceedings of AAAI 2026, *Singapore*, January 20 – January 27, 2026. (CCF-A)
+  Proceedings of AAAI 2026, *Singapore*, January 20 – January 27, 2026. 
 
 - Speaker, "Calibrating Pseudo-Labeling with Class Distribution for Semi-supervised Text Classification,"<br>
-  Proceedings of EMNLP 2025, *Suzhou, China*, November 4 - November 9, 2025. (CCF-B)
+  Proceedings of EMNLP 2025, *Suzhou, China*, November 4 - November 9, 2025. 
 
 - Speaker, "IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment,"<br>
-  Proceedings of ACM MM 2024, *Melbourne, Australia*, October 28 – November 1, 2024. (CCF-A)
+  Proceedings of ACM MM 2024, *Melbourne, Australia*, October 28 – November 1, 2024. 
 
 - Speaker, "Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification,"<br>
-  Proceedings of ECAI 2023, *Kraków, Poland*, September 30 – October 4, 2023. (CCF-B)
-
+  Proceedings of ECAI 2023, *Kraków, Poland*, September 30 – October 4, 2023. 
 
 # 获奖荣誉
 

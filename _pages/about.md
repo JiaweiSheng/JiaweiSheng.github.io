@@ -8,22 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Tenure-Track Associate Professor at Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS). I was selected into the IIE Outstanding Talent Program (Class B).
+Jiawei Sheng is a Tenure-Track Associate Professor at Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), and was selected into the IIE Outstanding Talent Program (Class B).
 
-My research has led to over 30 publications in CCF-A/B-ranked top-tier international conferences and journals. As team leader, I secured first place and the Technical Innovation Award in the evaluation tasks of the China Conference on Knowledge Graph and Semantic Computing (CCKS) in both 2021 and 2022.
-At the University of Chinese Academy of Sciences (UCAS), I teach the graduate core course _Cross-Modal Intelligent Computing and Its Applications_. I also serve as a regular reviewer for more than ten leading international conferences and journals.
+His research has led to over 30 publications in CCF-A/B-ranked top-tier international conferences and journals. 
+As team leader, he secured first place and the Technical Innovation Award in the evaluation tasks of the China Conference on Knowledge Graph and Semantic Computing (CCKS) in both 2021 and 2022.
+At the University of Chinese Academy of Sciences (UCAS), he teaches the graduate core course _Cross-Modal Intelligent Computing and Its Applications_. He also serves as a reviewer for more than ten leading international conferences and journals.
 
-Please feel free to contact me should you wish to discuss any matters of interest. :-)
+
+<details>
+<summary>🇨🇳 中文介绍</summary>
+盛傢伟，预聘副研究员，2023 年博士毕业于[中国科学院信息工程研究所](http://www.iie.ac.cn/)，入选信工所优才计划 B 类。
+
+总计在 CCF-A/B 类国际顶级学术会议或期刊发表论文 30 余篇，带队在全国知识图谱旗舰会议 CCKS2021、2022 技术评测中两次获第一名及技术创新奖。
+目前获国家自然科学基金青年项目 C 类、中科院特别研究助理项目、博士后国资计划、快手校企合作等多个项目资助，参与重点研发、中科院先导等多个重点项目。
+目前，我作为主讲教师在中国科学院大学讲授《跨模态智能计算及其应用》研究生专业核心课、担任方班辅导教师。
+长期担任 10 余个国际顶级学术会议或期刊审稿人，授权或受理专利 7 项。曾获中科院朱李月华优秀博士生奖学金、优秀毕业生奖等。
+</details>
+
 
 # Research Interests
 
-My primary research interests lie in **knowledge engineering and LLM applications**, with a focus on research that bridges the following areas:
+His primary research interests lie in **knowledge engineering and LLM applications**, with a focus on research that bridges the following areas:
 
 - **Representation**: GNNs, information-theoretic representations, diffusion models, etc.
 - **Fusion**: Entity alignment, multimodal learning, cross-domain transfer, etc.
 - **Reasoning**: Knowledge graph reasoning, LLM-based reasoning, etc.
-- **Applications**: Recommendation systems, agentic systems, neuro-symbolic systems, etc.
+- **Applications**: Recommendation, agents, neuro-symbolic systems, etc.
 
+Please feel free to contact him, should you wish to discuss any matters of interest. :-)
 
 # Education
 
@@ -87,16 +99,16 @@ My primary research interests lie in **knowledge engineering and LLM application
 
 <!-- AAAI 2026, Singapore, January 24, 2026, 11:00 AM. -->
 - Session Chair & Speaker, *Data Mining and Knowledge Management 5*, "Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion,"<br>
-  Proceedings of AAAI 2026, *Singapore*, January 20 – January 27, 2026. (CCF-A)
+  Proceedings of AAAI 2026, *Singapore*, January 20 – January 27, 2026. 
 
 - Speaker, "Calibrating Pseudo-Labeling with Class Distribution for Semi-supervised Text Classification,"<br>
-  Proceedings of EMNLP 2025, *Suzhou, China*, November 4 - November 9, 2025. (CCF-B)
+  Proceedings of EMNLP 2025, *Suzhou, China*, November 4 - November 9, 2025. 
 
 - Speaker, "IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment,"<br>
-  Proceedings of ACM MM 2024, *Melbourne, Australia*, October 28 – November 1, 2024. (CCF-A)
+  Proceedings of ACM MM 2024, *Melbourne, Australia*, October 28 – November 1, 2024. 
 
 - Speaker, "Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification,"<br>
-  Proceedings of ECAI 2023, *Kraków, Poland*, September 30 – October 4, 2023. (CCF-B)
+  Proceedings of ECAI 2023, *Kraków, Poland*, September 30 – October 4, 2023. 
 
 
 # Selected Awards
