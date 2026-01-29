@@ -29,7 +29,7 @@ At the University of Chinese Academy of Sciences (UCAS), he teaches the graduate
 
 # Research Interests
 
-His primary research interests lie in **knowledge engineering and LLM applications**, with a focus on research that bridges the following areas:
+His primary research interests lie in **Knowledge Representation & Reasoning, Large Language Models, and Natural Language Processing**, with a focus on research that bridges the following areas:
 
 - **Representation**: GNNs, information-theoretic representations, diffusion models, etc.
 - **Fusion**: Entity alignment, multimodal learning, cross-domain transfer, etc.
