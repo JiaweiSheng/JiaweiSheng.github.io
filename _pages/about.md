@@ -32,11 +32,11 @@ At the University of Chinese Academy of Sciences (UCAS), he teaches the graduate
 His primary research interests lie in **knowledge representation & reasoning, large language models, and knowledge-driven applications**, with a focus on research that bridges the following areas:
 
 - **Representation**: GNNs, information-theoretic representations, diffusion models, etc.
-- **Fusion**: Entity alignment, multimodal learning, cross-domain transfer, etc.
-- **Reasoning**: Knowledge graph reasoning, LLM-based reasoning, etc.
-- **Applications**: Recommendation, agents, neuro-symbolic systems, etc.
+- **Fusion**: entity alignment, multimodal learning, cross-domain transfer, etc.
+- **Reasoning**: knowledge graph reasoning, LLM-based reasoning, etc.
+- **Applications**: agents, recommendation, neuro-symbolic systems, etc.
 
-Please feel free to contact him, should you wish to discuss any matters of interest. :-)
+He is looking for collaborators to do impactful research. Please feel free to contact him and discuss any matters of interest. :-)
 
 # Education
 
@@ -96,9 +96,8 @@ Please feel free to contact him, should you wish to discuss any matters of inter
   **Jiawei Sheng**, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu, Hongbo Xu.
   _In Proceedings of **EMNLP 2020**. (CCF-B)_
 
-# Invited Talks
+# Presentations
 
-<!-- AAAI 2026, Singapore, January 24, 2026, 11:00 AM. -->
 - Session Chair & Speaker, *Data Mining and Knowledge Management 5*, "Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion,"<br>
   Proceedings of AAAI 2026, *Singapore*, January 20 – January 27, 2026. 
 
@@ -110,6 +109,11 @@ Please feel free to contact him, should you wish to discuss any matters of inter
 
 - Speaker, "Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification,"<br>
   Proceedings of ECAI 2023, *Kraków, Poland*, September 30 – October 4, 2023. 
+
+# Competitions
+
+- [CCKS 2021: Fine-grained Event Detection Competition](http://sigkg.cn/ccks2021/), Rank 1/253 (Team leader)
+- [CCKS 2020: Few-shot Cross-domain Event Extraction Competition](http://sigkg.cn/ccks2020/?page_id=69#task4), Rank: 1/391 (Team leader)
 
 
 # Selected Awards
@@ -124,10 +128,24 @@ Please feel free to contact him, should you wish to discuss any matters of inter
 - Outstanding Student Award, University of Chinese Academy of Sciences.
 - Recipient of the Inspur Scholarship at 2016.
 
-# Competitions
 
-- [CCKS 2021: Fine-grained Event Detection Competition](http://sigkg.cn/ccks2021/), Rank 1/253 (Team leader)
-- [CCKS 2020: Few-shot Cross-domain Event Extraction Competition](http://sigkg.cn/ccks2020/?page_id=69#task4), Rank: 1/391 (Team leader)
+# Advised Students
+
+He feels great honored to advise the following talented students.
+
+- PhD Students (w/ Prof. Liu)
+  - 2021: Xiaodong Li (RecSys)
+  - 2022: Juwei Yue (Graph ML)
+  - 2022: Zefeng Zhang (MLLM)
+  - 2023: Ruochen Yang (RecSys)
+  - 2023: Yao Chen (LLM)
+  - 2024: Shuaiyi Nie (LLM)
+  - 2025: Simeng Zhang (LLM)
+  
+- Master Students (w/ Prof. Liu)
+  - 2021: Gehang Zhang (Graph ML)
+  - 2023: Linghui Wang (KG)
+
 
 
 # Services
@@ -136,4 +154,8 @@ Please feel free to contact him, should you wish to discuss any matters of inter
 - Conference AC/SPC: ACL/ARR, IJCAI, CCL, etc.
 - Journal Reviewer: TKDE, TOIS, etc.
 
-<!-- - NeurIPS-24, AAAI-23/24, SIGIR-23/24, KDD-24, ACL-24, WWW-24, IJCAI-24, CIKM-23/24, DASFAA-24, COLING-24, ICASSP-23/24, ECML-PKDD-22/23, SIGIR-AP-23, IJCNN-24, etc. -->
+
+
+
+
+
