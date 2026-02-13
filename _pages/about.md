@@ -29,14 +29,16 @@ At the University of Chinese Academy of Sciences (UCAS), he teaches the graduate
 
 # Research Interests
 
-His primary research interests lie in **knowledge representation & reasoning, large language models, and knowledge-driven applications**, with a focus on research that bridges the following areas:
+His primary research interests lie in **knowledge representation & reasoning, large language models, and knowledge-driven applications**, with a focus on bridging the following areas:
 
 - **Representation**: GNNs, information-theoretic representations, diffusion models, etc.
 - **Fusion**: entity alignment, multimodal learning, cross-domain transfer, etc.
 - **Reasoning**: knowledge graph reasoning, LLM-based reasoning, etc.
 - **Applications**: agents, recommendation, neuro-symbolic systems, etc.
 
-He is looking for collaborators to do impactful research. Please feel free to contact him and discuss any matters of interest. :-)
+His long-term vision is to build knowledge-driven, trustworthy AI that integrates neural and symbolic approaches to benefit humanity in the real world.
+He welcomes collaborations to do impactful research. 
+Please feel free to contact him and discuss any matters of interest. :-)
 
 # Education
 
@@ -98,17 +100,14 @@ He is looking for collaborators to do impactful research. Please feel free to co
 
 # Presentations
 
-- Session Chair & Speaker, *Data Mining and Knowledge Management 5*, "Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion,"<br>
-  Proceedings of AAAI 2026, *Singapore*, January 20 – January 27, 2026. (*ps. Singapore is hot.*)
+- Session Chair & Speaker, *Data Mining and Knowledge Management 5*, "Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion", Proceedings of AAAI 2026, *Singapore*, January 20 – January 27, 2026. (*ps. Singapore is hot.*)
 
-- Speaker, "Calibrating Pseudo-Labeling with Class Distribution for Semi-supervised Text Classification,"<br>
+- Speaker, "Calibrating Pseudo-Labeling with Class Distribution for Semi-supervised Text Classification",
   Proceedings of EMNLP 2025, *Suzhou, China*, November 4 - November 9, 2025. (*ps. Suzhou is beautiful.*)
 
-- Speaker, "IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment,"<br>
-  Proceedings of ACM MM 2024, *Melbourne, Australia*, October 28 – November 1, 2024. (*ps. Melbourne is comfortable.*)
+- Speaker, "IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment", Proceedings of ACM MM 2024, *Melbourne, Australia*, October 28 – November 1, 2024. (*ps. Melbourne is comfortable.*)
 
-- Speaker, "Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification,"<br>
-  Proceedings of ECAI 2023, *Kraków, Poland*, September 30 – October 4, 2023. (*ps. Kraków is amazing.*)
+- Speaker, "Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification", Proceedings of ECAI 2023, *Kraków, Poland*, September 30 – October 4, 2023. (*ps. Kraków is amazing.*)
 
 # Competitions
 
