@@ -130,7 +130,7 @@ Please feel free to contact him and discuss any matters of interest. :-)
 
 # Advised Students
 
-He feels great honored to advise the following talented students.
+He feels great honour to advise the following talented students.
 
 - PhD Students (w/ Prof. Liu)
   - 2021: Xiaodong Li (RecSys)
@@ -147,7 +147,7 @@ He feels great honored to advise the following talented students.
 
 
 
-# Professional Services
+# Academic Services
 
 - Conference PC member: NeurIPS, ICML, ICLR, SIGIR, KDD, ACL, WWW, MM, AAAI, etc.
 - Conference AC/SPC: ACL/ARR, IJCAI, CCL, etc.
