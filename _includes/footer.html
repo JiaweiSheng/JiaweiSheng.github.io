@@ -1,17 +1,29 @@
 {% include base_path %}
 
+<style>
+  .page__footer-follow h4, 
+  .page__footer-follow strong,
+  .page__footer-follow .h4 {
+    display: none !important;
+  }
+</style>
+
 <div style="display: flex; justify-content: space-between; align-items: flex-end; flex-wrap: nowrap; margin-top: 20px;">
   
   <div style="flex-grow: 1;">
-    <div class="page__footer-follow" style="margin-bottom: 0 !important;">
-      <ul class="social-icons" style="margin-bottom: 0 !important;">
+    <div class="page__footer-follow" style="margin-bottom: 0 !important; padding-bottom: 0 !important;">
+      <ul class="social-icons" style="margin: 0 !important; padding: 0 !important; list-style: none;">
         {% if site.author.github %}
-          <li><a href="https://github.com/{{ site.author.github }}"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+          <li style="display: inline-block; margin: 0 !important;">
+            <a href="https://github.com/{{ site.author.github }}" style="text-decoration: none;">
+              <i class="fa fa-fw fa-github" aria-hidden="true"></i> GITHUB
+            </a>
+          </li>
         {% endif %}
       </ul>
     </div>
     
-    <div class="page__footer-copyright" style="margin-top: 0 !important;">
+    <div class="page__footer-copyright" style="margin-top: 0 !important; padding-top: 0 !important; line-height: 1.2;">
       &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>.
     </div>
   </div>
