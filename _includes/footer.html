@@ -1,37 +1,28 @@
-{% include base_path %}
-
-<style>
-  .page__footer h2, 
-  .page__footer h3, 
-  .page__footer h4, 
-  .page__footer strong {
-    display: none !important; 
-  }
-  .page__footer {
-    padding-top: 15px !important; 
-  }
-</style>
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 30px; flex-wrap: wrap; max-width: 1000px; margin: 0 auto; border-top: 1px solid #eee; padding-top: 20px;">
   
-  <div style="display: flex; flex-direction: column; justify-content: center; gap: 8px;">
+  <div style="display: flex; flex-direction: column; gap: 10px; flex: 1; min-width: 250px;">
     
     {% if site.author.github %}
     <div>
-      <a href="https://github.com/{{ site.author.github }}" style="text-decoration: none; font-weight: bold; font-size: 14px; color: inherit; text-transform: uppercase;">
-        <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
+      <a href="https://github.com/{{ site.author.github }}" style="text-decoration: none; font-weight: 600; font-size: 15px; color: #333; display: inline-flex; align-items: center;">
+        <i class="fab fa-github" aria-hidden="true" style="margin-right: 6px;"></i> GITHUB
       </a>
     </div>
     {% endif %}
 
-    <div style="font-size: 13px; color: #777;">
-      &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>.
+    <div style="font-size: 13px; color: #666; line-height: 1.6;">
+      &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. <br>
+      {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} 
+      <a href="https://jekyllrb.com" rel="nofollow" style="color: #2d78ad; text-decoration: none;">Jekyll</a> &amp; 
+      <a href="https://github.com/academicpages/academicpages.github.io" style="color: #2d78ad; text-decoration: none;">AcademicPages</a>.
     </div>
     
   </div>
 
-  <div style="line-height: 0; flex-shrink: 0;">
-    <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=200&t=tt&d=Suc8YHqdGfyRaL2Ktk5T3YBVaxwz6SXwXyhhvDq_BCk&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+  <div style="flex-shrink: 0; display: flex; align-items: flex-start;">
+    <div style="background: #f9f9f9; padding: 5px; border-radius: 4px; line-height: 0;">
+      <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=200&t=tt&d=Suc8YHqdGfyRaL2Ktk5T3YBVaxwz6SXwXyhhvDq_BCk&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+    </div>
   </div>
 
 </div>
