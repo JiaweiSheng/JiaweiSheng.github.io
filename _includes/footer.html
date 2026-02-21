@@ -1,34 +1,36 @@
 {% include base_path %}
 
 <style>
-  .page__footer-follow h4, 
-  .page__footer-follow strong,
-  .page__footer-follow .h4 {
-    display: none !important;
+  .page__footer h2, 
+  .page__footer h3, 
+  .page__footer h4, 
+  .page__footer strong {
+    display: none !important; 
+  }
+  .page__footer {
+    padding-top: 15px !important; 
   }
 </style>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-end; flex-wrap: nowrap; margin-top: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
   
-  <div style="flex-grow: 1;">
-    <div class="page__footer-follow" style="margin-bottom: 0 !important; padding-bottom: 0 !important;">
-      <ul class="social-icons" style="margin: 0 !important; padding: 0 !important; list-style: none;">
-        {% if site.author.github %}
-          <li style="display: inline-block; margin: 0 !important;">
-            <a href="https://github.com/{{ site.author.github }}" style="text-decoration: none;">
-              <i class="fa fa-fw fa-github" aria-hidden="true"></i> GITHUB
-            </a>
-          </li>
-        {% endif %}
-      </ul>
-    </div>
+  <div style="display: flex; flex-direction: column; justify-content: center; gap: 8px;">
     
-    <div class="page__footer-copyright" style="margin-top: 0 !important; padding-top: 0 !important; line-height: 1.2;">
+    {% if site.author.github %}
+    <div>
+      <a href="https://github.com/{{ site.author.github }}" style="text-decoration: none; font-weight: bold; font-size: 14px; color: inherit; text-transform: uppercase;">
+        <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
+      </a>
+    </div>
+    {% endif %}
+
+    <div style="font-size: 13px; color: #777;">
       &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>.
     </div>
+    
   </div>
 
-  <div style="margin-left: 20px; flex-shrink: 0; line-height: 0;">
+  <div style="line-height: 0; flex-shrink: 0;">
     <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=200&t=tt&d=Suc8YHqdGfyRaL2Ktk5T3YBVaxwz6SXwXyhhvDq_BCk&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
   </div>
 
