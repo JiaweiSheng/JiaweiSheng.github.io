@@ -100,14 +100,14 @@ Please feel free to contact him and discuss any matters of interest. :-)
 
 # Presentations
 
-- Session Chair & Speaker, *Data Mining and Knowledge Management 5*, "Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion", Proceedings of AAAI 2026, *Singapore*, January 20 – January 27, 2026. (*ps. Singapore is hot.*)
+- Session Chair & Speaker, *Data Mining and Knowledge Management 5*, "Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion", Proceedings of AAAI 2026, *Singapore*, January 20 – January 27, 2026. 
 
 - Speaker, "Calibrating Pseudo-Labeling with Class Distribution for Semi-supervised Text Classification",
-  Proceedings of EMNLP 2025, *Suzhou, China*, November 4 - November 9, 2025. (*ps. Suzhou is beautiful.*)
+  Proceedings of EMNLP 2025, *Suzhou, China*, November 4 - November 9, 2025. 
 
-- Speaker, "IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment", Proceedings of ACM MM 2024, *Melbourne, Australia*, October 28 – November 1, 2024. (*ps. Melbourne is comfortable.*)
+- Speaker, "IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment", Proceedings of ACM MM 2024, *Melbourne, Australia*, October 28 – November 1, 2024. 
 
-- Speaker, "Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification", Proceedings of ECAI 2023, *Kraków, Poland*, September 30 – October 4, 2023. (*ps. Kraków is amazing.*)
+- Speaker, "Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification", Proceedings of ECAI 2023, *Kraków, Poland*, September 30 – October 4, 2023. 
 
 # Competitions
 
