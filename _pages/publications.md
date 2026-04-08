@@ -5,6 +5,9 @@ author_profile: true
 ---
 # 2026 
 
+- **HyperMem: Hypergraph Memory for Long-Term Conversations.**<br>
+	Juwei Yue, Chuanrui Hu, **Jiawei Sheng**, Zuyi Zhou, Wenyuan Zhang, Tingwen Liu, Li Guo, Yafeng Deng.
+  _In Proceedings of **ACL 2026**. (CCF-A)_
 
 - **Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion.**<br>
 	**Jiawei Sheng**, Taoyu Su, Xixun Lin, Xiaodong Li, Tingwen Liu.
@@ -19,8 +22,8 @@ author_profile: true
   _In Proceedings of **WWW 2026**. (CCF-A, 676/3370=20.1%)_
 
 - **FARM: Frequency-Aware Model for Cross-Domain Live-Streaming Recommendation.**<br>
-  Xiaodong Li, Ruochen Yang, Shuang Wang, Shen Wang, Yueyang Liu, Guoquan Wang, Weisong Hu, Qiang Luo, **Jiawei Sheng**, Tingwen Liu.
-  _In Proceedings of **KDD 2026**. (CCF-A)_
+  Xiaodong Li, Ruochen Yang, Shuang Wen, Shen Wang, Yueyang Liu, Guoquan Wang, Weisong Hu, Qiang Luo, **Jiawei Sheng\***, Tingwen Liu, Jiangxia Cao, Shuang Yang, Zhaojie Liu.
+  _In Proceedings of **KDD 2026**. (CCF-A, Industrial Track, with thanks to Jiangxia Cao)_
 
 - **From Agnostic to Specific: Latent Preference Diffusion for Multi-Behavior Sequential Recommendation.**<br>
   Ruochen Yang, Xiaodong Li, **Jiawei Sheng**, Jiangxia Cao, Xinkui Lin, Shen Wang, Shuang Yang, Zhaojie Liu, Tingwen Liu.

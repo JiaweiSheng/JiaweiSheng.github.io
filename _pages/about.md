@@ -34,10 +34,10 @@ His primary research interests lie in **knowledge representation & reasoning, la
 - **Representation**: GNNs, information-theoretic representations, diffusion models, etc.
 - **Fusion**: entity alignment, multimodal learning, cross-domain transfer, etc.
 - **Reasoning**: knowledge graph reasoning, LLM-based reasoning, etc.
-- **Applications**: agents, recommendation, neuro-symbolic systems, etc.
+- **Applications**: agent memory, recommendation, neuro-symbolic AI, etc.
 
-His long-term vision is to build knowledge-driven, trustworthy AI that integrates neural and symbolic approaches to benefit humanity in the real world.
-He welcomes collaborations to do impactful research. 
+His vision is to establish knowledge-driven trustworthy AI that integrates neural and symbolic approaches to benefit humanity and research community.
+He always welcomes collaborations to do impactful research. 
 Please feel free to contact him and discuss any matters of interest. :-)
 
 # Education
