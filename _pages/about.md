@@ -60,7 +60,7 @@ Please feel free to contact him and discuss any matters of interest. :-)
 
 - **Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion.**<br>
 	**Jiawei Sheng**, Taoyu Su, Xixun Lin, Xiaodong Li and Tingwen Liu.
-  _In Proceedings of **WWW 2026**. (CCF-A)_
+  _In Proceedings of **WWW 2026**. (CCF-A, oral 9.4%)_
 
 - **Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion.** <br>
   **Jiawei Sheng**, Taoyu Su, Weiyi Yang, Linghui Wang, Yongxiu Xu, Tingwen Liu.

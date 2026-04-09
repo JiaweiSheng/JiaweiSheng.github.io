@@ -11,7 +11,7 @@ author_profile: true
 
 - **Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion.**<br>
 	**Jiawei Sheng**, Taoyu Su, Xixun Lin, Xiaodong Li, Tingwen Liu.
-  _In Proceedings of **WWW 2026**. (CCF-A, 676/3370=20.1%)_
+  _In Proceedings of **WWW 2026**. (CCF-A, oral, 317/3370=9.4%)_
 
 - **Expectation-Maximization Driven Contrastive Disentanglement for Generalized Category Discovery.**<br>
   Weiyi Yang, Richong Zhang, Junfan Chen, **Jiawei Sheng**, Lihong Wang.
