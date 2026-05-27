@@ -15,17 +15,16 @@ As team leader, he secured first place and the Technical Innovation Award in the
 At the University of Chinese Academy of Sciences (UCAS), he teaches the graduate core course _Cross-Modal Intelligent Computing and Its Applications_. He also serves as a reviewer or senior reviewer for more than ten leading international conferences and journals.
 
 
-<details markdown="1">
-<summary>🇨🇳 中文简介</summary>
+<!-- <details markdown="1"> -->
+<!-- <summary>🇨🇳 中文简介</summary> -->
 盛傢伟，预聘副研、硕导，2023年博士毕业，入选信工所优才计划B、博士后国资计划。
-
 研究兴趣关注于知识计算、图学习、内容分析、智能体应用等领域。
 总计在CCF-A/B类国际顶级刊会发表论文40余篇，谷歌学术被引1400余次，获ESI高被引1篇。
 主持/参与国自然基金青年项目C/面上、国家重点研发、中科院先导、快手校企合作等项目，主持经费近300万。
 带队在全国语义与知识计算旗舰会议CCKS 2020、2021技术评测中2次获全国冠军及技术创新奖。
 目前担任国科大《跨模态智能计算及其应用》研究生专业核心课主讲、担任方班教师。
 长期担任10余个国际顶级学术会议或期刊审稿人，授权或受理专利10项。
-</details>
+<!-- </details> -->
 
 
 # Research Interests
@@ -49,11 +48,11 @@ Please feel free to contact him and discuss any matters of interest. :-)
 
 # Projects
 
-- National Natural Science Foundation of China Youth Project. PI. Research on Cross-domain Knowledge Graph Completion. 2025.1 - 2027.12. ¥300,000.
-- Postdoctoral Fellowship Program (Grade C). PI. Research on Knowledge Discovery Based on Cross-domain Modeling. 2023.07 - 2025.07. ¥600,000 (¥240k from CPSF + ¥360k from CAS).
-- Special Research Assistant Project of CAS (Talent Program Class B). PI. 2023.07 - 2026.07. ¥800,000.
-- Kwai School-enterprise Cooperation Project. PI. 2024.8 - 2025.6. ¥500,000.
-- R&D Sub-program. PI. Specific Account Recognition Technology. 2025.01-2027.12. ¥600,000.
+- National Natural Science Foundation of China Youth Project. PI. Research on Cross-domain Knowledge Graph Completion. 2025.1 - 2027.12. ¥300k.
+- Postdoctoral Fellowship Program (Grade C). PI. Research on Knowledge Discovery Based on Cross-domain Modeling. 2023.07 - 2025.07. ¥600,000 (including ¥360k from CAS).
+- Special Research Assistant Project of CAS (Talent Program Class B). PI. 2023.07 - 2026.07. ¥800k.
+- Kwai School-enterprise Cooperation Project. PI. 2024.8 - 2025.6. ¥500k.
+- R&D Sub-program. PI. Specific Account Recognition Technology. 2025.01-2027.12. ¥600k.
 - R&D, Co-I. Research on KG Construction Theory. 2021.12-2024.11.
 - SPRP CAS, Co-I. Research on KG Construtcion and Utilization. 2019.08-2021.12.
 
