@@ -62,6 +62,10 @@ Please feel free to contact him and discuss any matters of interest. :-)
 	**Jiawei Sheng**, Taoyu Su, Xixun Lin, Xiaodong Li and Tingwen Liu.
   _In Proceedings of **WWW 2026**. (CCF-A, oral 9.4%)_
 
+- **HyperMem: Hypergraph Memory for Long-Term Conversations.**<br>
+	Juwei Yue, Chuanrui Hu, **Jiawei Sheng\***, Zuyi Zhou, Wenyuan Zhang, Tingwen Liu, Li Guo, Yafeng Deng.
+  _In Proceedings of **ACL 2026**. (CCF-A)_
+
 - **Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion.** <br>
   **Jiawei Sheng**, Taoyu Su, Weiyi Yang, Linghui Wang, Yongxiu Xu, Tingwen Liu.
   _In Proceedings of **AAAI 2026**. (CCF-A, oral 4.6%)_
@@ -94,9 +98,6 @@ Please feel free to contact him and discuss any matters of interest. :-)
   **Jiawei Sheng**, Shu Guo, Bowen Yu, Qian Li, Yiming Hei, Lihong Wang, Tingwen Liu, Hongbo Xu.
   _In Findings of **ACL 2021**. (CCF-A)_
 
-- **Adaptive Attentional Network for Few-Shot Knowledge Graph Completion.**<br>
-  **Jiawei Sheng**, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu, Hongbo Xu.
-  _In Proceedings of **EMNLP 2020**. (CCF-B)_
 
 # Presentations
 

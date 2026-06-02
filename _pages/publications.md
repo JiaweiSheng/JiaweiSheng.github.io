@@ -6,7 +6,7 @@ author_profile: true
 # 2026 
 
 - **HyperMem: Hypergraph Memory for Long-Term Conversations.**<br>
-	Juwei Yue, Chuanrui Hu, **Jiawei Sheng**, Zuyi Zhou, Wenyuan Zhang, Tingwen Liu, Li Guo, Yafeng Deng.
+	Juwei Yue, Chuanrui Hu, **Jiawei Sheng\***, Zuyi Zhou, Wenyuan Zhang, Tingwen Liu, Li Guo, Yafeng Deng.
   _In Proceedings of **ACL 2026**. (CCF-A)_
 
 - **Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion.**<br>
