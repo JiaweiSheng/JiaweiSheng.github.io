@@ -12,6 +12,7 @@ redirect_from:
 
 Jiawei Sheng is a tenure-track associate professor and master's supervisor.
 He received his Ph.D. in 2023, was selected for the IIE Outstanding Talent Program (Class B) and the Postdoctoral Fellowship Program.
+
 He has published more than 40 papers in CCF-A/B top-tier international conferences and journals, with over 1,400 Google Scholar citations and one ESI Highly Cited Paper.
 As team leader, he won national first place and the Technical Innovation Award twice in the evaluation tasks at CCKS 2020 and 2021.
 At UCAS, he teaches the graduate core course Cross-Modal Intelligent Computing and Its Applications.
@@ -30,10 +31,7 @@ His primary research interests include knowledge representation & reasoning, con
 - **Reasoning**: knowledge graph reasoning, LLM-based reasoning, etc.
 - **Applications**: agentic memory, recommendation, neuro-symbolic AI, etc.
 
-His vision is to establish trustworthy AI with neuro-symbolic approaches to benefit humanity and research community.
-He is commited to be a dedicated researcher, not only a research manager.
-He welcomes collaborations to do impactful research. 
-Feel free to contact with him. :-)
+His vision is to advance trustworthy AI through neuro-symbolic approaches that benefit society and the research community. He is committed to being a researcher, not merely a research manager.He always welcomes collaborations on impactful work. Feel free to reach him. :-)
 
 # Career
 
