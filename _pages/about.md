@@ -8,30 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-Jiawei Sheng is a Tenure-Track Associate Professor at Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), and was selected into the IIE Outstanding Talent Program (Class B).
-His research has led to over 40 publications in CCF-A/B-ranked top-tier international conferences and journals. 
-As team leader, he secured first place and the Technical Innovation Award in the evaluation tasks of the China Conference on Knowledge Graph and Semantic Computing (CCKS) in both 2021 and 2022.
-At the University of Chinese Academy of Sciences (UCAS), he teaches the graduate core course _Cross-Modal Intelligent Computing and Its Applications_. He also serves as a reviewer or senior reviewer for more than ten leading international conferences and journals.
 
 
-<!-- <details markdown="1"> -->
-<!-- <summary>🇨🇳 中文简介</summary> -->
+Jiawei Sheng is a tenure-track associate professor and master's supervisor.
+He received his Ph.D. in 2023, was selected for the IIE Outstanding Talent Program (Class B) and the Postdoctoral Fellowship Program.
+He has published more than 40 papers in CCF-A/B top-tier international conferences and journals, with over 1,400 Google Scholar citations and one ESI Highly Cited Paper.
+As team leader, he won national first place and the Technical Innovation Award twice in the evaluation tasks at CCKS 2020 and 2021.
+At UCAS, he teaches the graduate core course Cross-Modal Intelligent Computing and Its Applications.
+He serves as a reviewer for more than ten top international conferences and journals, and holds ten granted or pending patents.
+
 盛傢伟，预聘副研、硕导，2023年博士毕业，入选信工所优才计划B、博士后国资计划。主要研究兴趣包括知识表征、图学习、内容分析、智能体应用等。总计在CCF-A/B类国际顶级刊会发表论文40余篇，谷歌学术被引1400余次，获ESI高被引1篇。主持/参与国自然基金青年项目C/面上、国家重点研发、中科院先导、快手校企合作等项目，主持经费近300万。带队在全国学术会议CCKS 2020、2021技术评测中2次获全国冠军及技术创新奖。担任国科大《跨模态智能计算及其应用》研究生核心课主讲。担任10余个国际顶级学术会议或期刊审稿人，授权或受理专利10项。曾获中科院朱李月华优秀博士生奖、优秀毕业生等。
-<!-- </details> -->
 
 
 # Research Interests
 
-His primary research interests lie in **knowledge representation & reasoning, large language models, and knowledge-driven applications**, with a focus on bridging the following areas:
+His primary research interests include knowledge representation & reasoning, content analysis, and agentic applications, with a focus on bridging the following areas:
 
 - **Representation**: GNNs, information-theoretic representations, diffusion models, etc.
 - **Fusion**: entity alignment, multimodal learning, cross-domain transfer, etc.
 - **Reasoning**: knowledge graph reasoning, LLM-based reasoning, etc.
 - **Applications**: agentic memory, recommendation, neuro-symbolic AI, etc.
 
-His vision is to establish trustworthy AI that integrates neural and symbolic approaches to benefit humanity and research community.
+His vision is to establish trustworthy AI with neuro-symbolic approaches to benefit humanity and research community.
+He is commited to be a dedicated researcher, not only a research manager.
 He welcomes collaborations to do impactful research. 
-Feel free to contact him and discuss any matters of interest. :-)
+Feel free to contact with him. :-)
 
 # Career
 
