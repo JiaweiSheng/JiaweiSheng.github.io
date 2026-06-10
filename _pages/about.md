@@ -10,20 +10,14 @@ redirect_from:
 
 Jiawei Sheng is a Tenure-Track Associate Professor at Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), and was selected into the IIE Outstanding Talent Program (Class B).
 
-His research has led to over 30 publications in CCF-A/B-ranked top-tier international conferences and journals. 
+His research has led to over 40 publications in CCF-A/B-ranked top-tier international conferences and journals. 
 As team leader, he secured first place and the Technical Innovation Award in the evaluation tasks of the China Conference on Knowledge Graph and Semantic Computing (CCKS) in both 2021 and 2022.
 At the University of Chinese Academy of Sciences (UCAS), he teaches the graduate core course _Cross-Modal Intelligent Computing and Its Applications_. He also serves as a reviewer or senior reviewer for more than ten leading international conferences and journals.
 
 
 <!-- <details markdown="1"> -->
 <!-- <summary>🇨🇳 中文简介</summary> -->
-盛傢伟，预聘副研、硕导，2023年博士毕业，入选信工所优才计划B、博士后国资计划。
-主要研究兴趣包括知识表征、图学习、内容分析、智能体应用等。
-总计在CCF-A/B类国际顶级刊会发表论文40余篇，谷歌学术被引1400余次，获ESI高被引1篇。
-主持/参与国自然基金青年项目C/面上、国家重点研发、中科院先导、快手校企合作等项目，主持经费近300万。
-带队在全国学术会议CCKS 2020、2021技术评测中2次获全国冠军及技术创新奖。
-担任国科大《跨模态智能计算及其应用》研究生核心课主讲。
-长期担任10余个国际顶级学术会议或期刊审稿人，授权或受理专利10项。
+盛傢伟，预聘副研、硕导，2023年博士毕业，入选信工所优才计划B、博士后国资计划。主要研究兴趣包括知识表征、图学习、内容分析、智能体应用等。总计在CCF-A/B类国际顶级刊会发表论文40余篇，谷歌学术被引1400余次，获ESI高被引1篇。主持/参与国自然基金青年项目C/面上、国家重点研发、中科院先导、快手校企合作等项目，主持经费近300万。带队在全国学术会议CCKS 2020、2021技术评测中2次获全国冠军及技术创新奖。担任国科大《跨模态智能计算及其应用》研究生核心课主讲。担任10余个国际顶级学术会议或期刊审稿人，授权或受理专利10项。曾获中科院朱李月华优秀博士生奖、优秀毕业生等。
 <!-- </details> -->
 
 
@@ -34,16 +28,17 @@ His primary research interests lie in **knowledge representation & reasoning, la
 - **Representation**: GNNs, information-theoretic representations, diffusion models, etc.
 - **Fusion**: entity alignment, multimodal learning, cross-domain transfer, etc.
 - **Reasoning**: knowledge graph reasoning, LLM-based reasoning, etc.
-- **Applications**: agent memory, recommendation, neuro-symbolic AI, etc.
+- **Applications**: agentic memory, recommendation, neuro-symbolic AI, etc.
 
-His vision is to establish knowledge-driven trustworthy AI that integrates neural and symbolic approaches to benefit humanity and research community.
-He always welcomes collaborations to do impactful research. 
-Please feel free to contact him and discuss any matters of interest. :-)
+His vision is to establish trustworthy AI that integrates neural and symbolic approaches to benefit humanity and research community.
+He welcomes collaborations to do impactful research. 
+Feel free to contact him and discuss any matters of interest. :-)
 
-# Education
+# Career
 
 - Jul. 2023 – Present​: Institute of Information Engineering, Chinese Academy of Sciences. Tenure-Track Associate Professor.
-- ​Sep. 2018 – Jun. 2023​: ​Institute of Information Engineering, Chinese Academy of Sciences​. Ph.D. Candidate in Natural Language Processing.
+- Jul. 2023 – Present​: Institute of Information Engineering, Chinese Academy of Sciences. Postdoc Researcher.
+- ​Sep. 2018 – Jun. 2023​: ​University of Chinese Academy of Sciences (UCAS), Ph.D. in Natural Language Processing.
 - ​Sep. 2014 – Jun. 2018​: ​Jilin University​. ​B.S.​​ in Computer Science and Technology.
 
 # Projects
@@ -131,9 +126,9 @@ Please feel free to contact him and discuss any matters of interest. :-)
 
 # Advised Students
 
-He feels great honour to advise the following talented students.
+He feels great honour to work alongside such talented students:
 
-- PhD Students (w/ Prof. Liu)
+- Ph.D. Students (w/ Prof. Liu)
   - 2021: Xiaodong Li (RecSys)
   - 2022: Juwei Yue (Graph ML)
   - 2022: Zefeng Zhang (MLLM)
@@ -144,15 +139,15 @@ He feels great honour to advise the following talented students.
   
 - Master Students (w/ Prof. Liu)
   - 2021: Gehang Zhang (Graph ML)
-  - 2023: Linghui Wang (KG)
-  - 2025: Shibo Ban (LLM)
+  - 2023: Linghui Wang (Social bot detection)
+  - 2025: Shibo Ban (Agent)
 
 
 # Academic Services
 
 - Conference PC member: NeurIPS, ICML, ICLR, SIGIR, KDD, ACL, WWW, MM, AAAI, etc.
 - Conference AC/SPC: ACL/ARR, IJCAI, CCL, etc.
-- Journal Reviewer: TKDE, TOIS, etc.
+- Journal Reviewer: TKDE, TOIS, MIR etc.
 
 
 
