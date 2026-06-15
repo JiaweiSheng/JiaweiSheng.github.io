@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
 Jiawei Sheng is a tenure-track associate professor and master's supervisor.
 He received his Ph.D. in 2023, was selected for the IIE Outstanding Talent Program (Class B) and the Postdoctoral Fellowship Program.
 
@@ -18,9 +16,7 @@ As team leader, he won national first place and the Technical Innovation Award t
 At UCAS, he teaches the graduate core course Cross-Modal Intelligent Computing and Its Applications.
 He serves as a reviewer for more than ten top international conferences and journals.
 
-
-盛傢伟，预聘副研、硕导，2023年博士毕业，入选信工所优才计划B、博士后国资计划。主要研究兴趣包括知识表征、图学习、内容分析、智能体应用等。总计在CCF-A/B类国际顶级刊会发表论文40余篇，谷歌学术被引1400余次，获ESI高被引1篇。主持/参与国自然基金青年项目C/面上、国家重点研发、中科院先导、快手校企合作等项目，主持经费近300万。带队在全国学术会议CCKS 2020、2021技术评测中2次获全国冠军及技术创新奖。担任国科大《跨模态智能计算及其应用》研究生核心课主讲。担任10余个国际顶级学术会议或期刊审稿人，授权或受理专利10项。曾获中科院朱李月华优秀博士生奖、优秀毕业生等。
-
+盛傢伟，预聘副研、硕导，2023年博士毕业，入选信工所优才计划B、博士后国资计划。主要研究兴趣包括知识表征、图学习、内容分析、智能体应用等。总计在CCF-A/B类国际顶级刊会发表论文40余篇，一作/通讯CCF-A类9篇，谷歌学术被引1400余次，获ESI高被引1篇，授权或受理专利10项。主持/参与国自然基金青年项目C/面上、国家重点研发、中科院先导、快手校企合作等项目，主持经费近300万。带队在全国学术会议CCKS 2020、2021技术评测中2次获全国冠军及技术创新奖。担任国科大《跨模态智能计算及其应用》研究生核心课主讲。担任10余个国际顶级学术会议或期刊审稿人，任CCF自然语言处理专委会执行委员。曾获中科院朱李月华奖学金、优秀毕业生奖等。
 
 # Research Interests
 
@@ -31,7 +27,7 @@ His primary research interests include knowledge representation & reasoning, con
 - **Reasoning**: knowledge graph reasoning, LLM-based reasoning, etc.
 - **Applications**: agentic memory, recommendation, neuro-symbolic AI, etc.
 
-His vision is to advance trustworthy AI through neuro-symbolic approaches that benefit society and the research community. He is committed to being a researcher, not merely a research manager.He always welcomes collaborations on impactful work. Feel free to reach him. :-)
+His vision is to advance trustworthy AI through neuro-symbolic approaches that benefit society and the research community. He is committed to being a researcher, not merely a research manager. He always welcomes collaborations on impactful work. Feel free to reach him. :-)
 
 # Career
 
@@ -53,11 +49,11 @@ His vision is to advance trustworthy AI through neuro-symbolic approaches that b
 # Selected Papers
 
 - **Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion.**<br>
-	**Jiawei Sheng**, Taoyu Su, Xixun Lin, Xiaodong Li and Tingwen Liu.
+  **Jiawei Sheng**, Taoyu Su, Xixun Lin, Xiaodong Li and Tingwen Liu.
   _In Proceedings of **WWW 2026**. (CCF-A, oral 9.4%)_
 
 - **HyperMem: Hypergraph Memory for Long-Term Conversations.**<br>
-	Juwei Yue, Chuanrui Hu, **Jiawei Sheng\***, Zuyi Zhou, Wenyuan Zhang, Tingwen Liu, Li Guo, Yafeng Deng.
+  Juwei Yue, Chuanrui Hu, **Jiawei Sheng\***, Zuyi Zhou, Wenyuan Zhang, Tingwen Liu, Li Guo, Yafeng Deng.
   _In Proceedings of **ACL 2026**. (CCF-A)_
 
 - **Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion.** <br>
@@ -92,23 +88,21 @@ His vision is to advance trustworthy AI through neuro-symbolic approaches that b
   **Jiawei Sheng**, Shu Guo, Bowen Yu, Qian Li, Yiming Hei, Lihong Wang, Tingwen Liu, Hongbo Xu.
   _In Findings of **ACL 2021**. (CCF-A)_
 
-
 # Presentations
 
-- Session Chair & Speaker, *Data Mining and Knowledge Management 5*, "Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion", Proceedings of AAAI 2026, *Singapore*, January 20 – January 27, 2026. 
+- Session Chair & Speaker, _Data Mining and Knowledge Management 5_, "Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion", Proceedings of AAAI 2026, _Singapore_, January 20 – January 27, 2026.
 
 - Speaker, "Calibrating Pseudo-Labeling with Class Distribution for Semi-supervised Text Classification",
-  Proceedings of EMNLP 2025, *Suzhou, China*, November 4 - November 9, 2025. 
+  Proceedings of EMNLP 2025, _Suzhou, China_, November 4 - November 9, 2025.
 
-- Speaker, "IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment", Proceedings of ACM MM 2024, *Melbourne, Australia*, October 28 – November 1, 2024. 
+- Speaker, "IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment", Proceedings of ACM MM 2024, _Melbourne, Australia_, October 28 – November 1, 2024.
 
-- Speaker, "Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification", Proceedings of ECAI 2023, *Kraków, Poland*, September 30 – October 4, 2023. 
+- Speaker, "Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification", Proceedings of ECAI 2023, _Kraków, Poland_, September 30 – October 4, 2023.
 
 # Competitions
 
 - [CCKS 2021: Fine-grained Event Detection Competition](http://sigkg.cn/ccks2021/), Rank 1/253 (Team leader)
 - [CCKS 2020: Few-shot Cross-domain Event Extraction Competition](http://sigkg.cn/ccks2020/?page_id=69#task4), Rank: 1/391 (Team leader)
-
 
 # Selected Awards
 
@@ -122,7 +116,6 @@ His vision is to advance trustworthy AI through neuro-symbolic approaches that b
 - Outstanding Student Award, University of Chinese Academy of Sciences.
 - Recipient of the Inspur Scholarship at 2016.
 
-
 # Advised Students
 
 He feels great honour to work alongside such talented students:
@@ -135,21 +128,13 @@ He feels great honour to work alongside such talented students:
   - 2023: Yao Chen (LLM)
   - 2024: Shuaiyi Nie (LLM)
   - 2025: Simeng Zhang (LLM)
-  
 - Master Students (w/ Prof. Liu)
   - 2021: Gehang Zhang (Graph ML)
   - 2023: Linghui Wang (Social bot detection)
   - 2025: Shibo Ban (Agent)
 
-
 # Academic Services
 
 - Conference PC member: NeurIPS, ICML, ICLR, SIGIR, KDD, ACL, WWW, MM, AAAI, etc.
 - Conference AC/SPC: ACL/ARR, IJCAI, CCL, etc.
-- Journal Reviewer: TKDE, TOIS, MIR etc.
-
-
-
-
-
-
+- Journal Reviewer: TKDE, TOIS, MIR, etc.
