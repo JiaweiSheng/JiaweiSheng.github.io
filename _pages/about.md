@@ -26,7 +26,7 @@ His primary research interests include knowledge representation & reasoning, con
 - **Reasoning**: knowledge graph reasoning, LLM-based reasoning, etc.
 - **Applications**: agentic memory, recommendation, neuro-symbolic AI, etc.
 
-His vision is to advance trustworthy AI through neuro-symbolic approaches that benefit society and the research community. He strives to remain an active researcher rather than merely a research manager. He always welcomes collaborations on impactful work. Feel free to reach him. :-)
+His vision is to advance trustworthy AI through neuro-symbolic approaches that benefit society and the research community. He strives to remain a researcher rather than merely a research manager. He always welcomes collaborations on impactful work. Feel free to reach him. :-)
 
 # Career
 
