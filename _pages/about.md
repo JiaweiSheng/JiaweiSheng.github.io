@@ -22,9 +22,9 @@ He serves as a reviewer for more than ten top international conferences and jour
 His primary research interests include knowledge representation & reasoning, content analysis, and agentic applications, with a focus on bridging the following areas:
 
 - **Representation**: GNNs, information-theoretic representations, diffusion models, etc.
-- **Fusion**: entity alignment, multimodal learning, cross-domain transfer, etc.
-- **Reasoning**: knowledge graph reasoning, LLM-based reasoning, etc.
-- **Applications**: agentic memory, recommendation, neuro-symbolic AI, etc.
+- **Fusion**: entity alignment, multimodal learning, cross-domain learning, etc.
+- **Reasoning**: knowledge graph reasoning, LLM reasoning, recommendation, etc.
+- **Applications**: agentic memory and skill, neuro-symbolic systems, etc.
 
 His vision is to advance trustworthy AI through neuro-symbolic approaches that benefit society and the research community. He strives to remain an active researcher rather than merely a research manager. He always welcomes collaborations on impactful work. Feel free to reach him. :-)
 
