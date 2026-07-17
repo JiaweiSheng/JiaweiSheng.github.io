@@ -8,25 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Jiawei Sheng is a tenure-track associate professor and master's supervisor.
-He received his Ph.D. in 2023, was selected for the IIE Outstanding Talent Program (Class B) and the Postdoctoral Fellowship Program.
-He has published more than 40 papers in CCF-A/B top-tier international conferences and journals, with over 1,500 Google Scholar citations and one ESI Highly Cited Paper.
-As team leader, he won national first place and the Technical Innovation Award twice in the evaluation tasks at CCKS 2020 and 2021.
-At UCAS, he teaches the graduate core course Cross-Modal Intelligent Computing and Its Applications.
-He serves as a reviewer for more than ten top international conferences and journals.
+Jiawei Sheng is a tenure-track associate professor and master's supervisor at the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
+He received his Ph.D. in 2023 and was selected for the IIE Outstanding Talent Program (Class B) and the Postdoctoral Fellowship Program.
+His work has been published in top-tier international conferences and journals.
+At the University of Chinese Academy of Sciences (UCAS), he teaches graduate courses.
+As team leader, he led his team to first place and the Technical Innovation Award in the evaluation tasks at CCKS 2020 and 2021.
+He also regularly serves as a reviewer for top international conferences and journals.
 
-盛傢伟，预聘副研、硕导，2023年博士毕业，入选信工所优才计划B、博士后国资计划。主要研究兴趣包括知识表示、内容分析、智能体应用等。总计在CCF-A/B类国际顶级刊会发表论文40余篇，一作/通讯CCF-A/B类14篇，谷歌学术被引1500余次，获ESI高被引1篇，授权或受理专利10项。主持/参与国自然基金青年项目C/面上、国家重点研发、中科院先导、快手校企合作等项目，主持经费近300万。担任国科大《跨模态智能计算及其应用》研究生核心课主讲。担任CCF自然语言处理专委会执行委员、CIPS青工委预备委员。担任10余个国际顶级刊会审稿人，担任ACL、IJCAI等会议领域主席。曾带队在全国学术会议CCKS 2020、2021技术评测中2次获全国冠军及技术创新奖，获中国科学院朱李月华奖学金、优秀毕业生奖等。
+盛傢伟，预聘副研、硕导，2023年博士毕业，入选信工所优才计划B、博士后国资计划。主要研究方向为知识表示、数据挖掘、智能体应用等。总计在CCF-A/B类国际顶级刊会发表论文40余篇，一作/通讯CCF-A/B类14篇，谷歌学术被引1500余次，获ESI高被引1篇，授权或受理专利10项。主持/参与国自然基金青年项目C/面上、国家重点研发、中科院先导、快手校企合作等项目，主持经费近300万。担任国科大《跨模态智能计算及其应用》研究生核心课主讲。担任CCF自然语言处理专委会执行委员、CIPS青工委预备委员。担任10余个国际顶级刊会审稿人，担任ACL、IJCAI等会议领域主席。曾带队在全国学术会议CCKS 2020、2021技术评测中2次获全国冠军及技术创新奖，曾获中国科学院朱李月华奖学金、优秀毕业生奖等。
 
 # Research Interests
 
-His primary research interests include knowledge representation & reasoning, content analysis, and agentic applications, with a focus on bridging the following areas:
+His research spans the broad areas of knowledge representation, data mining, and agentic applications, with particular interests in the following directions:
 
-- **Representation**: GNNs, information-theoretic representations, diffusion models, etc.
-- **Fusion**: entity alignment, multimodal learning, cross-domain learning, etc.
-- **Reasoning**: knowledge graph reasoning, LLM reasoning, recommendation, etc.
-- **Applications**: agentic memory and skill, neuro-symbolic systems, etc.
+- **Representation**: ontology, knowledge graph, graph learning, etc.
+- **Fusion**: multimodal entity alignment, cross-domain recommendation, etc.
+- **Reasoning**: knowledge graph reasoning, knowledge-augmented LLM, etc.
+- **Application**: agentic memory and skill, neuro-symbolic approach, etc.
 
-His vision is to advance trustworthy AI through neuro-symbolic approaches that benefit society and the research community. He strives to remain an active researcher rather than merely a research manager. He always welcomes collaborations on impactful work. Feel free to reach him. :-)
+His vision is to advance trustworthy AI that benefits the real world. He strives to be a hands-on researcher rather than merely a research manager. He always welcomes collaborations on impactful work. Feel free to reach out. :-)
 
 # Career
 
