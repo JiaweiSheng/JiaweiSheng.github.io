@@ -26,7 +26,7 @@ His research spans the broad areas of knowledge representation, data mining, and
 - **Reasoning**: knowledge graph reasoning, knowledge-augmented LLM, etc.
 - **Application**: agentic memory and skill, neuro-symbolic approach, etc.
 
-His vision is to advance trustworthy AI that benefits the real world. He strives to be a hands-on researcher rather than merely a research manager. He always welcomes collaborations on impactful work. Feel free to reach out. :-)
+His vision is to advance trustworthy AI that benefits the real world. He strives to be a hands-on researcher rather than merely a research manager. He always welcomes collaborations. Feel free to reach out. :-)
 
 # Career
 
