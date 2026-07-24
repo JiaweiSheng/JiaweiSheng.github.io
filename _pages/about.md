@@ -15,11 +15,11 @@ At the University of Chinese Academy of Sciences (UCAS), he teaches graduate cou
 As team leader, he led his team to first place and the Technical Innovation Award in the evaluation tasks at CCKS 2020 and 2021.
 He also regularly serves as a reviewer for top international conferences and journals.
 
-盛傢伟，预聘副研、硕导，2023年博士毕业，入选信工所优才计划B、博士后国资计划。主要研究方向为知识表示、数据挖掘、智能体应用等。总计在CCF-A/B类国际顶级刊会发表论文40余篇，一作/通讯CCF-A/B类14篇，谷歌学术被引1500余次，获ESI高被引1篇，授权或受理专利10项。主持/参与国自然基金青年项目C/面上、国家重点研发、中科院先导、快手校企合作等项目，主持经费近300万。担任国科大《跨模态智能计算及其应用》研究生核心课主讲。担任CCF自然语言处理专委会执行委员、CIPS青工委预备委员。担任10余个国际顶级刊会审稿人，担任ACL、IJCAI等会议领域主席。曾带队在全国学术会议CCKS 2020、2021技术评测中2次获全国冠军及技术创新奖，曾获中国科学院朱李月华奖学金、优秀毕业生奖等。
+盛傢伟，预聘副研、硕导，2023年博士毕业，入选北京市科协青托、信工所优才计划B、博士后国资计划。主要研究方向为知识表示与处理、信息内容分析、智能体应用等。总计在CCF-A/B类国际顶级刊会发表论文40余篇，一作/通讯CCF-A/B类14篇，谷歌学术被引1500余次，获ESI高被引1篇，授权或受理专利10项。主持/参与国自然基金青年项目C/面上、国家重点研发、中科院先导、快手校企合作等项目，主持经费近300万。担任国科大《跨模态智能计算及其应用》研究生核心课主讲。担任CCF自然语言处理专委会执行委员、CIPS青工委预备委员。担任10余个国际顶级刊会审稿人，担任ACL、IJCAI等会议领域主席。曾带队在全国学术会议CCKS 2020、2021技术评测中2次获全国冠军及技术创新奖，曾获中国科学院朱李月华奖学金、优秀毕业生奖等。
 
 # Research Interests
 
-His research spans the broad areas of knowledge representation, data mining, and agentic applications, with particular interests in the following directions:
+His research spans the broad areas of knowledge engineering, data mining, and agentic applications, with particular interests in the following directions:
 
 - **Representation**: ontology, knowledge graph, graph learning, etc.
 - **Fusion**: multimodal entity alignment, cross-domain recommendation, etc.
