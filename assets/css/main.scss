@@ -37,3 +37,19 @@
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Custom: 正文两端对齐 */
+.page__content {
+  p,
+  li {
+    text-align: justify;
+    text-justify: inter-ideograph; /* 中文两端对齐优化 */
+  }
+}
+
+/* Custom: 取消侧边栏（头像）悬停变色 */
+.sidebar {
+  opacity: 1 !important;
+  -webkit-transition: none !important;
+  transition: none !important;
+}
