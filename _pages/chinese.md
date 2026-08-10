@@ -14,7 +14,8 @@ author_profile: true
 - **知识建模与表征**：本体建模、知识图谱表征、图机器学习等；
 - **知识融合与推理**：实体对齐、跨域推荐、知识图谱推理、大模型知识增强生成等；
 - **智能体知识应用**：智能体记忆、智能体技能、领域智能体等。
-本人的长期愿景是构建可落地的可信人工智能系统，服务于现实应用需求。希望能不断做出有趣的、有用的、更好的研究。欢迎多多交流合作 :-)
+
+本人的研究愿景是构建可落地的可信人工智能系统，服务于现实应用需求。希望能不断做出有趣的、有用的、更好的研究。欢迎多多交流合作 :-)
 
 # 个人履历
 
@@ -59,7 +60,7 @@ author_profile: true
 
 # 科研项目
 
-- 国自然基金青年项目（C 类），负责人，跨领域知识图谱补全关键技术研究，2025.01 - 2027.12，30 万元。
+- 国自然基金青年项目（C 类），负责人，跨领域知识图谱补全技术研究，2025.01 - 2027.12，30 万元。
 - 博士后国资计划（C 类），负责人，基于跨域建模的知识关联发现研究，2023.07 - 2025.07，60 万元（含中科院 36 万元）。
 - 中科院特别研究助理项目（优才计划 B 类），负责人，2023.07 - 2026.07，80 万元。
 - 快手校企合作项目，负责人，2024.08 - 2025.06，50 万元。
@@ -84,7 +85,7 @@ author_profile: true
 
 # 学术报告
 
-- 面向智能体的知识工程：从知识表示、知识构建到知识应用，[slides](/files/2026.07-Knowledge-Engineering-for-Agents-JiaweiSheng-pub.pdf)，_某研究所_，2026.7
+- 面向智能体的知识工程：从知识表示、知识构建到知识应用，[报告slides](/files/2026.07-Knowledge-Engineering-for-Agents-JiaweiSheng-pub.pdf)，_某研究所_，2026.07
 - 分会主席 & 报告人，_Data Mining and Knowledge Management 5_，"Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion"，AAAI 2026，_新加坡_，2026.01.20 – 01.27
 - 报告人，"IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment"，ACM MM 2024，_澳大利亚墨尔本_，2024.10.28 – 11.01
 - 报告人，"Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification"，ECAI 2023，_波兰克拉科夫_，2023.09.30 – 10.04

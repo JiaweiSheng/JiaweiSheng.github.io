@@ -26,6 +26,7 @@ His research spans the broad areas of knowledge engineering, natural language pr
 - **Knowledge Modeling and Representation**: ontology modeling, knowledge graph representation, graph machine learning, etc.
 - **Knowledge Fusion and Reasoning**: entity alignment, cross-domain recommendation, knowledge graph reasoning, knowledge-augmented LLM generation, etc.
 - **Agent-oriented Knowledge Application**: agentic memory, agentic skills, domain agents, etc.
+
 His long-term vision is to build deployable trustworthy AI systems that serve real-world application needs. He hopes to keep producing interesting, useful, and better research. He strives to remain a hands-on researcher rather than merely a research manager. Feel free to reach out and collaborate. :-)
 
 # Career
