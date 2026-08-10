@@ -53,3 +53,11 @@
   -webkit-transition: none !important;
   transition: none !important;
 }
+
+/* Custom: 列表项行间距 */
+.page__content {
+  ul li,
+  ol li {
+    margin-bottom: 0.4em; /* 加大：0.75em / 1em；减小：0.25em */
+  }
+}

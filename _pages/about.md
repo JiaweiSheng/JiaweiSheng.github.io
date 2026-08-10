@@ -23,11 +23,9 @@ He also received the Zhuli Yuehua Outstanding Doctoral Scholarship of CAS and th
 # Research Interests
 
 His research spans the broad areas of knowledge engineering, natural language processing, and graph data mining, with particular interests in knowledge augmentation and trustworthy utilization for large language models and agents, focusing on the following directions:
-
 - **Knowledge Modeling and Representation**: ontology modeling, knowledge graph representation, graph machine learning, etc.
 - **Knowledge Fusion and Reasoning**: entity alignment, cross-domain recommendation, knowledge graph reasoning, knowledge-augmented LLM generation, etc.
 - **Agent-oriented Knowledge Application**: agentic memory, agentic skills, domain agents, etc.
-
 His long-term vision is to build deployable trustworthy AI systems that serve real-world application needs. He hopes to keep producing interesting, useful, and better research. He strives to remain a hands-on researcher rather than merely a research manager. Feel free to reach out and collaborate. :-)
 
 # Career
@@ -37,45 +35,35 @@ His long-term vision is to build deployable trustworthy AI systems that serve re
 - ​Sep. 2018 – Jun. 2023​: ​University of Chinese Academy of Sciences (UCAS), Ph.D. in Natural Language Processing.
 - ​Sep. 2014 – Jun. 2018​: ​Jilin University​. ​B.S.​​ in Computer Science and Technology.
 
-
 # Selected Papers
 
 - **Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion.**<br>
   **Jiawei Sheng**, Taoyu Su, Xixun Lin, Xiaodong Li and Tingwen Liu.
   _In Proceedings of **WWW 2026**. (CCF-A, oral 9.4%)_
-
 - **HyperMem: Hypergraph Memory for Long-Term Conversations.**<br>
   Juwei Yue, Chuanrui Hu, **Jiawei Sheng\***, Zuyi Zhou, Wenyuan Zhang, Tingwen Liu, Li Guo, Yafeng Deng.
   _In Proceedings of **ACL 2026**. (CCF-A)_
-
 - **Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion.** <br>
   **Jiawei Sheng**, Taoyu Su, Weiyi Yang, Linghui Wang, Yongxiu Xu, Tingwen Liu.
   _In Proceedings of **AAAI 2026**. (CCF-A, oral 4.6%)_
-
 - **Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective.** <br>
   Taoyu Su, **Jiawei Sheng\***, Duohe Ma, Xiaodong Li, Juwei Yue, Mengxiao Song, Yingkai Tang and Tingwen Liu.
   _In Proceedings of **SIGIR 2025**. (CCF-A)_
-
 - **Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation.** <br>
   Xiaodong Li, Hengzhu Tang, **Jiawei Sheng\***, Xinghua Zhang, Li Gao, Suqi Cheng, Dawei Yin, Tingwen Liu.
   _In Proceedings of **KDD 2025**. (CCF-A)_
-
 - **Hyperbolic GNN: Spectral Graph Neural Networks in the Perspective of A System of Hyperbolic Partial Differential Equations.**<br>
   Juwei Yue, Haikuo Li, **Jiawei Sheng\***, Xiaodong Li, Taoyu Su, Tingwen Liu, Li Guo.
   _In Proceedings of **ICML 2025**. (CCF-A)_
-
 - **Graph Wave Networks.**<br>
   Juwei Yue, Haikuo Li, **Jiawei Sheng\***, Yihan Guo, Xinghua Zhang, Chuan Zhou, Tingwen Liu\*, Li Guo.
   _In Proceedings of **WWW 2025**. (CCF-A)_
-
 - **IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment.**<br>
   Taoyu Su, **Jiawei Sheng\***, Shicheng Wang, Xinghua Zhang, Hongbo Xu, Tingwen Liu.
   _In Proceedings of **ACM MM 2024**. (CCF-A)_
-
 - **CorED: Incorporating Type-level and Instance-level Correlations for Fine-grained Event Detection.**<br>
   **Jiawei Sheng**, Rui Sun, Shu Guo, Shiyao Cui, Jiangxia Cao, Lihong Wang, Tingwen Liu and Hongbo Xu.
   _In Proceedings of **SIGIR 2022**. (CCF-A)_
-
 - **CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction.**<br>
   **Jiawei Sheng**, Shu Guo, Bowen Yu, Qian Li, Yiming Hei, Lihong Wang, Tingwen Liu, Hongbo Xu.
   _In Findings of **ACL 2021**. (CCF-A)_
@@ -109,17 +97,13 @@ His long-term vision is to build deployable trustworthy AI systems that serve re
 # Presentations
 
 - Speaker, "Knowledge Engineering for Agents: From Knowledge Representation and Construction to Application", [slides](/files/2026.07-Knowledge-Engineering-for-Agents-JiaweiSheng-pub.pdf), _a research institute_, July 2026.
-
 - Session Chair & Speaker, _Data Mining and Knowledge Management 5_, "Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion", Proceedings of AAAI 2026, _Singapore_, January 20 – January 27, 2026.
-
 - Speaker, "IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment", Proceedings of ACM MM 2024, _Melbourne, Australia_, October 28 – November 1, 2024.
-
 - Speaker, "Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification", Proceedings of ECAI 2023, _Kraków, Poland_, September 30 – October 4, 2023.
 
 # Advised Students
 
 He feels great honour to work alongside such talented students:
-
 - Ph.D. Students (w/ Prof. Liu)
   - 2021: Xiaodong Li (RecSys)
   - 2022: Juwei Yue (Graph ML)
