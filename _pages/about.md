@@ -84,12 +84,12 @@ His long-term vision is to build deployable trustworthy AI systems that serve re
 <!-- - Youth Talent Lifting Project of Beijing Association for Science and Technology (BAST), 2026. -->
 - IIE Outstanding Talent Program (Class B), 2023.
 - The Postdoctoral Fellowship Program (Class C), 2023. 
-- The **Top 1 Winner** of CCKS 2021 Competition: [Fine-grained Event Detection Competition](https://sigkg.cn/ccks2021/?page_id=27). Chinese Information Processing Society of China. 2021. Rank 1/253 (Team leader).
-- The **Technological Innovation Award** of CCKS 2021 Competition: Fine-grained Event Detection Competition. Chinese Information Processing Society of China. 2021. 
-- The **Top 1 Winner** of CCKS 2020 Competition: [Few-shot Cross-domain Event Extraction Competition](http://sigkg.cn/ccks2020/?page_id=69#task4). Chinese Information Processing Society of China. 2020. Rank: 1/391 (Team leader).
-- The **Technological Innovation Award** of CCKS 2020 Competition: Few-shot Cross-domain Event Extraction Competition. Chinese Information Processing Society of China. 2020.
+- The Top 1 Winner of CCKS 2021 Competition: [Fine-grained Event Detection Competition](https://sigkg.cn/ccks2021/?page_id=27). Chinese Information Processing Society of China. 2021. Rank 1/253 (Team leader).
+- The Technological Innovation Award of CCKS 2021 Competition: Fine-grained Event Detection Competition. Chinese Information Processing Society of China. 2021. 
+- The Top 1 Winner of CCKS 2020 Competition: [Few-shot Cross-domain Event Extraction Competition](http://sigkg.cn/ccks2020/?page_id=69#task4). Chinese Information Processing Society of China. 2020. Rank: 1/391 (Team leader).
+- The Technological Innovation Award of CCKS 2020 Competition: Few-shot Cross-domain Event Extraction Competition. Chinese Information Processing Society of China. 2020.
 - Outstanding Graduate Award of Institute of Information Engineering, Chinese Academy of Sciences at 2023.
-- The **Zhuli Yuehua outstanding doctoral scholarship, Chinese Academy of Sciences** at 2022.
+- The Zhuli Yuehua outstanding doctoral scholarship, Chinese Academy of Sciences at 2022.
 - Academic Scholarship, University of Chinese Academy of Sciences.
 - Outstanding Student Award, University of Chinese Academy of Sciences.
 - Recipient of the Inspur Scholarship at 2016.
