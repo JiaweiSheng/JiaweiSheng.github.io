@@ -31,8 +31,7 @@ His long-term vision is to build deployable trustworthy AI systems that serve re
 
 # Career
 
-- Jul. 2023 – Present​: Institute of Information Engineering, Chinese Academy of Sciences. Outstanding Talent Program (Class B), Tenure-Track Associate Professor.
-- Jul. 2023 – Present​: Institute of Information Engineering, Chinese Academy of Sciences. Postdoc Researcher.
+- Jul. 2023 – Present​: Institute of Information Engineering, Chinese Academy of Sciences. Outstanding Talent Program (Class B), Tenure-Track Associate Professor, Postdoc Researcher.
 - ​Sep. 2018 – Jun. 2023​: ​University of Chinese Academy of Sciences (UCAS), Ph.D. in Natural Language Processing.
 - ​Sep. 2014 – Jun. 2018​: ​Jilin University​. ​B.S.​​ in Computer Science and Technology.
 
@@ -88,8 +87,8 @@ His long-term vision is to build deployable trustworthy AI systems that serve re
 - The Technological Innovation Award of CCKS 2021 Competition: Fine-grained Event Detection Competition. Chinese Information Processing Society of China. 2021. 
 - The Top 1 Winner of CCKS 2020 Competition: [Few-shot Cross-domain Event Extraction Competition](http://sigkg.cn/ccks2020/?page_id=69#task4). Chinese Information Processing Society of China. 2020. Rank: 1/391 (Team leader).
 - The Technological Innovation Award of CCKS 2020 Competition: Few-shot Cross-domain Event Extraction Competition. Chinese Information Processing Society of China. 2020.
-- Outstanding Graduate Award of Institute of Information Engineering, Chinese Academy of Sciences at 2023.
-- The Zhuli Yuehua outstanding doctoral scholarship, Chinese Academy of Sciences at 2022.
+- Outstanding Graduate Award of Institute of Information Engineering, CAS at 2023.
+- The Zhuli Yuehua outstanding doctoral scholarship, CAS at 2022.
 - Academic Scholarship, University of Chinese Academy of Sciences.
 - Outstanding Student Award, University of Chinese Academy of Sciences.
 - Recipient of the Inspur Scholarship at 2016.
