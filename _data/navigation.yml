@@ -2,7 +2,7 @@
 main:
 
   - title: "中文简介"
-    url: /chinese/
+    url: /zh/
 
   # - title: "En"
     # url: /About/  
