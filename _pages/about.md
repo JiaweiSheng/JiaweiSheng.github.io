@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 Jiawei Sheng is a tenure-track associate professor and master's supervisor at the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
-He received his Ph.D. from the University of Chinese Academy of Sciences (UCAS) in 2023, and was selected for the IIE Outstanding Talent Program (Class B) and the Postdoctoral Fellowship Program (Class C).
-He has long been engaged in research on knowledge engineering, natural language processing, and graph data mining, with his main research interest in knowledge augmentation and trustworthy utilization for large language models and agents.
+He received his Ph.D. from the University of Chinese Academy of Sciences (UCAS) in 2023, and was selected for the Youth Talent Support Project of the BAST High-Innovation Program, the IIE Outstanding Talent Program (Class B), and the Postdoctoral Fellowship Program (Class C).
+He works on knowledge engineering, natural language processing, and graph data mining, with his main research interest in knowledge augmentation and trustworthy utilization for large language models and agents.
 
 He has published more than 40 papers in CCF-A/B international top-tier conferences and journals, with over 1,600 Google Scholar citations, one ESI highly cited paper, and 10 granted or filed patents; some of his techniques have been applied to the Kwai recommendation platform.
 He has led the NSFC Youth Project, National R&D Sub-program, and Kwai school-enterprise collaboration projects, with nearly 3 million RMB in funding as PI, and participated as a core member in the CAS Strategic Priority Research Program and the NSFC General Program, among others.
 At UCAS, he teaches the graduate core course "Cross-modal Intelligent Computing and Its Applications".
-He serves as a committee member of the CCF Natural Language Processing Special Committee, an alternate committee member of the CIPS Youth Working Committee, and an expert of the Beijing Information Industry Association.
+He serves as a committee member of the CIPS Language and Knowledge Computing Special Committee, an alternate committee member of the CIPS Youth Working Committee, a committee member of the CCF Natural Language Processing Special Committee, and an expert of the Beijing Information Industry Association.
 He also serves as a PC member for more than 10 top international conferences and journals, as an AC/SPC for ACL/ARR, AAAI, IJCAI, etc., and as a SAC for COLING, etc.
 As team leader, he led his team to first place and the Technical Innovation Award in the evaluation tasks at CCKS 2020 and 2021.
 He also received the Zhuli Yuehua Outstanding Doctoral Scholarship of CAS and the Outstanding Graduate Award of IIE, among others.
@@ -80,7 +80,7 @@ His long-term vision is to build deployable trustworthy AI systems that serve re
 
 # Selected Awards
 
-<!-- - Youth Talent Lifting Project of Beijing Association for Science and Technology (BAST), 2026. -->
+- Youth Talent Support Project of the BAST High-Innovation Program, 2026.
 - IIE Outstanding Talent Program (Class B), 2023.
 - The Postdoctoral Fellowship Program (Class C), 2023. 
 - The Top 1 Winner of CCKS 2021 Competition: [Fine-grained Event Detection Competition](https://sigkg.cn/ccks2021/?page_id=27). Chinese Information Processing Society of China. 2021. Rank 1/253 (Team leader).
@@ -120,7 +120,8 @@ He feels great honour to work alongside such talented students:
 
 # Academic Services
 
-- Committee Member, CCF-NLP Special Committee.
+- Committee Member, CCF Natural Language Processing Special Committee.
+- Committee Member, CIPS Language and Knowledge Computing Special Committee.
 - Alternate Committee Member, CIPS Youth Working Committee.
 - Expert, Beijing Information Industry Association.
 - Conference PC member: NeurIPS, ICML, ICLR, SIGIR, KDD, ACL, WWW, MM, AAAI, etc.
