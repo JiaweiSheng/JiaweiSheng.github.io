@@ -94,6 +94,10 @@ His long-term vision is to build deployable trustworthy AI systems that serve re
 - Recipient of the Inspur Scholarship at 2016.
 
 
+# Teaching
+
+- Instructor, UCAS graduate core course *Cross-modal Intelligent Computing and Its Applications*, Spring 2025 and Spring 2026, 72 class hours (Yanqi Lake Campus and Yuquan Road Campus).
+
 # Presentations
 
 - Speaker, "Knowledge Engineering for Agents: From Knowledge Representation and Construction to Application", [slides](/files/2026.07-Knowledge-Engineering-for-Agents-JiaweiSheng-pub.pdf), _a research institute_, July 2026.
