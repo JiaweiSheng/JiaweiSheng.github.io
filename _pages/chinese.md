@@ -118,7 +118,7 @@ author_profile: true
 - 中文信息学会（CIPS），语言与知识计算专委会，委员
 - 中文信息学会（CIPS），青年工作委员会，预备委员
 - 北京信息产业协会，专家
-- 会议审稿人（PC）：NeurIPS、ICML、ICLR、SIGIR、KDD、ACL、WWW、MM、AAAI 等
-- 会议领域主席或高级审稿人（AC/SPC）：ACL/ARR、AAAI、IJCAI、CCL 等
 - 会议高级领域主席（SAC）：COLING 等
+- 会议领域主席或高级审稿人（AC/SPC）：ACL/ARR、WWW、AAAI、IJCAI、CCL 等
+- 会议审稿人（PC）：NeurIPS、ICML、ICLR、SIGIR、KDD、ACL、WWW、MM、AAAI 等
 - 期刊审稿人：TKDE、TOIS、MIR 等

@@ -128,7 +128,7 @@ He feels great honour to work alongside such talented students:
 - Committee Member, CIPS Language and Knowledge Computing Special Committee.
 - Alternate Committee Member, CIPS Youth Working Committee.
 - Expert, Beijing Information Industry Association.
-- Conference PC member: NeurIPS, ICML, ICLR, SIGIR, KDD, ACL, WWW, MM, AAAI, etc.
-- Conference AC/SPC: ACL/ARR, AAAI, IJCAI, CCL, etc.
 - Conference SAC: COLING, etc.
+- Conference AC/SPC: ACL/ARR, WWW, AAAI, IJCAI, CCL, etc.
+- Conference PC member: NeurIPS, ICML, ICLR, SIGIR, KDD, ACL, WWW, MM, AAAI, etc.
 - Journal Reviewer: TKDE, TOIS, MIR, etc.
