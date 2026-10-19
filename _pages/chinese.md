@@ -90,7 +90,7 @@ author_profile: true
 
 # 学术报告
 
-- 面向智能体的知识工程：从知识表示、知识构建到知识应用，[报告slides](/files/2026.07-Knowledge-Engineering-for-Agents-JiaweiSheng-pub.pdf)，_某研究所_，2026.07
+- 面向智能体的知识工程：从知识表示、知识构建到知识应用，[报告slides](/files/2026.07-Knowledge-Engineering-for-Agents-JiaweiSheng-pub.pdf)，_研究所_，2026.07
 - 分会主席 & 报告人，_Data Mining and Knowledge Management 5_，"Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion"，AAAI 2026，_新加坡_，2026.01.20 – 01.27
 - 报告人，"IBMEA: Exploring Variational Information Bottleneck for Multi-modal Entity Alignment"，ACM MM 2024，_澳大利亚墨尔本_，2024.10.28 – 11.01
 - 报告人，"Uncertain Relational Hypergraph Attention Networks for Document-level Event Factuality Identification"，ECAI 2023，_波兰克拉科夫_，2023.09.30 – 10.04
