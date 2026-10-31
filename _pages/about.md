@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Jiawei Sheng is a tenure-track associate professor and master's supervisor at the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
-He received his Ph.D. from the University of Chinese Academy of Sciences (UCAS) in 2023, and was selected for the Youth Talent Support Project of the BAST High-Innovation Program, the IIE Outstanding Talent Program (Class B), and the Postdoctoral Fellowship Program (Class C).
+Jiawei Sheng is an associate professor and master's supervisor at the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
+He received his Ph.D. from the University of Chinese Academy of Sciences (UCAS) in 2023, and was selected for the BAST Youth Talent Support Project, the IIE Outstanding Talent Program (Class B), and the Postdoctoral Fellowship Program (Class C).
 He works on knowledge engineering, natural language processing, and graph data mining, with his main research interest in knowledge augmentation and trustworthy utilization for large language models and agents.
 
 He has published more than 40 papers in CCF-A/B international top-tier conferences and journals, with over 1,600 Google Scholar citations, one ESI highly cited paper, and 10 granted or filed patents; some of his techniques have been applied to the Kwai recommendation platform.
@@ -24,14 +24,15 @@ He also received the Zhuli Yuehua Outstanding Doctoral Scholarship of CAS and th
 
 His research spans the broad areas of knowledge engineering, natural language processing, and graph data mining, with particular interests in knowledge augmentation and trustworthy utilization for large language models and agents, focusing on the following directions:
 - **Knowledge Modeling and Representation**: ontology modeling, knowledge graph representation, graph machine learning, etc.
-- **Knowledge Fusion and Reasoning**: entity alignment, cross-domain recommendation, knowledge graph reasoning, knowledge-augmented LLM generation, etc.
+- **Knowledge Fusion and Reasoning**: entity alignment, cross-domain recommendation, knowledge graph reasoning, knowledge-augmented LLMs, etc.
 - **Agent-oriented Knowledge Application**: agentic memory, agentic skills, domain agents, etc.
 
 His long-term vision is to build deployable trustworthy AI systems that serve real-world application needs. He hopes to keep producing interesting, useful, and better research. He strives to remain a hands-on researcher rather than merely a research manager. Feel free to reach out and collaborate. :-)
 
 # Career
 
-- Jul. 2023 – Present​: Institute of Information Engineering, Chinese Academy of Sciences. Outstanding Talent Program (Class B), Tenure-Track Associate Professor, Postdoc Researcher.
+- Oct. 2026 – Present: Institute of Information Engineering, Chinese Academy of Sciences. Associate Professor.
+- Jul. 2023 – Oct. 2026: Institute of Information Engineering, Chinese Academy of Sciences. Outstanding Talent Program (Class B), Tenure-Track Associate Professor, Postdoc Researcher.
 - ​Sep. 2018 – Jun. 2023​: ​University of Chinese Academy of Sciences (UCAS), Ph.D. in Natural Language Processing.
 - ​Sep. 2014 – Jun. 2018​: ​Jilin University​. ​B.S.​​ in Computer Science and Technology.
 
