@@ -30,7 +30,7 @@ His research spans the broad areas of knowledge engineering, natural language pr
 
 His long-term vision is to build deployable trustworthy AI systems that serve real-world application needs. He hopes to keep producing interesting, useful, and better research. He strives to remain a hands-on researcher rather than merely a research manager. Feel free to reach out to him for collaboration. :-) 
 
-*Note for international applicants: IIE, CAS does not currently admit students through the CAS-ANSO Scholarship program, so he is unable to accept CAS-ANSO applications. Thank you for your understanding.*
+*Note for international applicants: IIE, CAS does not currently admit students through the CAS-ANSO Scholarship program, so he is unable to accept applications. Thank you for your understanding.*
 
 
 
