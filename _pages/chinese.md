@@ -28,12 +28,12 @@ author_profile: true
 
 # 代表论文
 
-- **Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion.**<br>
-  **Jiawei Sheng**, Taoyu Su, Xixun Lin, Xiaodong Li and Tingwen Liu.
-  _In Proceedings of **WWW 2026**. (CCF-A, oral 9.4%)_
 - **HyperMem: Hypergraph Memory for Long-Term Conversations.**<br>
   Juwei Yue, Chuanrui Hu, **Jiawei Sheng\***, Zuyi Zhou, Wenyuan Zhang, Tingwen Liu, Li Guo, Yafeng Deng.
   _In Proceedings of **ACL 2026**. (CCF-A)_
+- **Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion.**<br>
+  **Jiawei Sheng**, Taoyu Su, Xixun Lin, Xiaodong Li and Tingwen Liu.
+  _In Proceedings of **WWW 2026**. (CCF-A, oral 9.4%)_
 - **Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion.** <br>
   **Jiawei Sheng**, Taoyu Su, Weiyi Yang, Linghui Wang, Yongxiu Xu, Tingwen Liu.
   _In Proceedings of **AAAI 2026**. (CCF-A, oral 4.6%)_

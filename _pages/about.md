@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jiawei Sheng is an associate professor and master's supervisor at the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
+Jiawei Sheng is currently an associate professor and master's supervisor at the Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS).
 He received his Ph.D. from the University of Chinese Academy of Sciences (UCAS) in 2023, and was selected for the BAST Youth Talent Support Project, the IIE Outstanding Talent Program (Class B), and the Postdoctoral Fellowship Program (Class C).
 He works on knowledge engineering, natural language processing, and graph data mining, with his main research interest in knowledge augmentation and trustworthy utilization for large language models and agents.
 
@@ -19,6 +19,7 @@ He serves as a committee member of the CIPS Language and Knowledge Computing Spe
 He also serves as a PC member for more than 10 top international conferences and journals, as an AC/SPC for ACL/ARR, AAAI, IJCAI, etc., and as a SAC for COLING, etc.
 As team leader, he led his team to first place and the Technical Innovation Award in the evaluation tasks at CCKS 2020 and 2021.
 He also received the Zhuli Yuehua Outstanding Doctoral Scholarship of CAS and the Outstanding Graduate Award of IIE, among others.
+
 
 # Research Interests
 
@@ -38,12 +39,12 @@ His long-term vision is to build deployable trustworthy AI systems that serve re
 
 # Selected Papers
 
-- **Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion.**<br>
-  **Jiawei Sheng**, Taoyu Su, Xixun Lin, Xiaodong Li and Tingwen Liu.
-  _In Proceedings of **WWW 2026**. (CCF-A, oral 9.4%)_
 - **HyperMem: Hypergraph Memory for Long-Term Conversations.**<br>
   Juwei Yue, Chuanrui Hu, **Jiawei Sheng\***, Zuyi Zhou, Wenyuan Zhang, Tingwen Liu, Li Guo, Yafeng Deng.
   _In Proceedings of **ACL 2026**. (CCF-A)_
+- **Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion.**<br>
+  **Jiawei Sheng**, Taoyu Su, Xixun Lin, Xiaodong Li and Tingwen Liu.
+  _In Proceedings of **WWW 2026**. (CCF-A, oral 9.4%)_
 - **Information-Theoretic Minimal Sufficient Representation for Multi-Domain Knowledge Graph Completion.** <br>
   **Jiawei Sheng**, Taoyu Su, Weiyi Yang, Linghui Wang, Yongxiu Xu, Tingwen Liu.
   _In Proceedings of **AAAI 2026**. (CCF-A, oral 4.6%)_
@@ -123,6 +124,8 @@ He feels great honour to work alongside such talented students:
   - 2025: Shibo Ban (Agent)
   - 2026: Yujie Gu (Agent)
 
+*Note for international applicants: IIE, CAS does not currently admit students through the CAS-ANSO Scholarship program, so he is unable to accept CAS-ANSO applications. Thank you for your understanding.*
+
 # Academic Services
 
 - Committee Member, CCF Natural Language Processing Special Committee.
@@ -133,3 +136,5 @@ He feels great honour to work alongside such talented students:
 - Conference AC/SPC: ACL/ARR, WWW, AAAI, IJCAI, CCL, etc.
 - Conference PC member: NeurIPS, ICML, ICLR, SIGIR, KDD, ACL, WWW, MM, AAAI, etc.
 - Journal Reviewer: TKDE, TOIS, MIR, etc.
+
+
